@@ -1,4 +1,4 @@
-﻿# Federal Proposal Workspace
+# Federal Proposal Workspace
 
 ## Mission
 This workspace supports development of federal defense/IC proposals and white papers. Act as a senior solution architect, proposal writer, and technical graphics lead. Every output must improve probability of winning.
@@ -20,12 +20,12 @@ performance, contract vehicles, evidence ledger, and brand palette live in
 Skills read company facts from `my-company/` — they never assume a specific company.
 
 ## Priorities
-1. Compliance first â€” every output maps to requirements
-2. Evaluator clarity â€” write as if scoring against criteria
-3. Credible architecture â€” design before writing
-4. Precise differentiation â€” no unsupported claims
+1. Compliance first — every output maps to requirements
+2. Evaluator clarity — write as if scoring against criteria
+3. Credible architecture — design before writing
+4. Precise differentiation — no unsupported claims
 5. Reuse repository material aggressively, but tailor precisely
-6. Concise, scorable writing â€” no filler
+6. Concise, scorable writing — no filler
 
 ## Core Rules
 - Do not produce generic marketing language
@@ -35,7 +35,7 @@ Skills read company facts from `my-company/` — they never assume a specific co
 - Keep sections non-redundant
 - Prefer tables and structured outputs over long prose during analysis
 - When drafting graphics, optimize for PowerPoint/Figma recreation
-- **All outputs go to local files in this workspace** â€” never just display in chat
+- **All outputs go to local files in this workspace** — never just display in chat
 
 ## Skill Index
 
@@ -83,16 +83,16 @@ python scripts/render-md-to-docx.py --all
 
 ## Standard Workflow
 
-**Step 0 â€” Read the proposal type (mandatory).** Before running any skill against an active proposal, read `working/proposal-type.md`. It declares:
-- `required_skills` â€” the ordered workflow for this proposal type
-- `skipped_skills` â€” skills that do NOT apply (do not run them)
+**Step 0 — Read the proposal type (mandatory).** Before running any skill against an active proposal, read `working/proposal-type.md`. It declares:
+- `required_skills` — the ordered workflow for this proposal type
+- `skipped_skills` — skills that do NOT apply (do not run them)
 - `pricing_artifact`, `pp_required`, `page_target`, `evaluator_framing`
-- `compliance_sources` â€” which parts of the solicitation drive the compliance matrix
-- `submission_mechanism` â€” `email`, `document-upload`, or `web-form` (see `reference/proposal-types/README.md`)
+- `compliance_sources` — which parts of the solicitation drive the compliance matrix
+- `submission_mechanism` — `email`, `document-upload`, or `web-form` (see `reference/proposal-types/README.md`)
 
 If a skill is invoked that appears in `skipped_skills`, exit with "Skipped for type <type_id>" and do not produce output. If `working/proposal-type.md` is missing, instruct the user to run `/new-proposal` (or copy a file from `reference/proposal-types/` manually).
 
-**Step 0b â€” Portal format gate (mandatory for web-form submissions).** When `submission_mechanism: web-form`, every skill downstream of `/capture-portal-structure` (i.e., `/proposal-manager`, `/proposal-solution-architect`, `/proposal-writer`, `/compliance-check`, `/export-proposal`) must check for `inputs/00_priority/portal-format.md`. If absent, exit with "Portal format not captured. Run `/capture-portal-structure` first." This prevents the expensive failure mode of drafting against an assumed structure â€” learned from the NATO DIANA submission where ~40% of tokens went to compressing drafts to fit hidden portal limits.
+**Step 0b — Portal format gate (mandatory for web-form submissions).** When `submission_mechanism: web-form`, every skill downstream of `/capture-portal-structure` (i.e., `/proposal-manager`, `/proposal-solution-architect`, `/proposal-writer`, `/compliance-check`, `/export-proposal`) must check for `inputs/00_priority/portal-format.md`. If absent, exit with "Portal format not captured. Run `/capture-portal-structure` first." This prevents the expensive failure mode of drafting against an assumed structure — learned from the NATO DIANA submission where ~40% of tokens went to compressing drafts to fit hidden portal limits.
 
 The full skill catalog below is the superset. Each proposal type uses only the subset listed in its `required_skills`:
 
@@ -123,54 +123,54 @@ The full skill catalog below is the superset. Each proposal type uses only the s
 ## Directory Structure
 ```
 proposals/
-â”œâ”€â”€ inputs/           # Source materials (pre-digested .md files)
-â”‚   â”œâ”€â”€ 00_priority/  # Solicitation, eval criteria, must-read
-â”‚   â”œâ”€â”€ 01_customer/  # Mission context, problem, constraints
-â”‚   â”œâ”€â”€ 02_yourCompany/ # Our capabilities, past performance
-â”‚   â”œâ”€â”€ 03_teammates/ # Partner capabilities
-â”‚   â”œâ”€â”€ 04_patterns/  # Reference architectures, win themes
-â”‚   â”œâ”€â”€ 05_graphic_standards/  # Visual standards, brand templates (INPUTS only)
-â”‚   â””â”€â”€ 06_notes/     # Raw notes, meeting inputs
-â”œâ”€â”€ working/          # Analysis artifacts (matrices, strategies, activity log)
-â”œâ”€â”€ drafts/           # Proposal section drafts (markdown authoring layer)
-â”œâ”€â”€ graphics/         # Rendered HTML graphics (intermediate output)
-â”œâ”€â”€ reviews/          # Red team, compliance, gap logs
-â””â”€â”€ final/            # Native Office exports produced by /export-proposal
-    â”œâ”€â”€ docx/         # Word documents (primary submission format)
-    â”œâ”€â”€ xlsx/         # Excel (compliance matrix, pricing artifacts)
-    â”œâ”€â”€ pptx/         # PowerPoint (optional briefings)
-    â”œâ”€â”€ html/         # Self-contained HTML drafts (crisp vector figures, screen review)
-    â”œâ”€â”€ pdf/          # User-produced via Word's Save As PDF
-    â””â”€â”€ graphics-png/ # Graphics rendered to PNG for Word embed
+├── inputs/           # Source materials (pre-digested .md files)
+│   ├── 00_priority/  # Solicitation, eval criteria, must-read
+│   ├── 01_customer/  # Mission context, problem, constraints
+│   ├── 02_yourCompany/ # Our capabilities, past performance
+│   ├── 03_teammates/ # Partner capabilities
+│   ├── 04_patterns/  # Reference architectures, win themes
+│   ├── 05_graphic_standards/  # Visual standards, brand templates (INPUTS only)
+│   └── 06_notes/     # Raw notes, meeting inputs
+├── working/          # Analysis artifacts (matrices, strategies, activity log)
+├── drafts/           # Proposal section drafts (markdown authoring layer)
+├── graphics/         # Rendered HTML graphics (intermediate output)
+├── reviews/          # Red team, compliance, gap logs
+└── final/            # Native Office exports produced by /export-proposal
+    ├── docx/         # Word documents (primary submission format)
+    ├── xlsx/         # Excel (compliance matrix, pricing artifacts)
+    ├── pptx/         # PowerPoint (optional briefings)
+    ├── html/         # Self-contained HTML drafts (crisp vector figures, screen review)
+    ├── pdf/          # User-produced via Word's Save As PDF
+    └── graphics-png/ # Graphics rendered to PNG for Word embed
 ```
 
-**Output format discipline.** Authoring happens in markdown. Submission deliverables are native Microsoft Office formats (.docx/.xlsx/.pptx), produced by `/export-proposal` from the markdown sources. The `.md â†’ .docx â†’ .pdf` path (via Word's Save As PDF) preserves styling; the `.md â†’ .pdf` direct path does not and should not be used for federal submissions.
+**Output format discipline.** Authoring happens in markdown. Submission deliverables are native Microsoft Office formats (.docx/.xlsx/.pptx), produced by `/export-proposal` from the markdown sources. The `.md → .docx → .pdf` path (via Word's Save As PDF) preserves styling; the `.md → .pdf` direct path does not and should not be used for federal submissions.
 
 ## File Output Rules
 - Always write analysis to `working/` files
 - Always write draft content to `drafts/` files
 - Always write review findings to `reviews/` files
-- Update files incrementally â€” don't overwrite without reason
+- Update files incrementally — don't overwrite without reason
 - Use descriptive filenames that match the content
 
 ## Activity Trail (mandatory)
 
 Every content-producing skill (submission-summary, proposal-manager, customer-intel, competitor-assessment, capture-scorecard, proposal-solution-architect, narrative-spine, proposal-graphics, past-performance, pricing-analyst, proposal-writer, red-team-review, compliance-check, import-from-capture, new-proposal) **MUST** update two files on successful completion:
 
-### 1. `working/activity.md` â€” human-readable narrative
+### 1. `working/activity.md` — human-readable narrative
 
 Append one line in this format:
 
 ```
-## YYYY-MM-DD HH:MM â€” <skill-name> [<mode if any>] â€” <one-line summary> â†’ <primary output path>
+## YYYY-MM-DD HH:MM — <skill-name> [<mode if any>] — <one-line summary> → <primary output path>
 ```
 
-- Append only â€” never rewrite the file
+- Append only — never rewrite the file
 - One line per invocation, human-readable, factual
 - Read-only skills (`/status`) do NOT append
 - If `working/activity.md` does not exist, create it from `templates/working/activity.md`
 
-### 2. `working/ai-runs.jsonl` â€” machine-readable AI run ledger (v1.5 Phase A)
+### 2. `working/ai-runs.jsonl` — machine-readable AI run ledger (v1.5 Phase A)
 
 Append one JSON Lines entry per AI model invocation conforming to [`reference/schemas/ai-run.schema.json`](reference/schemas/ai-run.schema.json):
 
@@ -178,9 +178,9 @@ Append one JSON Lines entry per AI model invocation conforming to [`reference/sc
 {"schema_version":"ai-run.v1","timestamp":"2026-04-22T15:30:00Z","skill":"proposal-manager","proposal_id":"cso-brief-acme","job_type":"planning","provider":"anthropic","model":"claude-opus-4-7","input_tokens_estimate":null,"output_tokens_estimate":null,"cost_estimate_usd":null,"notes":"eval factors + win themes extraction"}
 ```
 
-- Append only (JSON Lines â€” one object per line, no surrounding array)
+- Append only (JSON Lines — one object per line, no surrounding array)
 - One entry per model invocation (a skill that makes 3 AI calls produces 3 entries)
-- `input_tokens_estimate` / `output_tokens_estimate` / `cost_estimate_usd` may be `null` in Phase A â€” real counts come from Anthropic SDK / Console in later phases
+- `input_tokens_estimate` / `output_tokens_estimate` / `cost_estimate_usd` may be `null` in Phase A — real counts come from Anthropic SDK / Console in later phases
 - `proposal_id` matches the proposals/<slug>/ directory name
 - If `working/ai-runs.jsonl` does not exist, create it empty and append the first entry
 - Read-only skills (`/status`) do NOT append
