@@ -1,0 +1,88 @@
+{
+  "_replaces": "Autofill profile c7 ported from Lightning Autofill CSV (lastmod 2026-01-23). That profile was retired on 2026-05-27 after working/mras-autofill-audit.md found it was checking 'd - SBA Certified SDB' (false — SpatialGIS is self-cert only) and 'h - SBA Certified HUBZone' (false — not HUBZone) and POLARIS/VETS 2/STARS3 contract vehicles SpatialGIS does not hold. Qualtrics QID sub-IDs are per-survey, not portable; index-based autofill cannot be trusted.",
+  "_consumed_by": "scripts/mras_map_answers.py — reads this canonical truth + per-survey QID definitions (working/mras-discovery/<opp>-qid-definitions.json) and emits the per-survey answer map.",
+
+  "identity": {
+    "POC Email": "kendrick@spatialgisservices.com",
+    "Company Name": "SpatialGIS",
+    "GSA Contract Number": "47QTCA24D00DS",
+    "POC First Name": "Kendrick",
+    "POC Last Name": "Faison",
+    "POC Phone #": "301-442-3914",
+    "Company Website (URLs only)": "https://www.spatialgisservices.com",
+    "UEI #: Unique Entity Identifier": "XE8LEMK77DC9",
+    "CAGE Code": "7RFJ7"
+  },
+
+  "canonical_truth": {
+    "business_size": {
+      "answer": "small",
+      "match_labels": ["s - small business", "small business"]
+    },
+
+    "socioeconomic_indicators": {
+      "_rule": "Per user confirmation 2026-05-27, SpatialGIS holds SBA-certified Small Disadvantaged Business status — select 'd' on GSA MRAS. SAM still shows code 27 (self-cert) as of 2026-05-27; recommend updating SAM businessTypeCode to reflect formal SBA cert so SAM-driven systems pick it up. Do NOT add HUBZone/8(a)/SDVOSB/WOSB or other formal certs — none verified to apply.",
+      "allowed_codes": ["d"],
+      "forbidden_codes": [
+        "h",
+        "8a",
+        "8aS",
+        "w",
+        "wo",
+        "ew",
+        "v",
+        "dv",
+        "to",
+        "ai",
+        "an",
+        "hn"
+      ],
+      "match_label_substrings_for_allowed": ["sba certified small disadvantaged", "small disadvantaged business"]
+    },
+
+    "gsa_contracts_held": {
+      "_rule": "SpatialGIS holds exactly one GSA contract solution applicable to MRAS: the Multiple Award Schedule (MAS) 47QTCA24D00DS. Do NOT select POLARIS, POLARIS WOSB/SDVOSB/HUBZONE, VETS 2, 8A STARS 3, OASIS+, or any GWAC that SpatialGIS does not currently hold.",
+      "allowed_labels": ["Multiple Award Schedule (MAS)", "MAS"],
+      "forbidden_label_substrings": ["POLARIS", "VETS 2", "STARS 3", "STARS3", "OASIS"]
+    },
+
+    "gsa_sin_eligibility": {
+      "_rule": "SpatialGIS MAS SINs: 541370GIS (Geospatial), 518210C (Cloud), 54151S (IT Professional Services), 541515 (Computer Services), 541611 (Management Consulting). When the survey offers SIN-level options, select only those that SpatialGIS holds AND that match the requirement. NEVER select POLARIS/VETS/STARS sub-pools.",
+      "held_sins": ["541370GIS", "518210C", "54151S", "541515", "541611"],
+      "forbidden_label_substrings": ["POLARIS", "VETS 2", "STARS 3", "STARS3"]
+    },
+
+    "commercial_item_far_part_12": {
+      "answer": "Yes",
+      "_note": "SpatialGIS services are offered commercially under the GSA MAS; FAR Part 12 Subpart 12.1 applies."
+    },
+
+    "naics_self_qualified": {
+      "_rule": "SpatialGIS is small business under all of these SAM-registered NAICS. Pick whichever the survey offers that matches the agency's intended NAICS for the requirement (usually stated in the DRD).",
+      "registered_naics": [
+        "518210", "541360", "541370", "541430", "541511", "541512", "541519",
+        "541611", "541618", "541690", "541713", "541990", "611420", "611430"
+      ]
+    },
+
+    "subcontracting_intent_default": {
+      "answer": "None",
+      "_note": "Default to None unless the per-opportunity profile overrides. SpatialGIS prime-only delivery on MAS-class requirements is the norm; teaming is opportunity-specific."
+    },
+
+    "lead_time_default": {
+      "answer": "30 days or less",
+      "_note": "Standard MAS task-order lead time. Override per opportunity if the DRD indicates longer ramp."
+    },
+
+    "would_submit_quote_default": {
+      "answer": "Yes",
+      "_note": "If we're answering an MRAS at all, we're indicating interest in quoting. If the per-opportunity assessment is No, drop the opportunity from the auto-submittable list instead."
+    }
+  },
+
+  "_per_opportunity_overrides_schema": "Each opportunity profile lives at working/mras-answers/<opportunity-id>.json and contains: { survey_url, qid_definitions_path, capability_statement_path, capability_questions_answers: { QID14_1: 'Yes'|'No'|'See capability statement', ... }, naics_selection: ['541519'], sin_selection: ['54151S','518210C'], subcontracting_override?, lead_time_override?, capability_statement_explainer? } The mapper combines canonical_truth + per-opportunity overrides + the survey's QID definitions to produce the final per-survey answer map.",
+
+  "OK_TO_SUBMIT": false,
+  "_OK_TO_SUBMIT_note": "Reset 2026-05-27 (round 3). OSW NGA + USAF CIAS attempted, Qualtrics rejected both on validation (NAICS mismatch + capability inconsistency). 4 successful submissions stand: HUD OIG, DOJ OJP, GSA FMCS, OSW WHS."
+}
