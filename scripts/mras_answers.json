@@ -1,0 +1,126 @@
+{
+  "_comment": "SpatialGIS MRAS company facts and authorization file. Updated 2026-05-27.",
+
+  "ok_to_submit": true,
+  "ok_to_submit_granted": "2026-05-27",
+  "ok_to_submit_note": "Blanket authorization granted by Kendrick. Applies to all MRAS RFIs that pass guardrails. Does not reset after each run.",
+
+  "guardrails": {
+    "block_if_naics_not_held": true,
+    "block_if_sin_not_held_and_no_teaming": true,
+    "block_if_teaming_required_and_no_partner_named": true,
+    "block_if_cmmc_l2_certified_required": true,
+    "block_if_fedramp_product_required_solo": true,
+    "block_if_past_due": true,
+    "never_claim_hubzone": true,
+    "never_claim_8a": true,
+    "never_claim_sdvosb": true,
+    "never_claim_wosb": true,
+    "never_claim_hacs_sin": true,
+    "never_claim_heal_sin": true,
+    "never_claim_518210erm": true,
+    "never_claim_polaris": true,
+    "never_claim_vets2": true,
+    "never_claim_stars3": true,
+    "never_claim_oasis_plus": true,
+    "never_claim_alliant": true
+  },
+
+  "company": {
+    "legal_name": "SpatialGIS, LLC",
+    "dba": "SpatialGIS",
+    "uei": "XE8LEMK77DC9",
+    "cage": "7RFJ7",
+    "sam_active": true,
+    "website": "https://www.spatialgisservices.com",
+    "primary_contact_email": "kendrick@spatialgisservices.com",
+    "business_size": "Small Business",
+    "socioeconomic": {
+      "sdb": true,
+      "sdb_cert_type": "d",
+      "hubzone": false,
+      "eight_a": false,
+      "sdvosb": false,
+      "vosb": false,
+      "wosb": false,
+      "edwosb": false
+    },
+    "contract_vehicles": [
+      {
+        "name": "GSA Multiple Award Schedule (MAS)",
+        "contract_number": "47QTCA24D00DS",
+        "sins": ["54151S"],
+        "active": true
+      }
+    ],
+    "naics_primary": "541370",
+    "naics_all": ["541370", "541511", "541512", "541519"],
+    "certifications": {
+      "cmmc_level": "aligned",
+      "cmmc_certified": false,
+      "fedramp_authorized": false,
+      "iso_9001": false,
+      "iso_27001": false
+    }
+  },
+
+  "capability_keywords_pass": [
+    "GIS", "geospatial", "geographic information", "spatial", "mapping",
+    "ArcGIS", "QGIS", "ESRI", "geodatabase", "PostGIS", "shapefile",
+    "remote sensing", "LiDAR", "satellite imagery", "aerial imagery",
+    "location intelligence", "spatial analytics", "cartography",
+    "geospatial data management", "feature services", "web map",
+    "NGA", "geospatial intelligence", "GEOINT", "imagery analysis",
+    "digital elevation", "terrain analysis", "land cover", "land use",
+    "address geocoding", "routing", "network analysis",
+    "GIS professional services", "GIS support services", "GIS analyst",
+    "GIS developer", "GIS engineer", "GIS consultant"
+  ],
+
+  "capability_keywords_maybe": [
+    "IT professional services", "information technology services",
+    "data management", "database administration", "data analytics",
+    "software development", "application development", "systems integration",
+    "cloud services", "AWS", "Azure", "cloud migration",
+    "cybersecurity", "information assurance", "FISMA", "RMF",
+    "data visualization", "dashboard", "reporting",
+    "program support", "technical support", "IT support",
+    "GPS", "navigation", "positioning"
+  ],
+
+  "capability_keywords_decline": [
+    "weapons integration", "SAM director", "LVC", "live virtual constructive",
+    "range training officer", "tactical terminal", "avionics", "onboard flight processor",
+    "legal services", "paralegal", "attorney", "law clerk", "legal counsel",
+    "administrative support", "front desk", "travel support", "executive assistant",
+    "Fortinet", "firewall maintenance", "network appliance",
+    "IBM p-series", "hardware management console", "IBM software maintenance",
+    "Oracle maintenance", "Oracle license renewal", "Oracle Customer Success",
+    "Appian license", "Appian platform",
+    "EEO case management", "iCompliant", "HR software",
+    "PREA", "Prison Rape Elimination",
+    "healthcare IT", "clinical", "EMR", "EHR", "patient records",
+    "financial management", "USSGL", "treasury",
+    "custodial services", "janitorial", "facilities",
+    "staffing augmentation for non-IT roles"
+  ],
+
+  "default_answers": {
+    "naics_selection": "541370",
+    "small_business": true,
+    "sdb": true,
+    "hubzone": false,
+    "eight_a": false,
+    "sdvosb": false,
+    "wosb": false,
+    "lead_time_weeks": 4,
+    "subcontracting_plan": false,
+    "cage_code": "7RFJ7",
+    "uei": "XE8LEMK77DC9",
+    "contract_vehicle": "GSA MAS 47QTCA24D00DS",
+    "capability_website": "https://www.spatialgisservices.com",
+    "point_of_contact_name": "Kendrick",
+    "point_of_contact_email": "kendrick@spatialgisservices.com",
+    "point_of_contact_phone": ""
+  }
+}
