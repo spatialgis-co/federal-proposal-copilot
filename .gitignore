@@ -15,6 +15,13 @@ proposals/
 # (Use working/* + negation so the scaffold .gitkeep can be tracked.)
 working/*
 !working/.gitkeep
+# Cross-proposal activity log + AI run ledger — operational, not company-sensitive
+!working/activity.md
+!working/ai-runs.jsonl
+# MRAS pipeline operational files — inbox manifests and submission records
+!working/mras-inbox/
+!working/mras-runs/
+# MRAS capability drafts, survey QIDs, and answer files contain company IP — keep gitignored
 
 # Calibration corpus per-proposal content — auto-drafts, final submissions,
 # edit notes contain real proposal text, customer info, and IP. Keep the

@@ -1,0 +1,153 @@
+[
+  {
+    "thread_id": "19e9a2410a714c10",
+    "subject": "POC Information: HHS - Enterprise Operations and Efficiency BPA - MRAS",
+    "date": "2026-06-05T23:35:14Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_confirmation",
+    "survey_url": null,
+    "due_date": null,
+    "agency": "HHS",
+    "slug": "poc-information-hhs-enterprise-operations-and-efficiency-bpa",
+    "description": "Post-submission POC information email. No survey URL. Agency POC: heather.greul@cms.hhs.gov. GSA POC: melissa.ramos@gsa.gov.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19e9a108d69d73aa",
+    "subject": "POC Information: DOS - TrustAI in Southeast Asia - Market Research",
+    "date": "2026-06-05T23:13:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_confirmation",
+    "survey_url": null,
+    "due_date": null,
+    "agency": "DOS",
+    "slug": "poc-information-dos-trustai-in-southeast-asia-market-research",
+    "description": "Post-submission POC information email. No survey URL. Agency POC: HessBR@state.gov. GSA POC: mark.king@gsa.gov.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19e98be6121d7a05",
+    "subject": "DOJ FBI - Data Sharing Services Unit Program Support - MRAS",
+    "date": "2026-06-05T17:04:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_1EQyWZDkPl92FdY",
+    "survey_id": "SV_1EQyWZDkPl92FdY",
+    "due_date": "2026-06-15",
+    "agency": "DOJ FBI",
+    "slug": "doj-fbi-data-sharing-services-unit-program-support",
+    "description": "Support services in data science and analytics, business consulting, strategic planning, content management, operational engagement, systems integration and engineering, and operational support for FBI CJIS DSSU.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "triage": "PASS",
+    "triage_reason": "Core capability keyword(s): ['NGA']"
+  },
+  {
+    "thread_id": "19e9855af8ea0589",
+    "subject": "USAF - Fire & Emergency Information Management - MRAS",
+    "date": "2026-06-05T15:10:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3VjVTuII7tg6BcW",
+    "survey_id": "SV_3VjVTuII7tg6BcW",
+    "due_date": "2026-06-26",
+    "agency": "USAF",
+    "slug": "usaf-fire-emergency-information-management",
+    "description": "Air Force Fire and Emergency Services looking for a COTS product as an Information Management System. High-Level System requirements mandatory; preferred capabilities optional.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19e973d6ceddbd19",
+    "subject": "Reminder: DOC NIST - Federal Credit, Portfolio, and Financial Mgmt. - MRAS",
+    "date": "2026-06-05T10:03:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_1Tdwj33LltKriC2",
+    "survey_id": "SV_1Tdwj33LltKriC2",
+    "due_date": "2026-06-10",
+    "agency": "DOC NIST",
+    "slug": "doc-nist-federal-credit-portfolio-and-financial-mgmt",
+    "description": "CHIPS Program Office (CPO) within NIST requires programmatic support for Federal credit, portfolio management, and financial management support services.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['financial management']"
+  },
+  {
+    "thread_id": "19e973bea8b61c52",
+    "subject": "Reminder: DHS CBP - Mobile Device Management Solution - MRAS",
+    "date": "2026-06-05T10:01:43Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5v7L6NMOeQZV7am",
+    "survey_id": "SV_5v7L6NMOeQZV7am",
+    "due_date": "2026-06-18",
+    "agency": "DHS CBP",
+    "slug": "dhs-cbp-mobile-device-management-solution",
+    "description": "Mobile Device Management system solution including advanced technical support and migration services from current environment. Spreadsheet with CBP questions attached.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['PREA']"
+  },
+  {
+    "thread_id": "19e973a7738dbc30",
+    "subject": "Reminder: Army - Project Management - Symphony Installation - MRAS",
+    "date": "2026-06-05T10:00:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_eWd3gcvfgDpYikS",
+    "survey_id": "SV_eWd3gcvfgDpYikS",
+    "due_date": "2026-06-10",
+    "agency": "Army",
+    "slug": "army-project-management-symphony-installation",
+    "description": "Remote advisory consulting to guide staff through installing the Symphony ILS application and migrating its ILS/database to a STIG-hardened server.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
