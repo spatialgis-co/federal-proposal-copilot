@@ -22,6 +22,12 @@ from datetime import date, datetime, timezone
 from pathlib import Path
 
 
+def _word_boundary_match(text_lower: str, keyword_lower: str) -> bool:
+    # Use word boundaries for short acronyms to prevent substring false positives
+    # (e.g. "NGA" inside "engagement", "GIS" inside "logistics")
+    return bool(re.search(r"\b" + re.escape(keyword_lower) + r"\b", text_lower))
+
+
 def load_answers() -> dict:
     p = Path("scripts/mras_answers.json")
     if p.exists():
@@ -41,7 +47,7 @@ def parse_due_date(body: str) -> date | None:
 
 def keywords_match(text: str, keywords: list[str]) -> list[str]:
     text_lower = text.lower()
-    return [kw for kw in keywords if kw.lower() in text_lower]
+    return [kw for kw in keywords if _word_boundary_match(text_lower, kw.lower())]
 
 
 def classify(thread: dict, answers: dict, today: date) -> dict:
