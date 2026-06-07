@@ -1,0 +1,92 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '0 6 * * *'
+
+jobs:
+  smoke-test:
+    name: Smoke Test (273+ framework checks)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make smoke-test executable
+        run: chmod +x scripts/smoke-test.sh
+
+      - name: Run smoke test
+        run: bash scripts/smoke-test.sh
+
+  skills-index-lint:
+    name: Skills Index Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Build skills index and check for errors
+        run: python scripts/build-skills-index.py
+
+  proposal-types-lint:
+    name: Proposal Types Registry Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Verify all proposal type files resolve
+        run: |
+          python - <<'EOF'
+          import sys
+          from pathlib import Path
+          types_dir = Path("reference/proposal-types")
+          if not types_dir.exists():
+              print(f"ERROR: {types_dir} not found")
+              sys.exit(1)
+          type_files = list(types_dir.glob("*.md"))
+          if not type_files:
+              print("ERROR: No proposal type files found")
+              sys.exit(1)
+          empties = [str(f) for f in type_files if not f.read_text(encoding="utf-8").strip()]
+          if empties:
+              print("EMPTY FILES: " + ", ".join(empties))
+              sys.exit(1)
+          print(f"OK: {len(type_files)} proposal type files verified")
+          EOF
+
+  mras-scripts-lint:
+    name: MRAS Scripts Lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Syntax-check MRAS Python scripts
+        run: |
+          failed=0
+          for f in scripts/mras_*.py; do
+            echo "Checking $f..."
+            python -m py_compile "$f" && echo "  OK" || { echo "  FAIL: $f"; failed=1; }
+          done
+          [ $failed -eq 0 ] || exit 1
+          echo "All MRAS scripts pass syntax check."
