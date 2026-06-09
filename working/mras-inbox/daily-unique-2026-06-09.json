@@ -1,0 +1,92 @@
+[
+  {
+    "thread_id": "19ea991faa009921",
+    "subject": "USAF - DAF Damage Assessment Management Office (DAMO) - MRAS",
+    "date": "2026-06-08T23:29:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "slug": "usaf-daf-damage-assessment-management-office-damo"
+  },
+  {
+    "thread_id": "19ea98da807b961c",
+    "subject": "USAF - USAFA Donor Funds Management IT Ecosystem - MRAS",
+    "date": "2026-06-08T23:24:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "slug": "usaf-usafa-donor-funds-management-it-ecosystem"
+  },
+  {
+    "thread_id": "19ea903ccbe53575",
+    "subject": "DOI - Secure AI Assistant for Final Agency Decisions (FAD) - MRAS",
+    "date": "2026-06-08T20:54:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "slug": "doi-secure-ai-assistant-for-final-agency-decisions-fad"
+  },
+  {
+    "thread_id": "19ea82034dd3c4d1",
+    "subject": "Response Received: USAF - Fire & Emergency Information Management - MRAS",
+    "date": "2026-06-08T16:45:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "snippet": "Response Confirmation ID: SV_3VjVTuII7tg6BcW-R_GmJjA9MCctonVHV Thank you for responding to this Request for Information.",
+    "slug": "usaf-fire-emergency-information-management"
+  },
+  {
+    "thread_id": "19ea80b0cb0e16f5",
+    "subject": "POC Information: USACE - MPBI Data Analytics Support - MRAS",
+    "date": "2026-06-08T16:22:36Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_followup",
+    "snippet": "GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-usace-mpbi-data-analytics-support"
+  },
+  {
+    "thread_id": "19ea7e2b253ddf09",
+    "subject": "Response Received: DOJ FBI - Data Sharing Services Unit Program Support - MRAS",
+    "date": "2026-06-08T15:38:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "snippet": "Response Confirmation ID: SV_1EQyWZDkPl92FdY-R_GoH1hDXLolaW9bW Thank you for responding to this Request for Information.",
+    "slug": "doj-fbi-data-sharing-services-unit-program-support"
+  },
+  {
+    "thread_id": "19ea6b0a1b0149bc",
+    "subject": "Reminder: Army - Project Management - Symphony Installation - MRAS",
+    "date": "2026-06-08T10:03:50Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "army-project-management-symphony-installation"
+  },
+  {
+    "thread_id": "19ea6af6238bf67c",
+    "subject": "Reminder: DHS CISA - IT Research and Support Services - MRAS",
+    "date": "2026-06-08T10:02:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "dhs-cisa-it-research-and-support-services"
+  },
+  {
+    "thread_id": "19ea6ae20a244b88",
+    "subject": "Reminder: DHS CBP - Information Technology Refresh Program (ITRP) Sup - MRAS",
+    "date": "2026-06-08T10:01:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "dhs-cbp-information-technology-refresh-program-itrp-sup"
+  },
+  {
+    "thread_id": "19ea6ad429e0264d",
+    "subject": "Reminder: ED - Update to Projections of Education Statistics - MRAS",
+    "date": "2026-06-08T10:00:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "ed-update-to-projections-of-education-statistics"
+  }
+]
