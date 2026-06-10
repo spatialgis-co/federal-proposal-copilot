@@ -1,0 +1,123 @@
+[
+  {
+    "thread_id": "19eaece38ea6e29d",
+    "subject": "DOC NIST - Gaithersburg, MD Data Center Co-Location - MRAS",
+    "date": "2026-06-09T23:53:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "The Computer Facility Services Team (CFST) is in need of data center co located within 50 miles of the NIST Gaithersburg, MD campus. The facility must be able to support High Performance Computing resources up to three racks with a minimum capacity of 250kW.",
+    "slug": "doc-nist-gaithersburg-md-data-center-co-location",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eaeb976bc905a8",
+    "subject": "HHS - Program Monitoring and Evaluation Support Services - MRAS",
+    "date": "2026-06-09T23:30:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "To assess progress, effectiveness, efficiency and impact of resources. This supports the establishment and enhancement of sustainable public health capacity to address health threats impacting Americans and supports public health outbreak prevention, detection & response systems.",
+    "slug": "hhs-program-monitoring-and-evaluation-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eae3098d42aa68",
+    "subject": "USAF - iPad Air MIL-STD-(810/461) Testing - MRAS",
+    "date": "2026-06-09T21:01:08Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "Candidate iOS devices for HQ AFRC HERO testing must meet Military Standard Testing, MIL-STD-810H (explosive atmosphere/decompression, thermal shock/limits) and MIL-STD-461H (emissions RE102/CE102, susceptibility RS103/CS101/CS114-116).",
+    "slug": "usaf-ipad-air-mil-std-810-461-testing",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eadcfccc45828c",
+    "subject": "Response Received: USAF - USAFA Donor Funds Management IT Ecosystem - MRAS",
+    "date": "2026-06-09T19:15:35Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "snippet": "Response Confirmation ID: SV_cSUU0XStCTYfVGK-R_GIEhXWladDwzFYq Thank you for responding to this Request for Information.",
+    "slug": "usaf-usafa-donor-funds-management-it-ecosystem",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ead31d4ec7b56c",
+    "subject": "USMC - MCSC - Software License and On-Site support - MRAS",
+    "date": "2026-06-09T16:23:04Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "snippet": "Procurement of 3 separate software licenses to include maintenance, training and support.",
+    "slug": "usmc-mcsc-software-license-and-on-site-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eabd8e31778df0",
+    "subject": "Reminder: DHS CBP - Oracle Cloud Infrastructure  - MRAS",
+    "date": "2026-06-09T10:05:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "dhs-cbp-oracle-cloud-infrastructure",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eabd6e2bf67008",
+    "subject": "Reminder: DOI - Secure AI Assistant for Final Agency Decisions (FAD) - MRAS",
+    "date": "2026-06-09T10:03:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "doi-secure-ai-assistant-for-final-agency-decisions-fad",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eabd6367ad6505",
+    "subject": "Reminder: HHS NLM - Integrated Research Library - MRAS",
+    "date": "2026-06-09T10:02:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "hhs-nlm-integrated-research-library",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eabd6345231ea3",
+    "subject": "Reminder: USAF - 56 RMO Weapons Integration SME - MRAS",
+    "date": "2026-06-09T10:02:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "usaf-56-rmo-weapons-integration-sme",
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['weapons integration']"
+  },
+  {
+    "thread_id": "19eabd5f30ea8bb9",
+    "subject": "Reminder: DOC NIST - Federal Credit, Portfolio, and Financial Mgmt. - MRAS",
+    "date": "2026-06-09T10:02:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "doc-nist-federal-credit-portfolio-and-financial-mgmt",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eabd4b7ace65f2",
+    "subject": "Reminder: USACE - RCM Training and Pilot Study - MRAS",
+    "date": "2026-06-09T10:01:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI",
+    "slug": "usace-rcm-training-and-pilot-study",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
