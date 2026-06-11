@@ -1,0 +1,53 @@
+[
+  {
+    "thread_id": "19eb0fc68b38bf26",
+    "subject": "Reminder: USMC - MCSC - Software License and On-Site support - MRAS",
+    "date": "2026-06-10T10:02:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "description": "Procurement of 3 separate software licenses to include maintenance, training and support."
+  },
+  {
+    "thread_id": "19eb0fc4336bbfae",
+    "subject": "Reminder: HHS - Program Monitoring and Evaluation Support Services - MRAS",
+    "date": "2026-06-10T10:02:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "description": "To assess progress, effectiveness, efficiency and impact of resources. This supports the establishment and enhancement of sustainable public health capacity to address health threats impacting Americans and supports public health outbreak prevention, detection and response systems."
+  },
+  {
+    "thread_id": "19eb0fbda0a4b348",
+    "subject": "Reminder: DOC NIST - Federal Credit, Portfolio, and Financial Mgmt. - MRAS",
+    "date": "2026-06-10T10:02:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "description": "Federal Credit, Portfolio, and Financial Management services support for DOC NIST."
+  },
+  {
+    "thread_id": "19eb0fa3b5296244",
+    "subject": "Reminder: DHS CBP - Information Technology Refresh Program (ITRP) Sup - MRAS",
+    "date": "2026-06-10T10:00:14Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "description": "In support of CBP's implementation of comprehensive lifecycle management and modernization of Enterprise technology assets, the contractor shall provide Program Management, Storefront Capability, Planning / Lifecycle Management, Hardware Procurement Assistance, Asset Management Assistance, Hardware Preparation for Deployment, Evaluation / Process Improvement, and Infrastructure and Endpoint Management support services. The contractor shall perform these support services for desktop, laptop, and non-cellular tablet devices with options also for peripherals, network devices, and mobile devices. CBP estimates that approximately 24,700 end-user devices would be replaced annually.",
+    "due_date": "2026-06-18",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2t8nPOH7txaVaRw",
+    "survey_id": "SV_2t8nPOH7txaVaRw"
+  },
+  {
+    "thread_id": "19eb0f9d23fa1d91",
+    "subject": "Reminder: DHS CISA - IT Research and Support Services - MRAS",
+    "date": "2026-06-10T10:00:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "description": "Agency requires licensed access for seven (7) users to an existing online research database that provides insight into spectrum of IT products, services, processes, metrics, and roles/functions. Up to seven (7) licenses for executive-level research/advice on CTO/CIO-level challenges, unbiased insight.",
+    "due_date": "2026-06-12",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9vRIeIONIz7sgzY",
+    "survey_id": "SV_9vRIeIONIz7sgzY"
+  }
+]
