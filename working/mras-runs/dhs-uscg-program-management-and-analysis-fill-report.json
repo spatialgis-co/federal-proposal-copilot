@@ -1,0 +1,16 @@
+{
+  "slug": "dhs-uscg-program-management-and-analysis",
+  "survey_id": "SV_3EGTKhYQc0HcFE2",
+  "response_id": "R_GCFkAX9l4HvHXZD",
+  "submitted": true,
+  "submitted_by": "Manual (Kendrick)",
+  "submitted_date": "2026-06-12",
+  "confirmation_thread_id": "19ebb9762e1e4ad1",
+  "agency": "DHS / USCG",
+  "title": "DHS USCG - Program Management and Analysis",
+  "naics_selected": ["541611"],
+  "sin_selected": ["541611", "10101", "60101", "10213", "60213"],
+  "socioeconomic": "d",
+  "due_date": "2026-06-18",
+  "notes": "PM, Strategic Planning, Business Transformation, Change Mgmt, Data/IT Architecture, System Engineering Lifecycle, Owners Rep, Governance, Analytical Services, Real Property. Was MAYBE on 06-12 queue; Kendrick submitted manually 2026-06-12. Confirmation received same day. Prior pipeline slug: dhs-uscg-program-management-and-analysis."
+}

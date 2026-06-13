@@ -1,0 +1,16 @@
+{
+  "slug": "doi-secure-ai-assistant-for-final-agency-decisions-fad",
+  "survey_id": "SV_2t0C2zFWmiTg7hY",
+  "response_id": "R_GDNv5mvHN2ZGcSN",
+  "submitted": true,
+  "submitted_by": "Manual (Kendrick)",
+  "submitted_date": "2026-06-12",
+  "confirmation_thread_id": "19ebb9d846c8e2f6",
+  "agency": "DOI / OCR / OCIO",
+  "title": "DOI - Secure AI Assistant for Final Agency Decisions (FAD)",
+  "naics_selected": ["518210"],
+  "sin_selected": ["54151S"],
+  "socioeconomic": "d",
+  "due_date": "2026-06-17",
+  "notes": "Microsoft Power Platform, Azure AI services, government IT delivery, O&M for FAD AI Assistant. SpatialGIS is active DOI delivery partner via DOI FCHS2 MA-IDIQ. Kendrick submitted manually 2026-06-12. Confirmation received same day."
+}

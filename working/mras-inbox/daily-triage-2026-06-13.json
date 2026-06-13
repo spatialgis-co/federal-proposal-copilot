@@ -1,0 +1,83 @@
+[
+  {
+    "thread_id": "19ebd14862e8bbd2",
+    "subject": "DHS USCG - Boating Safety Public Health Effort - MRAS",
+    "date": "2026-06-12T18:24:59Z",
+    "type": "new_rfi",
+    "slug": "dhs-uscg-boating-safety-public-health-effort",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebcafdb2a99f1f",
+    "subject": "DOE - Office of Secure Transportation Logistics - MRAS",
+    "date": "2026-06-12T16:35:00Z",
+    "type": "new_rfi",
+    "slug": "doe-office-of-secure-transportation-logistics",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb9df07c7b856",
+    "subject": "Response Received: USAF - DAF Damage Assessment Management Office (DAMO) - MRAS",
+    "date": "2026-06-12T11:35:49Z",
+    "type": "confirmation",
+    "slug": "usaf-daf-damage-assessment-management-office-damo",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb9d846c8e2f6",
+    "subject": "Response Received: DOI - Secure AI Assistant for Final Agency Decisions (FAD) - MRAS",
+    "date": "2026-06-12T11:35:21Z",
+    "type": "confirmation",
+    "slug": "doi-secure-ai-assistant-for-final-agency-decisions-fad",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb9762e1e4ad1",
+    "subject": "Response Received: DHS - Program Management and Analysis - MRAS",
+    "date": "2026-06-12T11:28:39Z",
+    "type": "confirmation",
+    "slug": "dhs-program-management-and-analysis",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb4a24b7b7e8b",
+    "subject": "Reminder: USMC - MCSC - Software License and On-Site support - MRAS",
+    "date": "2026-06-12T10:03:50Z",
+    "type": "reminder",
+    "slug": "usmc-mcsc-software-license-and-on-site-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb4a07f6ec6f9",
+    "subject": "Reminder: HHS - Program Monitoring and Evaluation Support Services - MRAS",
+    "date": "2026-06-12T10:03:48Z",
+    "type": "reminder",
+    "slug": "hhs-program-monitoring-and-evaluation-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb487e193e56a",
+    "subject": "Reminder: DOC NIST - Gaithersburg, MD Data Center Co-Location - MRAS",
+    "date": "2026-06-12T10:01:46Z",
+    "type": "reminder",
+    "slug": "doc-nist-gaithersburg-md-data-center-co-location",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ebb480dfcf2b77",
+    "subject": "Reminder: GSA OGP - Phishing Resistant Authenticator - MRAS",
+    "date": "2026-06-12T10:01:39Z",
+    "type": "reminder",
+    "slug": "gsa-ogp-phishing-resistant-authenticator",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
