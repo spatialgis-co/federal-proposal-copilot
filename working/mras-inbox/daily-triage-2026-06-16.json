@@ -1,0 +1,92 @@
+[
+  {
+    "thread_id": "19ecddca2e333c92",
+    "subject": "DOT - Economic Development Oversight Support - MRAS",
+    "date": "2026-06-16T00:37:26Z",
+    "type": "new_rfi",
+    "slug": "dot-economic-development-oversight-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecdafd1bfbec92",
+    "subject": "USAF - Vehicular Portable Scales and Cargo Measuring System - MRAS",
+    "date": "2026-06-15T23:48:26Z",
+    "type": "new_rfi",
+    "slug": "usaf-vehicular-portable-scales-and-cargo-measuring-system",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecdacce99ffc91",
+    "subject": "NMB - DUO/EID PIV Multi-Factor Authentication Support - MRAS",
+    "date": "2026-06-15T23:45:11Z",
+    "type": "new_rfi",
+    "slug": "nmb-duo-eid-piv-multi-factor-authentication-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecda85d4cfc19f",
+    "subject": "DOC NIST - Boulder, CO Data Center Co-Location - MRAS",
+    "date": "2026-06-15T23:40:10Z",
+    "type": "new_rfi",
+    "slug": "doc-nist-boulder-co-data-center-co-location",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecc2cf8eb5d87a",
+    "subject": "POC Information: USAF - Fire & Emergency Information Management - MRAS",
+    "date": "2026-06-15T16:45:59Z",
+    "type": "confirmation",
+    "slug": "poc-information-usaf-fire-emergency-information-management",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecbefd0d90de91",
+    "subject": "POC Information: DOJ FBI - Data Sharing Services Unit Program Support - MRAS",
+    "date": "2026-06-15T15:39:11Z",
+    "type": "confirmation",
+    "slug": "poc-information-doj-fbi-data-sharing-services-unit-program-support",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "19ecabeeb1366b48",
+    "subject": "Reminder: DOE - Office of Secure Transportation Logistics - MRAS",
+    "date": "2026-06-15T10:05:51Z",
+    "type": "reminder",
+    "slug": "doe-office-of-secure-transportation-logistics",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecabee4f55f7e5",
+    "subject": "Reminder: HHS - Program Monitoring and Evaluation Support Services - MRAS",
+    "date": "2026-06-15T10:05:50Z",
+    "type": "reminder",
+    "slug": "hhs-program-monitoring-and-evaluation-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecabcafc3e70d9",
+    "subject": "Reminder: DOC NIST - Gaithersburg, MD Data Center Co-Location - MRAS",
+    "date": "2026-06-15T10:03:37Z",
+    "type": "reminder",
+    "slug": "doc-nist-gaithersburg-md-data-center-co-location",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ecabaa3c9a6613",
+    "subject": "Reminder: DHS CBP - Apache ActiveMQ Escalation Support Services - MRAS",
+    "date": "2026-06-15T10:01:22Z",
+    "type": "reminder",
+    "slug": "dhs-cbp-apache-activemq-escalation-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
