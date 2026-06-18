@@ -1,0 +1,12 @@
+{
+  "opportunity_id": "doj-atf-hrpd-modernized-case-management-system",
+  "slug": "doj-atf-hrpd-modernized-case-management-system",
+  "submitted": true,
+  "submitted_date": "2026-06-17",
+  "submitted_by": "pipeline-or-manual",
+  "notes": "Confirmation received 2026-06-17T21:31:39Z. Confirmation ID: SV_dnjUwOGC9SfzzUO-R_G6YKAGL7aCIjY53. RFI arrived 2026-06-17T17:03:39Z (post-morning-run). Survey: SV_dnjUwOGC9SfzzUO. Due 2026-06-19. Scope: ATF HRPD legacy HR system modernization — web app, responsive, platform agnostic. Triage note: 'HR software' in decline keywords; submission source unclear (no pipeline fill-path log). Flagged for Kendrick review.",
+  "subject": "DOJ ATF - HRPD modernized case management system - MRAS",
+  "agency": "DOJ / Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+  "due_date": "2026-06-19",
+  "survey_id": "SV_dnjUwOGC9SfzzUO"
+}
