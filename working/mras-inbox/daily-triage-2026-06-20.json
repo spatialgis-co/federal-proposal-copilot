@@ -1,0 +1,41 @@
+[
+  {
+    "thread_id": "19edfaabc28761b4",
+    "subject": "POC Information: DOI - Secure AI Assistant for Final Agency Decisions (FAD) - MRAS",
+    "date": "2026-06-19T11:36:08Z",
+    "type": "poc_confirmation",
+    "slug": "poc-information-doi-secure-ai-assistant-for-final-agency-decisions-fad",
+    "survey_url": null,
+    "due_date": null,
+    "description": "Post-submission POC confirmation. Agency Point of Contact: karyn_perkins@ios.doi.gov. No GSA POC provided.",
+    "snippet": "GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under them.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19edfaa603df88ea",
+    "subject": "POC Information: USAF - DAF Damage Assessment Management Office (DAMO) - MRAS",
+    "date": "2026-06-19T11:35:44Z",
+    "type": "poc_confirmation",
+    "slug": "poc-information-usaf-daf-damage-assessment-management-office-damo",
+    "survey_url": null,
+    "due_date": null,
+    "description": "Post-submission POC confirmation. Agency Point of Contact: jacob.white.15@us.af.mil. GSA POC: cynthia.watkins@gsa.gov.",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under them.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19edfa3e8b345593",
+    "subject": "POC Information: DHS - Program Management and Analysis - MRAS",
+    "date": "2026-06-19T11:28:41Z",
+    "type": "poc_confirmation",
+    "slug": "poc-information-dhs-program-management-and-analysis",
+    "survey_url": null,
+    "due_date": null,
+    "description": "Post-submission POC confirmation. Agency Point of Contact: takira.m.floyd@uscg.mil (USCG). GSA POC: craigs.thomas@gsa.gov.",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under them.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
