@@ -1,0 +1,13 @@
+{
+  "opportunity_id": "navy-navsea-contract-support-services",
+  "slug": "navy-navsea-contract-support-services",
+  "submitted": true,
+  "submitted_date": "2026-06-23",
+  "submitted_by": "automated-prior-run",
+  "survey_id": "SV_5zOJoHVYpg7fA3A",
+  "confirmation_received": "2026-06-23T00:28:46Z",
+  "subject": "Navy - NAVSEA - Contract Support Services - MRAS",
+  "agency": "Navy / NAVSEA",
+  "due_date": "2026-06-29",
+  "notes": "Response confirmation received 2026-06-23T00:28:46Z (Confirmation ID: SV_5zOJoHVYpg7fA3A-R_Gm8YDMS4kLQbm84). Submitted by an automated run between 2026-06-22T18:37Z (RFI arrival) and 2026-06-23T00:28Z (confirmation). No fill report existed from prior session — stub created 2026-06-23 to prevent future dedup re-processing. ⚠️ FIT CONCERN: Scope is procurement advisory (source selection, FAR/DFARS compliance, contract administration) — not core SpatialGIS GIS/IT capability. Triage classification would have been DECLINE (no keyword match) or MAYBE (program support). Kendrick should verify this submission was appropriate."
+}

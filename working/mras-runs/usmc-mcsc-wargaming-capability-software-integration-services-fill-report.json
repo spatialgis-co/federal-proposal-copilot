@@ -1,0 +1,13 @@
+{
+  "opportunity_id": "usmc-mcsc-wargaming-capability-software-integration-services",
+  "slug": "usmc-mcsc-wargaming-capability-software-integration-services",
+  "submitted": true,
+  "submitted_date": "2026-06-23",
+  "submitted_by": "automated-prior-run",
+  "survey_id": "SV_07YYaZbqYgm2jkO",
+  "confirmation_received": "2026-06-23T00:31:24Z",
+  "subject": "USMC - MCSC - Wargaming Capability Software Integration Services - MRAS",
+  "agency": "USMC / Marine Corps Systems Command",
+  "due_date": "2026-07-07",
+  "notes": "Response confirmation received 2026-06-23T00:31:24Z (Confirmation ID: SV_07YYaZbqYgm2jkO-R_GthRgNEK6KkywY2). ⚠️⚠️ UNEXPECTED SUBMISSION: This opportunity was classified MAYBE since 2026-06-19 and explicitly flagged for HUMAN REVIEW before any action. The pipeline had not run discover or drafted a capability statement. Submitted by an automated run outside the documented morning pipeline — same pattern as the 2026-06-18 unexpected submissions. No fill report existed — stub created 2026-06-23 to prevent future dedup re-processing. Scope: Prime Systems Integrator for simulation software in Azure GovCloud (GFS licenses). Kendrick must verify this response was appropriate and complete."
+}

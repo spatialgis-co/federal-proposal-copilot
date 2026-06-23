@@ -1,0 +1,80 @@
+[
+  {
+    "thread_id": "19ef0e61379dd55d",
+    "subject": "DHS - Card Upgrade Refresh Equipment (CURE) - MRAS",
+    "date": "2026-06-22T19:54:26Z",
+    "type": "new_rfi",
+    "slug": "dhs-card-upgrade-refresh-equipment-cure",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_77e3qKYFTd4eDj0",
+    "due_date": "2026-07-06",
+    "description": "USCIS manages secure document production including the operation of the card personalization systems to personalize USCIS secure identification cards (PRC and EAD) in a manner that assures efficiency and maximizes security. See attached Draft Performance Work Statement for more information. Responses Due: 07/06/2026",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your consideration in responding.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ef0a2a2bc6d097",
+    "subject": "OSW - DCMA - Online Legal Research Subscription - MRAS",
+    "date": "2026-06-22T18:40:48Z",
+    "type": "new_rfi",
+    "slug": "osw-dcma-online-legal-research-subscription",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_e4nSdGugays4F8O",
+    "due_date": "2026-07-01",
+    "description": "Web-accessible subscription user licenses to online legal periodicals and Federal employment law research database. Requires searchable full-text and summary access to Federal employment case law, desk guides, secondary research materials, relevant forms and tools, and daily updates. Place of performance: Fort Lee, VA 23801. Responses Due: 07/01/2026",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your consideration in responding.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eeec98051e2bee",
+    "subject": "Reminder: USAF - Vehicular Portable Scales and Cargo Measuring System - MRAS",
+    "date": "2026-06-22T10:03:44Z",
+    "type": "reminder",
+    "slug": "usaf-vehicular-portable-scales-and-cargo-measuring-system",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0VXEvHHepqDzuAu",
+    "due_date": "2026-06-23",
+    "description": "The vendor shall supply all material, equipment, and labor necessary to provide four Weigh in Motion Portable Scales and Automated Cargo Measuring System IAW the specifications outlined in this SOW. All equipment supplied and assembled shall be new. Responses Due: 06/23/2026",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the requirement.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eeec73b9feb37b",
+    "subject": "Reminder: DHS CBP - Apache ActiveMQ Escalation Support Services - MRAS",
+    "date": "2026-06-22T10:01:17Z",
+    "type": "reminder",
+    "slug": "dhs-cbp-apache-activemq-escalation-support-services",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3NMrzjoJDuH1OrI",
+    "due_date": "2026-06-23",
+    "description": "The Contractor shall provide a dedicated toll-free number to address critical issues pertaining to Apache ActiveMQ. The Contractor shall provide an online electronic method of opening, viewing, updating, and closing service requests. The Enterprise Service Desk shall be provided on a 24/7/365 basis. Responses Due: 06/23/2026",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the requirement.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eeec6957cadcee",
+    "subject": "Reminder: DHS - HSIN Stakeholder Engagement  - MRAS",
+    "date": "2026-06-22T10:00:11Z",
+    "type": "reminder",
+    "slug": "dhs-hsin-stakeholder-engagement",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_dpqnpRhjTCpA1nw",
+    "due_date": "2026-06-29",
+    "description": "This requirement supports DHS' Homeland Security Information Platform to provide comprehensive support to the HSIN program by building and maintaining stakeholder relationships, planning and delivering training, coordinating stakeholder engagement, and managing HSIN program requirements and changes. Responses Due: 06/29/2026",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the requirement.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19eeec67ab097462",
+    "subject": "Reminder: DOT - Economic Development Oversight Support - MRAS",
+    "date": "2026-06-22T10:00:13Z",
+    "type": "reminder",
+    "slug": "dot-economic-development-oversight-support",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3r8YvtLoVazuLf8",
+    "due_date": "2026-06-26",
+    "description": "Economic Development Oversight of new starts, small starts and core capacity projects. This contract is intended to support the Government's evaluation and rating of potential economic development effects for projects under consideration for Capital Investment Grants awards. Responses Due: 06/26/2026",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the requirement.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "opportunity_id": "doi-blm-national-travel-management-planning-tmp-bpa",
+  "slug": "doi-blm-national-travel-management-planning-tmp-bpa",
+  "submitted": true,
+  "submitted_date": "2026-06-23",
+  "submitted_by": "automated-prior-run",
+  "survey_id": "SV_eaCgUMl7eONduAe",
+  "confirmation_received": "2026-06-23T00:17:18Z",
+  "subject": "DOI - BLM - National Travel Management Planning (TMP) BPA - MRAS",
+  "agency": "DOI / Bureau of Land Management",
+  "due_date": "2026-06-30",
+  "notes": "Response confirmation received 2026-06-23T00:17:18Z (Confirmation ID: SV_eaCgUMl7eONduAe-R_GsElTFoPjzMU81j). Submitted by an automated run between 2026-06-22T22:16Z (RFI arrival) and 2026-06-23T00:17Z (confirmation). No fill report existed from prior session — stub created 2026-06-23 to prevent future dedup re-processing. Strong fit: BLM route inventory, travel network analysis, TMP development, NEPA compliance — all GIS-heavy work. Triage keyword mismatch (no explicit 'routing'/'GIS' in description) is a known gap; human judgment would have scored this PASS."
+}
