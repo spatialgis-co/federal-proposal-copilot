@@ -1,0 +1,93 @@
+[
+  {
+    "thread_id": "19ef67c253638363",
+    "subject": "FCC - Engineering and Architecture Services BPA - MRAS",
+    "date": "2026-06-23T21:56:24Z",
+    "type": "new_rfi",
+    "slug": "fcc-engineering-and-architecture-services-bpa",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9XN3G5Rh4hos1HU",
+    "due_date": "2026-06-29",
+    "description": "The scope is to enhance and manage the Engineering and Architecture programs and provide and develop the core capabilities to include at minimum: Enterprise Architecture Strategy and Planning; Business Architecture; Business Capabilities Mgmt; Information and Data Architecture.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ef6682d2d3ad14",
+    "subject": "OPM - Advanced eLearning for the Federal Human Resources - MRAS",
+    "date": "2026-06-23T21:34:41Z",
+    "type": "new_rfi",
+    "slug": "opm-advanced-elearning-for-the-federal-human-resources",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_b0ZYoRekcKW07vE",
+    "due_date": "2026-07-07",
+    "description": "The U.S. Office of Personnel Management (OPM) seeks market research information from industry to identify innovative commercial eLearning capabilities for modernizing training, development, and skill building for the Federal Human Resources Workforce (HRWF). OPM seeks industry input on creative Learning Experience Architecture, Learning Record Store, and instructional delivery solutions that can support OPM's HR 2.0 Training initiative and modernize professional skill maintenance and development for Federal HR professionals at scale.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ef625074e01808",
+    "subject": "HHS CDC - Comprehensive Cost Avoidance - MRAS",
+    "date": "2026-06-23T20:21:13Z",
+    "type": "new_rfi",
+    "slug": "hhs-cdc-comprehensive-cost-avoidance",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3DcAmkZcECusIjs",
+    "due_date": "2026-06-30",
+    "description": "Deploy a robust primary health insurance verification solution that will identify, verify, or reverify OHI policies held by all WTC Health Program members who are eligible for coordination of benefits (i.e., Survivors). The solution is required to leverage automated data matches against a robust insurance database, not otherwise available to the WTC Health Program, to identify OHI coverage.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ef53c221f6975f",
+    "subject": "HHS ACF - Adolescent Pregnancy Prevention Performance - MRAS",
+    "date": "2026-06-23T16:06:54Z",
+    "type": "new_rfi",
+    "slug": "hhs-acf-adolescent-pregnancy-prevention-performance",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3pHTB2iCfrXr2qq",
+    "due_date": "2026-06-25",
+    "description": "The purpose of this contract is to support performance measurement for the Personal Responsibility Education Program and the Sexual Risk Avoidance Education program, which are administered by the Family and Youth Services Bureau within the Administration for Children and Families.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ef3f0127f44b68",
+    "subject": "Reminder: OSW - DCMA - Online Legal Research Subscription - MRAS",
+    "date": "2026-06-23T10:03:43Z",
+    "type": "reminder",
+    "slug": "osw-dcma-online-legal-research-subscription",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_e4nSdGugays4F8O",
+    "due_date": "2026-07-01",
+    "description": "Web-accessible subscription user licenses to online legal periodicals and Federal employment law research database. Requires searchable full-text and summary access to Federal employment case law, desk guides, secondary research materials, relevant forms and tools, and daily updates. Place of performance: Fort Lee, VA 23801.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19ef3edd89ce0a71",
+    "subject": "Reminder: GSA OGP - Phishing Resistant Authenticator - MRAS",
+    "date": "2026-06-23T10:01:25Z",
+    "type": "reminder",
+    "slug": "gsa-ogp-phishing-resistant-authenticator",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5umIjXWvmFzNFD8",
+    "due_date": "2026-06-23",
+    "description": "The Office of Technology Policy and Federal Identity and Cybersecurity (FICS) Division is developing a product criteria to identify vendor products that are phishing resistant as outlined in OMB Memo 22-09. Phishing resistant is defined as an authentication method that is resistant to interception or replay attacks. The intent of this market research is to help federal agencies identify and aggressively replace insufficient authentication methods with either phishing-resistant or passwordless methods.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "triage": "SKIP_CLOSED",
+    "triage_reason": "Due 2026-06-23 is in the past"
+  },
+  {
+    "thread_id": "19ef3ecf1eec1237",
+    "subject": "Reminder: HHS - Okta Licenses - MRAS",
+    "date": "2026-06-23T10:00:18Z",
+    "type": "reminder",
+    "slug": "hhs-okta-licenses",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3UFOEVFzeyzuVIq",
+    "due_date": "2026-06-24",
+    "description": "ACF Tech requires a renewal of Okta multi-authentication licenses. The specific Okta licenses currently in use are: Cell Add-On, Okta cells are the environments that contain all the infrastructure needed to run an instance of Okta. The Cell Add-On allows users to add cells to their Okta account.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
