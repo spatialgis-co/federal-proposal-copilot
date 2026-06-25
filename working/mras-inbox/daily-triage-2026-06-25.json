@@ -1,0 +1,54 @@
+[
+  {
+    "thread_id": "19efb7a34dd075fc",
+    "subject": "DOC NITA - Public Wireless Supply Chain Innovation Fund Services - MRAS",
+    "date": "2026-06-24T21:12:30Z",
+    "type": "new_rfi",
+    "slug": "doc-nita-public-wireless-supply-chain-innovation-fund-services",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3vHEA7ULWARVrOm",
+    "due_date": "2026-06-30",
+    "description": "NTIA requires program development and administrative services to support the Public Wireless Supply Chain Innovation Fund (PWSCIF) and administer financial assistance disbursement to recipients.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match — hard decline. Program administration / grant disbursement services for a wireless telecom innovation fund. No GIS, geospatial, or IT professional services angle. Keywords present: 'wireless', 'supply chain', 'program development', 'administrative services', 'financial assistance' — none in SpatialGIS pass list. Falls under 'administrative support' / 'staffing augmentation for non-IT roles' decline categories."
+  },
+  {
+    "thread_id": "19ef912da90f8012",
+    "subject": "Reminder: USAF - iPad Air MIL-STD-(810/461) Testing - MRAS",
+    "date": "2026-06-24T10:00:13Z",
+    "type": "reminder",
+    "slug": "usaf-ipad-air-mil-std-810-461-testing",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_7R6qslmoMcol2Gq",
+    "due_date": "2026-06-26",
+    "description": "Candidate iOS devices for HQ AFRC HERO testing must meet MIL-STD-810H (environmental) and MIL-STD-461H (EMC) military standard testing requirements.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "triage": "DECLINE",
+    "triage_reason": "Hardware military standards testing (MIL-STD-810H environmental, MIL-STD-461H EMC) for iOS devices. No GIS, geospatial, or software IT services component. SpatialGIS does not perform hardware EMC/environmental qualification testing. Appeared previously in daily-raw-2026-06-10.json and daily-raw-2026-06-18.json without submission — consistent DECLINE. Due 06/26/2026 — will close without response."
+  },
+  {
+    "thread_id": "19ef915f24bd353b",
+    "subject": "Reminder: HHS ACF - Adolescent Pregnancy Prevention Performance - MRAS",
+    "date": "2026-06-24T10:03:45Z",
+    "type": "reminder",
+    "slug": "hhs-acf-adolescent-pregnancy-prevention-performance",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3pHTB2iCfrXr2qq",
+    "due_date": "2026-06-25",
+    "description": "Performance measurement support for the Personal Responsibility Education Program (PREP) and Sexual Risk Avoidance Education (SRAE) program under HHS ACF Family and Youth Services Bureau.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "triage": "SKIP_CLOSED",
+    "triage_reason": "Due date 2026-06-25 is today — closes during this triage run. Previously triaged DECLINE on 2026-06-24. Program evaluation/performance measurement for health education programs — no IT or GIS deliverables. No action."
+  },
+  {
+    "thread_id": "19ef915be63977f0",
+    "subject": "Reminder: OPM - Advanced eLearning for the Federal Human Resources - MRAS",
+    "date": "2026-06-24T10:02:46Z",
+    "type": "reminder",
+    "slug": "opm-advanced-elearning-for-the-federal-human-resources",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_b0ZYoRekcKW07vE",
+    "due_date": "2026-07-07",
+    "description": "OPM seeks innovative commercial eLearning capabilities (Learning Experience Architecture, Learning Record Store, instructional delivery) for the Federal Human Resources Workforce HR 2.0 Training initiative.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match — consistent with 2026-06-24 DECLINE. Commercial eLearning platform procurement (LXP/LRS) for Federal HR training modernization. Specialized eLearning product/instructional design domain — outside SpatialGIS's GIS and IT professional services scope."
+  }
+]

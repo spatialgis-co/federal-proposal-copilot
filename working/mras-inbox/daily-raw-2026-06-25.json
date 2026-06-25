@@ -1,0 +1,90 @@
+[
+  {
+    "thread_id": "19efb8dc0fc151af",
+    "subject": "POC Information: USACE - USACE Professional Support Services - MRAS",
+    "date": "2026-06-24T21:33:51Z",
+    "type": "poc_info",
+    "slug": "usace-usace-professional-support-services",
+    "survey_url": null,
+    "due_date": null,
+    "description": "POC information follow-up from GSA after successful MRAS submission. No survey action required.",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under"
+  },
+  {
+    "thread_id": "19efb8d0e8e02078",
+    "subject": "POC Information: VA - VA AMS Data Governance & Standardization - MRAS",
+    "date": "2026-06-24T21:33:05Z",
+    "type": "poc_info",
+    "slug": "va-va-ams-data-governance-standardization",
+    "survey_url": null,
+    "due_date": null,
+    "description": "POC information follow-up from GSA after successful MRAS submission. No survey action required.",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under"
+  },
+  {
+    "thread_id": "19efb8be7fc98aee",
+    "subject": "POC Information: DOJ ATF - HRPD modernized case management system - MRAS",
+    "date": "2026-06-24T21:31:49Z",
+    "type": "poc_info",
+    "slug": "doj-atf-hrpd-modernized-case-management-system",
+    "survey_url": null,
+    "due_date": null,
+    "description": "POC information follow-up from GSA after successful MRAS submission. No survey action required.",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under"
+  },
+  {
+    "thread_id": "19efb7a34dd075fc",
+    "subject": "DOC NITA - Public Wireless Supply Chain Innovation Fund Services - MRAS",
+    "date": "2026-06-24T21:12:30Z",
+    "type": "new_rfi",
+    "slug": "doc-nita-public-wireless-supply-chain-innovation-fund-services",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3vHEA7ULWARVrOm",
+    "due_date": "2026-06-30",
+    "description": "The National Telecommunications and Information Administration (NTIA) requires program development and administrative services in support of the Public Wireless Supply Chain Innovation Fund (PWSCIF) and to administer the program to ensure the efficient disbursement of financial assistance to recipients.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your"
+  },
+  {
+    "thread_id": "19efa66fed949c55",
+    "subject": "Response Received: FCC - Engineering and Architecture Services BPA - MRAS",
+    "date": "2026-06-24T16:11:53Z",
+    "type": "response_received",
+    "slug": "fcc-engineering-and-architecture-services-bpa",
+    "survey_url": null,
+    "due_date": "2026-06-29",
+    "description": "Response confirmation from Qualtrics. Confirmation ID: SV_9XN3G5Rh4hos1HU-R_G7HShZ3P8d8ckpP. No fill report found in working/mras-runs/ — likely manually submitted by Kendrick after 2026-06-24 triage classified as DECLINE.",
+    "snippet": "Response Confirmation ID: SV_9XN3G5Rh4hos1HU-R_G7HShZ3P8d8ckpP Thank you for responding to this Request for Information. GSA Ebuy may still show a pending status but your response has been recorded."
+  },
+  {
+    "thread_id": "19ef915f24bd353b",
+    "subject": "Reminder: HHS ACF - Adolescent Pregnancy Prevention Performance - MRAS",
+    "date": "2026-06-24T10:03:45Z",
+    "type": "reminder",
+    "slug": "hhs-acf-adolescent-pregnancy-prevention-performance",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3pHTB2iCfrXr2qq",
+    "due_date": "2026-06-25",
+    "description": "The purpose of this contract is to support performance measurement for the Personal Responsibility Education Program and the Sexual Risk Avoidance Education program, which are administered by the Family and Youth Services Bureau within the Administration for Children and Families.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of"
+  },
+  {
+    "thread_id": "19ef915be63977f0",
+    "subject": "Reminder: OPM - Advanced eLearning for the Federal Human Resources - MRAS",
+    "date": "2026-06-24T10:02:46Z",
+    "type": "reminder",
+    "slug": "opm-advanced-elearning-for-the-federal-human-resources",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_b0ZYoRekcKW07vE",
+    "due_date": "2026-07-07",
+    "description": "The U.S. Office of Personnel Management (OPM) seeks market research information from industry to identify innovative commercial eLearning capabilities for modernizing training, development, and skill building for the Federal Human Resources Workforce (HRWF). OPM seeks industry input on creative Learning Experience Architecture, Learning Record Store, and instructional delivery solutions that can support OPM's HR 2.0 Training initiative and modernize professional skill maintenance and development for Federal HR professionals at scale.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of"
+  },
+  {
+    "thread_id": "19ef912da90f8012",
+    "subject": "Reminder: USAF - iPad Air MIL-STD-(810/461) Testing - MRAS",
+    "date": "2026-06-24T10:00:13Z",
+    "type": "reminder",
+    "slug": "usaf-ipad-air-mil-std-810-461-testing",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_7R6qslmoMcol2Gq",
+    "due_date": "2026-06-26",
+    "description": "Candidate iOS devices for HQ AFRC HERO testing must meet Military Standard Testing, MIL-STD-810H (explosive atmosphere/decompression, thermal shock/limits) and MIL-STD-461H (emissions RE102/CE102, susceptibility RS103/CS101/CS114-116), to ensure environmental safety and electromagnetic compatibility.",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of"
+  }
+]
