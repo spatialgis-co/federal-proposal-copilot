@@ -1,0 +1,82 @@
+[
+  {
+    "thread_id": "19f008c8f214eb06",
+    "subject": "USACE - FOIA Support - MRAS",
+    "date": "2026-06-25T20:50:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "usace-foia-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efee570574de9d",
+    "subject": "HHS - Change Management Support - MRAS",
+    "date": "2026-06-25T13:08:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "hhs-change-management-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efe3eaee30f55f",
+    "subject": "Reminder: OSW - DCMA - Online Legal Research Subscription - MRAS",
+    "date": "2026-06-25T10:05:59Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "osw-dcma-online-legal-research-subscription",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efe3d740aed491",
+    "subject": "Reminder: DHS - Card Upgrade Refresh Equipment (CURE) - MRAS",
+    "date": "2026-06-25T10:04:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "dhs-card-upgrade-refresh-equipment-cure",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efe3c426655c6e",
+    "subject": "Reminder: DOT - Economic Development Oversight Support - MRAS",
+    "date": "2026-06-25T10:03:36Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "dot-economic-development-oversight-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efe3adbd46a393",
+    "subject": "Reminder: DOC NITA - Public Wireless Supply Chain Innovation Fund Services - MRAS",
+    "date": "2026-06-25T10:01:29Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "doc-nita-public-wireless-supply-chain-innovation-fund-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efe3ac44f6017a",
+    "subject": "Reminder: HHS CDC - Comprehensive Cost Avoidance - MRAS",
+    "date": "2026-06-25T10:01:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "hhs-cdc-comprehensive-cost-avoidance",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19efe3aba0dfd34e",
+    "subject": "Reminder: DOC NIST - Boulder, CO Data Center Co-Location - MRAS",
+    "date": "2026-06-25T10:01:29Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "doc-nist-boulder-co-data-center-co-location",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
