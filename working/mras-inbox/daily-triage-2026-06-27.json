@@ -1,0 +1,44 @@
+[
+  {
+    "thread_id": "19f05d67c26dd699",
+    "subject": "USAF - ACC - A5/8/9 Information Technology, LAN and Security Support - MRAS",
+    "date": "2026-06-26T21:29:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Perform client-level information technology support functions. Manage hardware and software components. Perform configuration, management and troubleshooting. Remove and replace components and peripherals to restore system operations while adhering to safety and maintenance standards. Install and configure software operating systems and applications. Provide service to end-users for operation, restoration and configuration of information systems. Reports security incidents and executes corrective security procedures. Manage client user accounts.",
+    "survey_url_raw": "https://feedback.gsa.gov/jfe/form/SV_b2ev16y1Pw4RvGC",
+    "survey_id": "SV_b2ev16y1Pw4RvGC",
+    "due_date": "07/14/2026",
+    "type": "NEW",
+    "slug": "usaf-acc-a5-8-9-information-technology-lan-and-security-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f052001141b4e2",
+    "subject": "USDA - FSIS Homegrown AI - MRAS",
+    "date": "2026-06-26T18:10:07Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The U.S. Department of Agriculture Food Safety and Inspection Service (FSIS) seeks to procure a Software as a Service (SaaS) solution with professional services to design, implement, and operationalize a secure, scalable Enterprise AI Platform that enables agency personnel to ingest, search, analyze, and act on agency documents and operational data, automate regulatory workflows, and capture institutional knowledge. The platform must integrate with existing FSIS systems and support current and future use cases, including but not limited to regulatory Q&A, inspection decision support, document analysis, and predictive risk modeling, using approaches such as model fine-tuning and retrieval-augmented generation (RAG).",
+    "survey_url_raw": "https://feedback.gsa.gov/jfe/form/SV_bK7nYMbRaUKPqVE",
+    "survey_id": "SV_bK7nYMbRaUKPqVE",
+    "due_date": "07/06/2026",
+    "type": "NEW",
+    "slug": "usda-fsis-homegrown-ai",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f036164587da2f",
+    "subject": "Reminder: OSW - DCMA - Online Legal Research Subscription - MRAS",
+    "date": "2026-06-26T10:01:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the below RFI.",
+    "survey_url_raw": null,
+    "survey_id": null,
+    "due_date": "07/01/2026",
+    "type": "REMINDER",
+    "slug": "osw-dcma-online-legal-research-subscription",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
