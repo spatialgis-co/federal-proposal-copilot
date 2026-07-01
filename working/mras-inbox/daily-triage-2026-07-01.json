@@ -1,0 +1,67 @@
+[
+  {
+    "thread_id": "19f1928fbd22507c",
+    "subject": "HHS NIH - Laboratory Information Management System (LIMS)  - MRAS",
+    "date": "2026-06-30T15:32:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bJhH0lmf6eaG2cC",
+    "survey_id": "SV_bJhH0lmf6eaG2cC",
+    "due_date": "2026-07-10",
+    "agency": "HHS NIH NIAID",
+    "slug": "hhs-nih-laboratory-information-management-system-lims",
+    "description": "The National Institute of Allergy and Infectious Diseases (NIAID), National Institutes of Health (NIH), seeks a Laboratory Information Management System (LIMS) or comparable specimen management solution to support specimen tracking, inventory management, and related laboratory workflows.",
+    "labels": [
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f17fb50862c2a3",
+    "subject": "Reminder: DOC NITA - Public Wireless Supply Chain Innovation Fund Services - MRAS",
+    "date": "2026-06-30T10:02:34Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3vHEA7ULWARVrOm",
+    "survey_id": "SV_3vHEA7ULWARVrOm",
+    "due_date": "2026-06-30",
+    "agency": "DOC NTIA",
+    "slug": "doc-nita-public-wireless-supply-chain-innovation-fund-services",
+    "description": "The National Telecommunications and Information Administration (NTIA) requires program development and administrative services in support of the Public Wireless Supply Chain Innovation Fund (PWSCIF) and to administer the program to ensure the efficient disbursement of financial assistance to recipients.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "triage": "SKIP_CLOSED",
+    "triage_reason": "Due 2026-06-30 is in the past"
+  },
+  {
+    "thread_id": "19f17fa537e65fee",
+    "subject": "Reminder: TREAS - IRS - Hyper-Converged Infrastructure - MRAS",
+    "date": "2026-06-30T10:01:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_eyZ8WKu0S7jWeqy",
+    "survey_id": "SV_eyZ8WKu0S7jWeqy",
+    "due_date": "2026-07-10",
+    "agency": "TREAS IRS",
+    "slug": "treas-irs-hyper-converged-infrastructure",
+    "description": "The purpose is to procure a fully integrated, enterprise-scale software-defined hyperconverged infrastructure (HCI) platform, including hardware, software, licensing, operations and maintenance (O&M), migration services, embedded support engineering, and enterprise lifecycle management.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
