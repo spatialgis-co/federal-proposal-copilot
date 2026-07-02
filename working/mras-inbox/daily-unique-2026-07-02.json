@@ -1,0 +1,100 @@
+[
+  {
+    "thread_id": "19f1f44015d015a8",
+    "subject": "EPA - Electronic Workpaper Solution - MRAS",
+    "date": "2026-07-01T19:59:34Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_doh167ZTQ9CgGrQ",
+    "survey_id": "SV_doh167ZTQ9CgGrQ",
+    "due_date": "2026-07-08",
+    "agency": "EPA",
+    "slug": "epa-electronic-workpaper-solution",
+    "description": "To procure an electronic workpaper solution Auto Audit for Windows. See Statement of Work for full details of this Market Research requirement.",
+    "labels": [
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "19f1e73d36312ffa",
+    "subject": "POC Information: FCC - Engineering and Architecture Services BPA - MRAS",
+    "date": "2026-07-01T16:12:14Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "FCC",
+    "slug": "poc-information-fcc-engineering-and-architecture-services-bpa",
+    "description": "Post-submission POC notification. Agency POC: Wiley.Trimmier@fcc.gov. GSA POC: warren.richey@gsa.gov. Previously submitted by Kendrick 2026-06-24 (Confirmation ID: SV_9XN3G5Rh4hos1HU-R_G7HShZ3P8d8ckpP). No fill report on file.",
+    "labels": [
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "19f1e0cc11601f45",
+    "subject": "HHS - CHIP Support and Expand Health Policy Data and Analytic - MRAS",
+    "date": "2026-07-01T14:19:37Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6MrBC5o0lDffXZs",
+    "survey_id": "SV_6MrBC5o0lDffXZs",
+    "due_date": "2026-07-10",
+    "agency": "HHS",
+    "slug": "hhs-chip-support-and-expand-health-policy-data-and-analytic",
+    "description": "Data and analytic support by building, maintaining, and updating data, creating analytic models, and expanding capacity for analyses on Medicare, Medicaid, Children's Health Insurance Program (CHIP), Marketplace, public health service programs, physician payment models, and insurance markets.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "19f1e0697321b915",
+    "subject": "HHS NIH - Repository Quality and Endorsement Modernization - MRAS",
+    "date": "2026-07-01T14:12:49Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9WTTaEPbRoI5890",
+    "survey_id": "SV_9WTTaEPbRoI5890",
+    "due_date": "2026-07-10",
+    "agency": "HHS NIH NLM",
+    "slug": "hhs-nih-repository-quality-and-endorsement-modernization",
+    "description": "Professional and technical services necessary to modernize and scale NIH Common Data Element (CDE) submission, review, endorsement, and adoption activities for the National Library of Medicine (NLM) and NIH CDE Repository Team.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "19f1d21ea6ca2486",
+    "subject": "Reminder: OPM - Advanced eLearning for the Federal Human Resources - MRAS",
+    "date": "2026-07-01T10:02:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_b0ZYoRekcKW07vE",
+    "survey_id": "SV_b0ZYoRekcKW07vE",
+    "due_date": "2026-07-07",
+    "agency": "OPM",
+    "slug": "opm-advanced-elearning-for-the-federal-human-resources",
+    "description": "OPM seeks market research for innovative commercial eLearning capabilities \u2014 Learning Experience Architecture, Learning Record Store, and instructional delivery solutions \u2014 to modernize training and skill building for the Federal Human Resources Workforce under OPM's HR 2.0 Training initiative.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ]
+  }
+]
