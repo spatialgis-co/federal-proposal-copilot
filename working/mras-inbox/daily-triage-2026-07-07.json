@@ -1,0 +1,92 @@
+[
+  {
+    "thread_id": "19f396bcc5f0c113",
+    "subject": "USAF - JBLM Premise Wiring Bldg 12 - MRAS",
+    "date": "2026-07-06T21:53:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "usaf-jblm-premise-wiring-bldg-12",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f3964211ecbc28",
+    "subject": "DHS - USCG Waterways Safety Assessment - Form Consolidation - MRAS",
+    "date": "2026-07-06T21:44:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "dhs-uscg-waterways-safety-assessment-form-consolidation",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36e47b5019ee2",
+    "subject": "Reminder: HHS - CHIP Support and Expand Health Policy Data and Analytic - MRAS",
+    "date": "2026-07-06T10:05:57Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "hhs-chip-support-and-expand-health-policy-data-and-analytic",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36e3b09eb95ca",
+    "subject": "Reminder: USDA - FSIS Homegrown AI - MRAS",
+    "date": "2026-07-06T10:04:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "usda-fsis-homegrown-ai",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36e3ae0193c4b",
+    "subject": "Reminder: HHS NIH - Repository Quality and Endorsement Modernization - MRAS",
+    "date": "2026-07-06T10:04:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "hhs-nih-repository-quality-and-endorsement-modernization",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36e2357080996",
+    "subject": "Reminder: OSW - DCSA - Enterprise Asset Management Service (E-AMS) - MRAS",
+    "date": "2026-07-06T10:03:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "osw-dcsa-enterprise-asset-management-service-e-ams",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36e0b60a3294e",
+    "subject": "Reminder: TREAS - IRS - Hyper-Converged Infrastructure - MRAS",
+    "date": "2026-07-06T10:01:32Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "treas-irs-hyper-converged-infrastructure",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36dfb8d7c162a",
+    "subject": "Reminder: EPA - Electronic Workpaper Solution - MRAS",
+    "date": "2026-07-06T10:00:21Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "epa-electronic-workpaper-solution",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f36df0f59f821e",
+    "subject": "Reminder: OPM - Advanced eLearning for the Federal Human Resources - MRAS",
+    "date": "2026-07-06T10:00:07Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "opm-advanced-elearning-for-the-federal-human-resources",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
