@@ -1,0 +1,114 @@
+[
+  {
+    "thread_id": "19f3e642c14373f3",
+    "subject": "USACE - Professional Support Services - MRAS",
+    "date": "2026-07-07T21:02:57Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "usace-professional-support-services"
+  },
+  {
+    "thread_id": "19f3e2f7678b6c96",
+    "subject": "DOJ DEA - Spectrum ACR & Video Surveillance Program - MRAS",
+    "date": "2026-07-07T20:05:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "doj-dea-spectrum-acr-video-surveillance-program"
+  },
+  {
+    "thread_id": "19f3df77bae21234",
+    "subject": "POC Information: USACE - FOIA Support - MRAS",
+    "date": "2026-07-07T19:04:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "poc-information-usace-foia-support"
+  },
+  {
+    "thread_id": "19f3df63fa890f50",
+    "subject": "POC Information: USAF - ACC - A5/8/9 Information Technology, LAN and Security Support - MRAS",
+    "date": "2026-07-07T19:02:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "poc-information-usaf-acc-a5-8-9-information-technology-lan-and-security-support"
+  },
+  {
+    "thread_id": "19f3def0e0989ae9",
+    "subject": "POC Information: Treasury IRS - International Tax Modeling Tool (IMIT) - MRAS",
+    "date": "2026-07-07T18:55:04Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "poc-information-treasury-irs-international-tax-modeling-tool-imit"
+  },
+  {
+    "thread_id": "19f3d95115c2119f",
+    "subject": "POC Information: DOC NIST - Uncrewed Aircraft System (UAS)-Stakeholder Workshop - MRAS",
+    "date": "2026-07-07T17:16:46Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "poc-information-doc-nist-uncrewed-aircraft-system-uas-stakeholder-workshop"
+  },
+  {
+    "thread_id": "19f3d89b50de162d",
+    "subject": "POC Information: HHS - Change Management Support - MRAS",
+    "date": "2026-07-07T17:04:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "poc-information-hhs-change-management-support"
+  },
+  {
+    "thread_id": "19f3d1484759cd6d",
+    "subject": "Response Received: OSW - DCSA - Enterprise Asset Management Service (E-AMS) - MRAS",
+    "date": "2026-07-07T14:56:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "osw-dcsa-enterprise-asset-management-service-e-ams"
+  },
+  {
+    "thread_id": "19f3d13e69cff57d",
+    "subject": "Response Received: DHS - Waterways Safety Assessment - Form Consolidation - MRAS",
+    "date": "2026-07-07T14:55:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "dhs-waterways-safety-assessment-form-consolidation"
+  },
+  {
+    "thread_id": "19f3d134db857f1e",
+    "subject": "Response Received: DOJ DEA - EPIC General Watch Modernization - MRAS",
+    "date": "2026-07-07T14:55:02Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "doj-dea-epic-general-watch-modernization"
+  },
+  {
+    "thread_id": "19f3d0ac9338e75f",
+    "subject": "Response Received: OSW - WHS - Technical, Analytical, and Policy Advisory Support - MRAS",
+    "date": "2026-07-07T14:45:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "osw-whs-technical-analytical-and-policy-advisory-support"
+  },
+  {
+    "thread_id": "19f3d00a3a5c0589",
+    "subject": "Response Received: HHS - Repository Quality and Endorsement Modernization - MRAS",
+    "date": "2026-07-07T14:34:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "hhs-repository-quality-and-endorsement-modernization"
+  },
+  {
+    "thread_id": "19f3c081e0ea1cd0",
+    "subject": "Reminder: Army - NHNG Military Readiness Support Services - MRAS",
+    "date": "2026-07-07T10:02:48Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "army-nhng-military-readiness-support-services"
+  },
+  {
+    "thread_id": "19f3c07d5dd3d7f6",
+    "subject": "Reminder: HHS NIH - Laboratory Information Management System (LIMS)  - MRAS",
+    "date": "2026-07-07T10:02:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "hhs-nih-laboratory-information-management-system-lims"
+  }
+]
