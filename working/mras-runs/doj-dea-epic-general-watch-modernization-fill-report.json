@@ -1,0 +1,19 @@
+{
+  "opportunity_id": "doj-dea-epic-general-watch-modernization",
+  "submitted": true,
+  "submitted_at": "2026-07-07T14:55:02Z",
+  "submitted_by": "user-manual",
+  "confirmation_id": "SV_8uGEum6wf3K7NIO-R_GohuJDgDvcBSx55",
+  "survey_url": "SV_8uGEum6wf3K7NIO",
+  "response_id": "R_GohuJDgDvcBSx55",
+  "due_date": "2026-07-08",
+  "agency": "DOJ Drug Enforcement Administration (DEA), El Paso Intelligence Center (EPIC)",
+  "contract_vehicle": "MAS 47QTCA24D00DS",
+  "sin": "54151S",
+  "naics": ["541511", "541512", "541519"],
+  "socioeconomic": "d",
+  "capability_yes": true,
+  "prior_experience_yes": true,
+  "would_submit_rfp": true,
+  "notes": "Manually submitted by Kendrick on 2026-07-07 — was BLOCKED in automated pipeline due to prior carry-forward review. DOJ DEA EPIC General Watch Modernization: FFP-AF order to modernize EPIC General Watch systems, optimize UX, upgrade capabilities. SpatialGIS responded as prime via MAS 54151S, NAICS 541511+541512+541519. Reference: DOJ ATF HRPD case mgmt and DOJ FBI CJIS DSSU prior delivery. Due date 2026-07-08."
+}

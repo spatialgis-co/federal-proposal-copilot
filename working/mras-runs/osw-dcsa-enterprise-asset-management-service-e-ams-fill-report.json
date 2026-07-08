@@ -1,0 +1,21 @@
+{
+  "opportunity_id": "osw-dcsa-enterprise-asset-management-service-e-ams",
+  "submitted": true,
+  "submitted_at": "2026-07-07T14:56:22Z",
+  "submitted_by": "user-manual",
+  "confirmation_id": "SV_en58ME1dyaPqWLY-R_GkleRgIxQXsHOWR",
+  "survey_url": "SV_en58ME1dyaPqWLY",
+  "response_id": "R_GkleRgIxQXsHOWR",
+  "due_date": "2026-07-15",
+  "agency": "Office of the Secretary of War / Defense Counterintelligence and Security Agency (DCSA)",
+  "contract_vehicle": "MAS 47QTCA24D00DS",
+  "sin": "54151S",
+  "naics": ["541519"],
+  "socioeconomic": "d",
+  "capability_yes": true,
+  "prior_experience_yes": true,
+  "would_submit_rfp": true,
+  "teaming_partner": "Bettis Group",
+  "subcontracting_estimate": "30-50%",
+  "notes": "Manually submitted by Kendrick on 2026-07-07 — was BLOCKED in automated pipeline due to ITAM/ServiceNow teaming requirement. DCSA Enterprise Asset Management Service: software+hardware lifecycle from needs analysis to disposal. SpatialGIS prime + Bettis Group (ServiceNow HAM Pro / CMDB / GRC / ITSM) teaming. CMMI L3 alignment via Bettis. RFI Technical Questions answered: 6 short-answer questions on ITAM experience, CMMI, PM tools, asset lifecycle, discovery tools, audit readiness."
+}

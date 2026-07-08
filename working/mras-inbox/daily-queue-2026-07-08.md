@@ -1,6 +1,6 @@
 # MRAS Daily Queue — 2026-07-08
 
-**Run summary:** 16 emails received | 14 unique after dedup | 0 PASS | 0 MAYBE | 14 DECLINE | Submitted: 0 | Blocked: 0
+**Run summary:** 16 emails received | 14 unique after dedup | 0 PASS | 0 MAYBE | 14 DECLINE | New submitted by pipeline: 0 | Carry-forward CONFIRMED: 2 | Blocked: 0
 
 ---
 
@@ -54,6 +54,29 @@
 
 ---
 
+---
+
+## Carry-Forward Resolution — CONFIRMED SUBMITTED
+
+Both items that had been BLOCKED in the automated pipeline and carried forward for several days are now CONFIRMED submitted (Kendrick submitted manually on 2026-07-07).
+
+### DOJ DEA – EPIC General Watch Modernization ✓ SUBMITTED
+- **Confirmation ID:** SV_8uGEum6wf3K7NIO-R_GohuJDgDvcBSx55
+- **Submitted:** 2026-07-07 14:55 UTC (due 2026-07-08 — submitted day before deadline)
+- **Vehicle:** MAS 47QTCA24D00DS, SIN 54151S, NAICS 541511+541512+541519
+- **Capability Yes:** Yes on all three technical questions
+- **Fill report:** `working/mras-runs/doj-dea-epic-general-watch-modernization-fill-report.json`
+
+### OSW – DCSA – Enterprise Asset Management Service (E-AMS) ✓ SUBMITTED
+- **Confirmation ID:** SV_en58ME1dyaPqWLY-R_GkleRgIxQXsHOWR
+- **Submitted:** 2026-07-07 14:56 UTC (due 2026-07-15)
+- **Vehicle:** MAS 47QTCA24D00DS, SIN 54151S, NAICS 541519
+- **Teaming:** SpatialGIS prime + Bettis Group (ServiceNow HAM Pro / CMDB / GRC / ITSM)
+- **RFI Technical Questions:** 6 short-answer questions answered (ITAM experience, CMMI L3 alignment, PM tools, asset lifecycle methods, discovery tools, audit readiness)
+- **Fill report:** `working/mras-runs/osw-dcsa-enterprise-asset-management-service-e-ams-fill-report.json`
+
+---
+
 ## Action Items for Human Review
 
-None. All opportunities today are outside SpatialGIS's GIS/geospatial capability profile. No BLOCKED items requiring decision.
+None. All opportunities today are outside SpatialGIS's GIS/geospatial capability profile. No new BLOCKED items requiring decision. Two carry-forward BLOCKED items are now resolved.
