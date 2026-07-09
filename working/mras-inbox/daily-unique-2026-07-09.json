@@ -1,0 +1,34 @@
+[
+  {
+    "thread_id": "19f43a570f6ea2b8",
+    "subject": "Navy - ServiceNow SPM Implementation - MRAS",
+    "date": "2026-07-08T21:32:21Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "navy-servicenow-spm-implementation"
+  },
+  {
+    "thread_id": "19f43a1784e55b08",
+    "subject": "Navy - ServiceNow HRSD Implementation - MRAS",
+    "date": "2026-07-08T21:28:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "navy-servicenow-hrsd-implementation"
+  },
+  {
+    "thread_id": "19f439fdb3195926",
+    "subject": "Army - Management Support Services - MRAS",
+    "date": "2026-07-08T21:26:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "army-management-support-services"
+  },
+  {
+    "thread_id": "19f412e6e99c7413",
+    "subject": "Reminder: DOJ DEA - Spectrum ACR & Video Surveillance Program - MRAS",
+    "date": "2026-07-08T10:02:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "doj-dea-spectrum-acr-video-surveillance-program"
+  }
+]
