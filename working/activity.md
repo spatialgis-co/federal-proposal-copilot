@@ -60,3 +60,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-07-08 00:00 — mras-daily-triage — processed 16 emails (2 new invitations, 2 reminders previously declined, 5 POC follow-ups, 5 response confirmations); PASS=0 MAYBE=0 DECLINE=14; 0 submitted, 0 rejected, 0 blocked → working/mras-inbox/daily-queue-2026-07-08.md
 
 ## 2026-07-09 00:00 — mras-daily-triage — processed 4 emails (3 new, 1 reminder); PASS=0 MAYBE=0 DECLINE=4; 0 submitted, 0 rejected, 0 blocked; no carry-forward items → working/mras-inbox/daily-queue-2026-07-09.md
+
+## 2026-07-10 00:00 — mras-daily-triage — processed 12 RFI threads (8 new, 4 reminders); script PASS=2 MAYBE=1 DECLINE=9; human override: 2 PASS + 1 MAYBE → DECLINE (telecom/records false positives); 0 new submissions, 0 rejected, 0 blocked; 5 prior-run submissions confirmed (USCG Geospatial + 4 overnight); running total 29 SUBMITTED-CONFIRMED → working/mras-inbox/daily-queue-2026-07-10.md
