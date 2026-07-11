@@ -1,0 +1,42 @@
+[
+  {
+    "thread_id": "19f4b7cc3cac9d65",
+    "subject": "Reminder: TREAS - NETCOM - CS2100 PRI Provisioning & PSAP Routing Config - MRAS",
+    "date": "2026-07-10T10:04:46Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "treas-netcom-cs2100-pri-provisioning-psap-routing-config",
+    "triage": "PASS",
+    "triage_reason": "Core capability keyword(s): ['routing']"
+  },
+  {
+    "thread_id": "19f4b7c1417c7af5",
+    "subject": "Reminder: DHS TSA- Secure Infrastructure & Vulnerability Management - MRAS",
+    "date": "2026-07-10T10:03:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "dhs-tsa-secure-infrastructure-vulnerability-management",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f4b7bb0168655b",
+    "subject": "Reminder: DOC NIST - Manufacturing Data Analysis and Modeling Tool  - MRAS",
+    "date": "2026-07-10T10:03:40Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "doc-nist-manufacturing-data-analysis-and-modeling-tool",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f4b7a3bc35ce85",
+    "subject": "Reminder: USAF - JBLM Premise Wiring Bldg 12 - MRAS",
+    "date": "2026-07-10T10:01:34Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "usaf-jblm-premise-wiring-bldg-12",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
