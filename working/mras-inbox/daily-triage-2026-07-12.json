@@ -1,0 +1,12 @@
+{
+  "run_date": "2026-07-12",
+  "source": "daily-unique-2026-07-12.json",
+  "pass": [],
+  "maybe": [],
+  "decline": [],
+  "total": 0,
+  "pass_count": 0,
+  "maybe_count": 0,
+  "decline_count": 0,
+  "note": "No threads to triage — inbox was empty for the 24-hour window."
+}
