@@ -1,0 +1,63 @@
+[
+  {
+    "thread_id": "19f66cd84e47b29b",
+    "subject": "OSW - WHS - Security Support Services - MRAS",
+    "date": "2026-07-15T17:22:50Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "slug": "osw-whs-security-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f660185b502392",
+    "subject": "Response Received: DOJ BOP - FSA Time Credit Calculation Model - MRAS",
+    "date": "2026-07-15T13:40:01Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Response Confirmation ID: SV_cTpBr6pqrdM0Z2m-R_GD58fahuUpwcHS8 Thank you for responding to this Request for Information. GSA Ebuy may still show a pending status but your response has been recorded.",
+    "type": "response_confirmation",
+    "slug": "doj-bop-fsa-time-credit-calculation-model",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f653c96870005c",
+    "subject": "Reminder: DOC NIST- Federal Lab Consortium AI Enabled Technology Transfer Tools - MRAS",
+    "date": "2026-07-15T10:04:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "slug": "doc-nist-federal-lab-consortium-ai-enabled-technology-transfer-tools",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f653ade58607c7",
+    "subject": "Reminder: OSW - DHA - Instrument tracking system subscription - MRAS",
+    "date": "2026-07-15T10:02:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "slug": "osw-dha-instrument-tracking-system-subscription",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f65396a51399b9",
+    "subject": "Reminder: NIST - Time Scale Security Enhancement - MRAS",
+    "date": "2026-07-15T10:01:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "slug": "nist-time-scale-security-enhancement",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6539683af6e5d",
+    "subject": "Reminder: DOC NIST - Manufacturing Data Analysis and Modeling Tool  - MRAS",
+    "date": "2026-07-15T10:01:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "slug": "doc-nist-manufacturing-data-analysis-and-modeling-tool",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
