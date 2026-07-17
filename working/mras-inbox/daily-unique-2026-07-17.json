@@ -1,0 +1,128 @@
+[
+  {
+    "thread_id": "19f6d6e79d835d3b",
+    "subject": "POC Information: DHS USCG - Geospatial Support Services CG - MRAS",
+    "date": "2026-07-17T00:16:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "email_type": "poc_confirmation",
+    "slug": "poc-information-dhs-uscg-geospatial-support-services-cg"
+  },
+  {
+    "thread_id": "19f6d6e25995fc4a",
+    "subject": "POC Information: Navy - ServiceNow SPM Implementation - MRAS",
+    "date": "2026-07-17T00:16:02Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "email_type": "poc_confirmation",
+    "slug": "poc-information-navy-servicenow-spm-implementation"
+  },
+  {
+    "thread_id": "19f6d6ce1a6e55e9",
+    "subject": "POC Information: Navy - ServiceNow HRSD Implementation - MRAS",
+    "date": "2026-07-17T00:14:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "email_type": "poc_confirmation",
+    "slug": "poc-information-navy-servicenow-hrsd-implementation"
+  },
+  {
+    "thread_id": "19f6d6c96c3dbc42",
+    "subject": "POC Information:  Army - Management Support Services - MRAS",
+    "date": "2026-07-17T00:14:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "email_type": "poc_confirmation",
+    "slug": "poc-information-army-management-support-services"
+  },
+  {
+    "thread_id": "19f6d6bbe880ab6e",
+    "subject": "POC Information: DOJ DEA - Spectrum ACR & Video Surveillance Program - MRAS",
+    "date": "2026-07-17T00:13:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "email_type": "poc_confirmation",
+    "slug": "poc-information-doj-dea-spectrum-acr-video-surveillance-program"
+  },
+  {
+    "thread_id": "19f6d34a3c7bc7b9",
+    "subject": "HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-16T23:13:01Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI",
+    "email_type": "new_rfi",
+    "slug": "hhs-cms-crm-enterprise-transformation-and-system-testing"
+  },
+  {
+    "thread_id": "19f6cce9ae8c6e41",
+    "subject": "USAF - Pilot Training Transformation Device Support Services IV - MRAS",
+    "date": "2026-07-16T21:21:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI",
+    "email_type": "new_rfi",
+    "slug": "usaf-pilot-training-transformation-device-support-services-iv"
+  },
+  {
+    "thread_id": "19f6cc53aadcc60a",
+    "subject": "GSA AAS - CALM Recompete - MRAS",
+    "date": "2026-07-16T21:11:13Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI",
+    "email_type": "new_rfi",
+    "slug": "gsa-aas-calm-recompete"
+  },
+  {
+    "thread_id": "19f6c424066bbb09",
+    "subject": "Navy - SSP - Personnel Reliability Program (PRP) Administration - Market Research",
+    "date": "2026-07-16T18:48:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI",
+    "email_type": "new_rfi",
+    "slug": "navy-ssp-personnel-reliability-program-prp-administration-market-research"
+  },
+  {
+    "thread_id": "19f6a614638d39a6",
+    "subject": "Reminder: EPA - Information Management Program Support Services  - MRAS",
+    "date": "2026-07-16T10:02:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "email_type": "reminder",
+    "slug": "epa-information-management-program-support-services"
+  },
+  {
+    "thread_id": "19f6a61308e033bf",
+    "subject": "Reminder: USACE - Professional Support Services - MRAS",
+    "date": "2026-07-16T10:02:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "email_type": "reminder",
+    "slug": "usace-professional-support-services"
+  },
+  {
+    "thread_id": "19f6a60026b75d82",
+    "subject": "Reminder: TREAS - NETCOM - CS2100 PRI Provisioning & PSAP Routing Config - MRAS",
+    "date": "2026-07-16T10:01:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "email_type": "reminder",
+    "slug": "treas-netcom-cs2100-pri-provisioning-psap-routing-config"
+  },
+  {
+    "thread_id": "19f6a5f12653412b",
+    "subject": "Reminder: Army - CMAOD Admin Services Support - MRAS",
+    "date": "2026-07-16T10:00:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "email_type": "reminder",
+    "slug": "army-cmaod-admin-services-support"
+  },
+  {
+    "thread_id": "19f6a5ef224b020c",
+    "subject": "Reminder: OSW - WHS - Security Support Services - MRAS",
+    "date": "2026-07-16T10:00:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "email_type": "reminder",
+    "slug": "osw-whs-security-support-services"
+  }
+]
