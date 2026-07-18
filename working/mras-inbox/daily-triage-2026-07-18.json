@@ -1,0 +1,90 @@
+[
+  {
+    "thread_id": "19f72410b96bc1c3",
+    "subject": "GSA OCAS - FedHub Managed Service Office (MSO) Operations - MRAS",
+    "date": "2026-07-17T22:44:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": false,
+    "slug": "gsa-ocas-fedhub-managed-service-office-mso-operations",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f71ad4345343e0",
+    "subject": "DHS USCG - Strategic Services - MRAS",
+    "date": "2026-07-17T20:03:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": false,
+    "slug": "dhs-uscg-strategic-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f70eec6752063d",
+    "subject": "DOJ BOP - Training and Support Services FSA Time Credit Administration - MRAS",
+    "date": "2026-07-17T16:35:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": false,
+    "slug": "doj-bop-training-and-support-services-fsa-time-credit-administration",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f70e71e0e51156",
+    "subject": "DOJ OUSA - Professional IT Support Services - MRAS",
+    "date": "2026-07-17T16:26:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": false,
+    "slug": "doj-ousa-professional-it-support-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['IT support']"
+  },
+  {
+    "thread_id": "19f6f87ae42c804c",
+    "subject": "Reminder: GSA AAS - CALM Recompete - MRAS",
+    "date": "2026-07-17T10:02:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": true,
+    "slug": "gsa-aas-calm-recompete",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6f8760f32d3ce",
+    "subject": "Reminder: HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-17T10:02:43Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": true,
+    "slug": "hhs-cms-crm-enterprise-transformation-and-system-testing",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6f868e21dac54",
+    "subject": "Reminder: Navy - SSP - Personnel Reliability Program (PRP) Administration - Market Research",
+    "date": "2026-07-17T10:01:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": true,
+    "slug": "navy-ssp-personnel-reliability-program-prp-administration-market-research",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6f85cd79e6f2b",
+    "subject": "Reminder: USAF - JBLM Premise Wiring Bldg 12 - MRAS",
+    "date": "2026-07-17T10:00:19Z",
+    "sender": "rfi@research.gsa.gov",
+    "recipient": "kendrick@spatialgisservices.com",
+    "is_reminder": true,
+    "slug": "usaf-jblm-premise-wiring-bldg-12",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
