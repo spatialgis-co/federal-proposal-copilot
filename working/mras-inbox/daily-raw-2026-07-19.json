@@ -1,0 +1,188 @@
+[
+  {
+    "thread_id": "19f72410b96bc1c3",
+    "subject": "GSA OCAS - FedHub Managed Service Office (MSO) Operations - MRAS",
+    "date": "2026-07-17T22:44:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9XHGddS8vARgiSW",
+    "survey_id": "SV_9XHGddS8vARgiSW",
+    "due_date": "07/31/2026",
+    "description": "Comprehensive program management and technical services to support the FedHub PMO and Management Board. Scope includes all tasks for existing FedHub/XMS implementation at HHS."
+  },
+  {
+    "thread_id": "19f71ad4345343e0",
+    "subject": "DHS USCG - Strategic Services - MRAS",
+    "date": "2026-07-17T20:03:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2mfScn3upmXinDU",
+    "survey_id": "SV_2mfScn3upmXinDU",
+    "due_date": "07/24/2026",
+    "description": "USCG CIO requires integrated strategic analysts for organizational gap analysis, strategic consulting, and administrative support services. Specialized expertise in strategic analysis, stakeholder engagement, and executive staff support."
+  },
+  {
+    "thread_id": "19f70eec6752063d",
+    "subject": "DOJ BOP - Training and Support Services FSA Time Credit Administration - MRAS",
+    "date": "2026-07-17T16:35:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3xAVzI9girTGmxg",
+    "survey_id": "SV_3xAVzI9girTGmxg",
+    "due_date": "07/23/2026",
+    "description": "Independent oversight, validation, technical expertise, software development support, training, quality assurance, stakeholder coordination, and inquiry resolution services related to First Step Act (FSA) Time Credits administration."
+  },
+  {
+    "thread_id": "19f70e71e0e51156",
+    "subject": "DOJ OUSA - Professional IT Support Services - MRAS",
+    "date": "2026-07-17T16:26:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0JQQzmimQF4B9TU",
+    "survey_id": "SV_0JQQzmimQF4B9TU",
+    "due_date": "07/24/2026",
+    "description": "Support services to assist Data Integrity and Analysis in developing and generating reports and analyses on USAOs' data. Data stored in Microsoft SQL Server 2019 databases accessible via SQL, PL/SQL, and T-SQL. EOUSA utilizes United States Attorneys case management systems."
+  },
+  {
+    "thread_id": "19f6f87ae42c804c",
+    "subject": "Reminder: GSA AAS - CALM Recompete - MRAS",
+    "date": "2026-07-17T10:02:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6f8760f32d3ce",
+    "subject": "Reminder: HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-17T10:02:43Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6f868e21dac54",
+    "subject": "Reminder: Navy - SSP - Personnel Reliability Program (PRP) Administration - Market Research",
+    "date": "2026-07-17T10:01:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6f85cd79e6f2b",
+    "subject": "Reminder: USAF - JBLM Premise Wiring Bldg 12 - MRAS",
+    "date": "2026-07-17T10:00:19Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6d6e79d835d3b",
+    "subject": "POC Information: DHS USCG - Geospatial Support Services CG - MRAS",
+    "date": "2026-07-17T00:16:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19f6d6e25995fc4a",
+    "subject": "POC Information: Navy - ServiceNow SPM Implementation - MRAS",
+    "date": "2026-07-17T00:16:02Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19f6d6ce1a6e55e9",
+    "subject": "POC Information: Navy - ServiceNow HRSD Implementation - MRAS",
+    "date": "2026-07-17T00:14:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19f6d6c96c3dbc42",
+    "subject": "POC Information:  Army - Management Support Services - MRAS",
+    "date": "2026-07-17T00:14:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19f6d6bbe880ab6e",
+    "subject": "POC Information: DOJ DEA - Spectrum ACR & Video Surveillance Program - MRAS",
+    "date": "2026-07-17T00:13:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19f6d34a3c7bc7b9",
+    "subject": "HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-16T23:13:01Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cZPUR0kCGvOtheC",
+    "survey_id": "SV_cZPUR0kCGvOtheC",
+    "due_date": "07/29/2026",
+    "description": "CMS Virtual Center Strategy - Application Testing and NGD Change Control Board Management ensuring VCS contractors meet current and future requirements. Requires upload of capabilities document for open-ended questions."
+  },
+  {
+    "thread_id": "19f6cce9ae8c6e41",
+    "subject": "USAF - Pilot Training Transformation Device Support Services IV - MRAS",
+    "date": "2026-07-16T21:21:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6Yfy3Sudmk258cC",
+    "survey_id": "SV_6Yfy3Sudmk258cC",
+    "due_date": "07/27/2026",
+    "description": "Install, maintain, and support Pilot Training Transformation (PTT) devices including common Immersive Training Device (cITD), enhanced Immersive Training Devices (eITD), and Helicopter ITDs."
+  },
+  {
+    "thread_id": "19f6cc53aadcc60a",
+    "subject": "GSA AAS - CALM Recompete - MRAS",
+    "date": "2026-07-16T21:11:13Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3n5vt03T9S2Q5Bs",
+    "survey_id": "SV_3n5vt03T9S2Q5Bs",
+    "due_date": "07/24/2026",
+    "description": "Software licensing and Help Desk support for PRISM, Bizagi, AWS, and stackArmor supporting Development, Test, Training, and Production environments. CALM DM&E staffing for new IDVs or custom solicitations in FY28. Technical questions on multiple tabs."
+  },
+  {
+    "thread_id": "19f6c424066bbb09",
+    "subject": "Navy - SSP - Personnel Reliability Program (PRP) Administration - Market Research",
+    "date": "2026-07-16T18:48:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2oC99oDNjQY9NUq",
+    "survey_id": "SV_2oC99oDNjQY9NUq",
+    "due_date": "07/23/2026",
+    "description": "Support day-to-day administrative functions of Personnel Reliability Program (PRP) offices: planning, process execution, and database management. Oversight during absence of PRP Certifying Officials at Marine Corps Security Force Battalion Kings Bay, Georgia."
+  },
+  {
+    "thread_id": "19f6a614638d39a6",
+    "subject": "Reminder: EPA - Information Management Program Support Services - MRAS",
+    "date": "2026-07-16T10:02:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6a61308e033bf",
+    "subject": "Reminder: USACE - Professional Support Services - MRAS",
+    "date": "2026-07-16T10:02:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6a60026b75d82",
+    "subject": "Reminder: TREAS - NETCOM - CS2100 PRI Provisioning & PSAP Routing Config - MRAS",
+    "date": "2026-07-16T10:01:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6a5f12653412b",
+    "subject": "Reminder: Army - CMAOD Admin Services Support - MRAS",
+    "date": "2026-07-16T10:00:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19f6a5ef224b020c",
+    "subject": "Reminder: OSW - WHS - Security Support Services - MRAS",
+    "date": "2026-07-16T10:00:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  }
+]

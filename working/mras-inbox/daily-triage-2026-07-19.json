@@ -1,0 +1,212 @@
+[
+  {
+    "thread_id": "19f72410b96bc1c3",
+    "subject": "GSA OCAS - FedHub Managed Service Office (MSO) Operations - MRAS",
+    "date": "2026-07-17T22:44:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9XHGddS8vARgiSW",
+    "survey_id": "SV_9XHGddS8vARgiSW",
+    "due_date": "07/31/2026",
+    "description": "Comprehensive program management and technical services to support the FedHub PMO and Management Board. Scope includes all tasks for existing FedHub/XMS implementation at HHS.",
+    "slug": "gsa-ocas-fedhub-managed-service-office-mso-operations",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f71ad4345343e0",
+    "subject": "DHS USCG - Strategic Services - MRAS",
+    "date": "2026-07-17T20:03:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2mfScn3upmXinDU",
+    "survey_id": "SV_2mfScn3upmXinDU",
+    "due_date": "07/24/2026",
+    "description": "USCG CIO requires integrated strategic analysts for organizational gap analysis, strategic consulting, and administrative support services. Specialized expertise in strategic analysis, stakeholder engagement, and executive staff support.",
+    "slug": "dhs-uscg-strategic-services",
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['administrative support']"
+  },
+  {
+    "thread_id": "19f70eec6752063d",
+    "subject": "DOJ BOP - Training and Support Services FSA Time Credit Administration - MRAS",
+    "date": "2026-07-17T16:35:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3xAVzI9girTGmxg",
+    "survey_id": "SV_3xAVzI9girTGmxg",
+    "due_date": "07/23/2026",
+    "description": "Independent oversight, validation, technical expertise, software development support, training, quality assurance, stakeholder coordination, and inquiry resolution services related to First Step Act (FSA) Time Credits administration.",
+    "slug": "doj-bop-training-and-support-services-fsa-time-credit-administration",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['software development']"
+  },
+  {
+    "thread_id": "19f70e71e0e51156",
+    "subject": "DOJ OUSA - Professional IT Support Services - MRAS",
+    "date": "2026-07-17T16:26:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0JQQzmimQF4B9TU",
+    "survey_id": "SV_0JQQzmimQF4B9TU",
+    "due_date": "07/24/2026",
+    "description": "Support services to assist Data Integrity and Analysis in developing and generating reports and analyses on USAOs' data. Data stored in Microsoft SQL Server 2019 databases accessible via SQL, PL/SQL, and T-SQL. EOUSA utilizes United States Attorneys case management systems.",
+    "slug": "doj-ousa-professional-it-support-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['IT support']"
+  },
+  {
+    "thread_id": "19f6f87ae42c804c",
+    "subject": "Reminder: GSA AAS - CALM Recompete - MRAS",
+    "date": "2026-07-17T10:02:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "gsa-aas-calm-recompete",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6f8760f32d3ce",
+    "subject": "Reminder: HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-17T10:02:43Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "hhs-cms-crm-enterprise-transformation-and-system-testing",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6f868e21dac54",
+    "subject": "Reminder: Navy - SSP - Personnel Reliability Program (PRP) Administration - Market Research",
+    "date": "2026-07-17T10:01:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "navy-ssp-personnel-reliability-program-prp-administration-market-research",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6f85cd79e6f2b",
+    "subject": "Reminder: USAF - JBLM Premise Wiring Bldg 12 - MRAS",
+    "date": "2026-07-17T10:00:19Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "usaf-jblm-premise-wiring-bldg-12",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6d6e79d835d3b",
+    "subject": "POC Information: DHS USCG - Geospatial Support Services CG - MRAS",
+    "date": "2026-07-17T00:16:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "slug": "poc-information-dhs-uscg-geospatial-support-services-cg",
+    "triage": "PASS",
+    "triage_reason": "Core capability keyword(s): ['geospatial']"
+  },
+  {
+    "thread_id": "19f6d6e25995fc4a",
+    "subject": "POC Information: Navy - ServiceNow SPM Implementation - MRAS",
+    "date": "2026-07-17T00:16:02Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "slug": "poc-information-navy-servicenow-spm-implementation",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6d6ce1a6e55e9",
+    "subject": "POC Information: Navy - ServiceNow HRSD Implementation - MRAS",
+    "date": "2026-07-17T00:14:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "slug": "poc-information-navy-servicenow-hrsd-implementation",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6d6c96c3dbc42",
+    "subject": "POC Information:  Army - Management Support Services - MRAS",
+    "date": "2026-07-17T00:14:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "slug": "poc-information-army-management-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6d6bbe880ab6e",
+    "subject": "POC Information: DOJ DEA - Spectrum ACR & Video Surveillance Program - MRAS",
+    "date": "2026-07-17T00:13:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "slug": "poc-information-doj-dea-spectrum-acr-video-surveillance-program",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6cce9ae8c6e41",
+    "subject": "USAF - Pilot Training Transformation Device Support Services IV - MRAS",
+    "date": "2026-07-16T21:21:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6Yfy3Sudmk258cC",
+    "survey_id": "SV_6Yfy3Sudmk258cC",
+    "due_date": "07/27/2026",
+    "description": "Install, maintain, and support Pilot Training Transformation (PTT) devices including common Immersive Training Device (cITD), enhanced Immersive Training Devices (eITD), and Helicopter ITDs.",
+    "slug": "usaf-pilot-training-transformation-device-support-services-iv",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6a614638d39a6",
+    "subject": "Reminder: EPA - Information Management Program Support Services - MRAS",
+    "date": "2026-07-16T10:02:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "epa-information-management-program-support-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "19f6a61308e033bf",
+    "subject": "Reminder: USACE - Professional Support Services - MRAS",
+    "date": "2026-07-16T10:02:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "usace-professional-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6a60026b75d82",
+    "subject": "Reminder: TREAS - NETCOM - CS2100 PRI Provisioning & PSAP Routing Config - MRAS",
+    "date": "2026-07-16T10:01:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "treas-netcom-cs2100-pri-provisioning-psap-routing-config",
+    "triage": "PASS",
+    "triage_reason": "Core capability keyword(s): ['routing']"
+  },
+  {
+    "thread_id": "19f6a5f12653412b",
+    "subject": "Reminder: Army - CMAOD Admin Services Support - MRAS",
+    "date": "2026-07-16T10:00:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "army-cmaod-admin-services-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f6a5ef224b020c",
+    "subject": "Reminder: OSW - WHS - Security Support Services - MRAS",
+    "date": "2026-07-16T10:00:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "osw-whs-security-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
