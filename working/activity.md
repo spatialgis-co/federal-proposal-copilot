@@ -79,3 +79,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-07-20 00:15 — mras-daily-triage — processed 1 new (weekend reminder), submitted 0, rejected 0, blocked 0; DOJ OUSA carry-forward still needs manual action by 07/24 → working/mras-inbox/daily-queue-2026-07-20.md
 
 ## 2026-07-21 00:00 — mras-daily-triage — processed 8 new threads (all reminders, 0 new RFIs), submitted 0, rejected 0, blocked 0; MAYBE 1 (doj-ousa-professional-it-support-services carry-forward — DUE 07/24 — needs manual browser submission); 7 DECLINE → working/mras-inbox/daily-queue-2026-07-21.md
+
+## 2026-07-22 00:00 — mras-daily-triage — processed 10 threads (3 new RFIs, 3 reminders, 4 response confirmations), submitted 0, rejected 0, blocked 0; 3 new RFIs DECLINE (ATF Federated Search Platform — COTS product mismatch; NPS Law Enforcement Readiness SaaS — FedRAMP guardrail; HHS CDC Adolescent Health TA — public health, no IT/GIS match); DOJ OUSA SUBMITTED-CONFIRMED (prior MAYBE — response confirmation received) → working/mras-inbox/daily-queue-2026-07-22.md
