@@ -1,0 +1,129 @@
+[
+  {
+    "thread_id": "19f8d723f2f10bdd",
+    "subject": "Re: Sources Sought Response \u2014 RFI1824769 \u2014 SpatialGIS, L.L.C. (CAGE 7RFJ7)    [ ref:!00D300JVLI.!500SJ01Kcg0e:ref ]",
+    "date": "2026-07-23T05:28:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Good morning, Thank you for your inquiry, however, the GSA MRAS team does not have that information. After responding to an MRAS RFI through the link posted, an email is sent to the POC provided with",
+    "type": "admin_reply",
+    "slug": "re-sources-sought-response-rfi1824769-spatialgis-l-l-c-cage-7rfj7-ref-00d300jvli-500sj01kcg0e-ref",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8c5d9cca5b695",
+    "subject": "Regarding your GSA Market Research as a Service (MRAS) Inquiry . . . Re: Sources Sought Response \u2014 RFI1824769 \u2014 SpatialGIS, L.L.C. (CAGE 7RFJ7)",
+    "date": "2026-07-23T00:26:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Thank you for reaching out to the GSA MRAS Team - we will respond to your email within 24-72 hours.",
+    "type": "auto_response",
+    "slug": "regarding-your-gsa-market-research-as-a-service-mras-inquiry-re-sources-sought-response-rfi1824769-spatialgis-l-l-c-cage-7rfj7",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8ba8a4e799cc9",
+    "subject": "Army - Program Management Support Services (PMSS) - MRAS",
+    "date": "2026-07-22T21:08:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "type": "new_rfi",
+    "description": "Provide Program Management Support Services that includes applying agile approaches using SAFe for program acquisition, financial (business and contracting), sustainment operations, property and asset, and documentation management and technical planning and information technology support.",
+    "due_date": "2026-08-06",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bxe23D0nAAeQULA",
+    "slug": "army-program-management-support-services-pmss",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8a5051c880e29",
+    "subject": "DoD - Data Science and Research Support - MRAS",
+    "date": "2026-07-22T14:52:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "type": "new_rfi",
+    "description": "The Government seeks a commercial off-the-shelf data science and business research solution that provides access to comprehensive, frequently updated business, ownership, financial, supply chain, and geospatial data. The solution will support analysis of companies and related entities to identify ownership structures, beneficial ownership, foreign influence, supply chain risks, financial indicators, and other business relationships relevant to mission assurance and risk management.",
+    "due_date": "2026-08-05",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_erfihPmq9dRKOuq",
+    "slug": "dod-data-science-and-research-support",
+    "triage": "PASS",
+    "triage_reason": "Core capability keyword(s): ['geospatial']"
+  },
+  {
+    "thread_id": "19f8a0e45dc88ba2",
+    "subject": "POC Information: DOJ BOP - FSA Time Credit Calculation Model - MRAS",
+    "date": "2026-07-22T13:40:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under",
+    "type": "poc_notification",
+    "slug": "poc-information-doj-bop-fsa-time-credit-calculation-model",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8948a89532738",
+    "subject": "Reminder: DOJ  ATF - Federated Search Platform - MRAS",
+    "date": "2026-07-22T10:04:00Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "type": "reminder",
+    "slug": "doj-atf-federated-search-platform",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f894749bada5e3",
+    "subject": "Reminder: EPA - Information Management Program Support Services  - MRAS",
+    "date": "2026-07-22T10:02:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "type": "reminder",
+    "slug": "epa-information-management-program-support-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "19f8946a97c7a7a6",
+    "subject": "Reminder: Navy - SSP - Personnel Reliability Program (PRP) Administration - Market Research",
+    "date": "2026-07-22T10:01:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "type": "reminder",
+    "slug": "navy-ssp-personnel-reliability-program-prp-administration-market-research",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8946a5b7c0b0d",
+    "subject": "Reminder: DOI - NPS - Law Enforcement Readiness SaaS - MRAS",
+    "date": "2026-07-22T10:01:32Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "type": "reminder",
+    "slug": "doi-nps-law-enforcement-readiness-saas",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8945a9b157f16",
+    "subject": "Reminder: USAF - Pilot Training Transformation Device Support Services IV - MRAS",
+    "date": "2026-07-22T10:00:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "type": "reminder",
+    "slug": "usaf-pilot-training-transformation-device-support-services-iv",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19f8945a3845cdcb",
+    "subject": "Reminder: Army - CMAOD Admin Services Support - MRAS",
+    "date": "2026-07-22T10:00:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "type": "reminder",
+    "slug": "army-cmaod-admin-services-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
