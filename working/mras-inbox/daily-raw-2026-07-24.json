@@ -1,0 +1,112 @@
+[
+  {
+    "thread_id": "19f91346f6432005",
+    "subject": "Response Received: TREAS - IRS - Enforcement Revenue Information System (ERIS) - MRAS",
+    "date": "2026-07-23T22:59:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_b9iP37XYgl42zHw",
+    "response_id": "R_Gne9X162ZujNhK1",
+    "description": "Response confirmation for TREAS IRS ERIS survey."
+  },
+  {
+    "thread_id": "19f9133d8b1ee8e4",
+    "subject": "Response Received: OSW - WHS - Transportation Management Support Services - MRAS",
+    "date": "2026-07-23T22:58:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_0lF3NzIqo0TPBOu",
+    "response_id": "R_Ger62b2q69GivYD",
+    "description": "Response confirmation for OSW WHS Transportation Management Support Services survey."
+  },
+  {
+    "thread_id": "19f911208327a718",
+    "subject": "TREAS - IRS - Enforcement Revenue Information System (ERIS) - MRAS",
+    "date": "2026-07-23T22:21:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_b9iP37XYgl42zHw",
+    "survey_id": "SV_b9iP37XYgl42zHw",
+    "due_date": "07/29/2026",
+    "description": "Non-personnel services contract for COBOL computer programming support services for the operation and maintenance of the Enforcement Revenue Information System (ERIS) and provision of COBOL-based enhancements. Work performed at contractor's site."
+  },
+  {
+    "thread_id": "19f90bf5f09bc24c",
+    "subject": "OSW - WHS - Transportation Management Support Services - MRAS",
+    "date": "2026-07-23T20:51:27Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0lF3NzIqo0TPBOu",
+    "survey_id": "SV_0lF3NzIqo0TPBOu",
+    "due_date": "09/01/2026",
+    "description": "Management, analytical, and technical support services to support the WHS Transportation Management Program Office (TMPO) in providing efficient and effective transportation services to the DoD National Capital Region customer base."
+  },
+  {
+    "thread_id": "19f8f6a01f625dd5",
+    "subject": "Response Received: DOD - Data Science and Research Support Solution - MRAS",
+    "date": "2026-07-23T14:38:36Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_erfihPmq9dRKOuq",
+    "response_id": "R_GfkRy9Ee4HsWZcL",
+    "description": "Response confirmation for DoD Data Science and Research Support Solution survey."
+  },
+  {
+    "thread_id": "19f8f64543832ca4",
+    "subject": "Response Received: DOL - National Agricultural Workers Survey - MRAS",
+    "date": "2026-07-23T14:32:23Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_7ZI7ErARqZfrCeO",
+    "response_id": "R_GdTvybmgc19oEy5",
+    "description": "Response confirmation for DOL National Agricultural Workers Survey MRAS."
+  },
+  {
+    "thread_id": "19f8f62cd8b81b6a",
+    "subject": "Response Received: DOJ ATF - Federated Search Platform - MRAS",
+    "date": "2026-07-23T14:30:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_1NtI4oDTgFlcBYW",
+    "response_id": "R_GqZMevAvgVO4XaZ",
+    "description": "Response confirmation for DOJ ATF Federated Search Platform MRAS."
+  },
+  {
+    "thread_id": "19f8f6274422de2b",
+    "subject": "Response Received: DOI - NPS - Law Enforcement Readiness SaaS - MRAS",
+    "date": "2026-07-23T14:30:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_bwMn92lOdIJnvdI",
+    "response_id": "R_GDSm43mv3aF40mp",
+    "description": "Response confirmation for DOI NPS Law Enforcement Readiness SaaS MRAS."
+  },
+  {
+    "thread_id": "19f8f583a3e616a6",
+    "subject": "Response Received: Army - Program Management Support Services (PMSS) - MRAS",
+    "date": "2026-07-23T14:19:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_bxe23D0nAAeQULA",
+    "response_id": "R_G2D4ELCk2bDHU4n",
+    "description": "Response confirmation for Army Program Management Support Services (PMSS) MRAS."
+  },
+  {
+    "thread_id": "19f8e6db2c5bd042",
+    "subject": "Reminder: GSA AAS - CALM Recompete - MRAS",
+    "date": "2026-07-23T10:02:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3n5vt03T9S2Q5Bs",
+    "survey_id": "SV_3n5vt03T9S2Q5Bs",
+    "due_date": "07/24/2026",
+    "description": "CALM recompete: software licensing and Help Desk support for PRISM, Bizagi, AWS, and stackArmor supporting Development, Test, Training, and Production environments. CALM DM&E staffing for new IDVs or custom solicitations in FY28."
+  },
+  {
+    "thread_id": "19f8e6b6cebf120f",
+    "subject": "Reminder: DOL - National Agricultural Workers Survey - MRAS",
+    "date": "2026-07-23T10:00:08Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  }
+]
