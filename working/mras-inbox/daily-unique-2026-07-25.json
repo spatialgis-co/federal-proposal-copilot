@@ -1,0 +1,62 @@
+[
+  {
+    "thread_id": "19f94eeed1c86cee",
+    "subject": "TREAS - IRS - Remote Desktop support APP Software licensing   - MRAS",
+    "date": "2026-07-24T16:21:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_a8J3v0iPCklTugS",
+    "survey_id": "SV_a8J3v0iPCklTugS",
+    "due_date": "08/05/2026",
+    "description": "The purpose of this Statement of Work (SOW) is to define the functional, technical, security, and operational requirements for an enterprise Remote Support Solution capable of supporting the Internal Revenue Service (IRS) enterprise environment. The solution shall provide secure remote administration capabilities for Service Desk personnel while maintaining compliance with all applicable federal, Treasury, and IRS security, accessibility, and infrastructure standards.",
+    "slug": "treas-irs-remote-desktop-support-app-software-licensing"
+  },
+  {
+    "thread_id": "19f94c849a079759",
+    "subject": "TREAS - IRS - Qualified Opportunity Zones Reporting - MRAS",
+    "date": "2026-07-24T15:39:32Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cuzzoHIS4z2agRw",
+    "survey_id": "SV_cuzzoHIS4z2agRw",
+    "due_date": "07/28/2026",
+    "description": "The One Big Beautiful Bill Act (OB3) established new reporting requirements for investments in Qualified Opportunity Zones. The Statistics of Income (SOI) Division is responsible for analyzing and reporting on this data to support policy evaluation and oversight of the Opportunity Zone program.",
+    "slug": "treas-irs-qualified-opportunity-zones-reporting"
+  },
+  {
+    "thread_id": "19f9394ff01bec17",
+    "subject": "Reminder: GSA OCAS - FedHub Managed Service Office (MSO) Operations - MRAS",
+    "date": "2026-07-24T10:03:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9XHGddS8vARgiSW",
+    "survey_id": "SV_9XHGddS8vARgiSW",
+    "due_date": "07/31/2026",
+    "description": "The Contractor shall provide comprehensive program management and technical services to support the FedHub PMO and Management Board. The scope includes all tasks applicable for the existing implementation of FedHub/XMS at HHS. Because FedHub/XMS is already implemented at HHS.",
+    "slug": "gsa-ocas-fedhub-managed-service-office-mso-operations"
+  },
+  {
+    "thread_id": "19f939317bbc69bf",
+    "subject": "Reminder: HHS CDC - National Technical Assistance Center for Adolescent Health - MRAS",
+    "date": "2026-07-24T10:01:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2blRw9S2KPGoHFc",
+    "survey_id": "SV_2blRw9S2KPGoHFc",
+    "due_date": "07/27/2026",
+    "description": "The overall scope of the work includes four key areas: 1) Developing, maintaining, and operationalizing an Advisory Council; 2) Developing and implementing a strategic plan for evidenced based TA, PD, and PD on PD framework; 3) Developing and maintaining a TA and PD Center website for CDC-RFA-DP-24-0139, CDC-RFA-DP-23-0002 and CDC-RFA-DP-22-2203 funded recipients, unfunded recipients, future recipients, and DASH staff; and 4) Monitoring and evaluating for quality improvement of contractor processes and funded recipient outcomes.",
+    "slug": "hhs-cdc-national-technical-assistance-center-for-adolescent-health"
+  },
+  {
+    "thread_id": "19f9391c47e6047e",
+    "subject": "Reminder: HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-24T10:00:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cZPUR0kCGvOtheC",
+    "survey_id": "SV_cZPUR0kCGvOtheC",
+    "due_date": "07/29/2026",
+    "description": "CMS is seeking to continue CMS's Virtual Center Strategy mission by requiring the contractor to provide Application Testing, and NGD Change Control Board Management ensuring the VCS contractors continue to meet all current and future requirements and standards introduced by changing business needs.",
+    "slug": "hhs-cms-crm-enterprise-transformation-and-system-testing"
+  }
+]
