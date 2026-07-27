@@ -1,0 +1,15 @@
+[
+  {
+    "thread_id": "19fa096411ecf605",
+    "subject": "Response Received: TREAS - IRS - Qualified Opportunity Zones Reporting - MRAS",
+    "date": "2026-07-26T22:40:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "confirmation",
+    "survey_id": "SV_cuzzoHIS4z2agRw",
+    "response_confirmation_id": "SV_cuzzoHIS4z2agRw-R_G38fJkW8Kkegvw7",
+    "description": "Confirmation receipt for TREAS - IRS - Qualified Opportunity Zones Reporting. Response was submitted by a prior session. Not an actionable RFI.",
+    "slug": "treas-irs-qualified-opportunity-zones-reporting",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['reporting']"
+  }
+]
