@@ -1,0 +1,183 @@
+[
+  {
+    "thread_id": "19faad8e230f8280",
+    "subject": "OSW - DeCA IT Group Contracts Audit - MRAS",
+    "date": "2026-07-28T22:28:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "invitation",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "slug": "osw-deca-it-group-contracts-audit"
+  },
+  {
+    "thread_id": "19faa6384b400cb3",
+    "subject": "HHS CMS - Medicare Advantage Prescription Drug System - MRAS",
+    "date": "2026-07-28T20:21:14Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "invitation",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "slug": "hhs-cms-medicare-advantage-prescription-drug-system"
+  },
+  {
+    "thread_id": "19faa4e03d877223",
+    "subject": "DHS - USCIS Enterprise Contact Center - MRAS",
+    "date": "2026-07-28T19:57:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "invitation",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "slug": "dhs-uscis-enterprise-contact-center"
+  },
+  {
+    "thread_id": "19faa420fe5dd33c",
+    "subject": "HHS - Medknowledge - MRAS",
+    "date": "2026-07-28T19:44:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "invitation",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "slug": "hhs-medknowledge"
+  },
+  {
+    "thread_id": "19faa3bdfba6a98a",
+    "subject": "Response Received: USAF - Tactical ATC Command and Control System - MRAS",
+    "date": "2026-07-28T19:37:57Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "confirmation",
+    "survey_confirmation_id": "SV_2fMZR7dhYjjtD6K-R_GdTsIMm89C3cj0E",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56",
+      "INBOX"
+    ],
+    "slug": "usaf-tactical-atc-command-and-control-system"
+  },
+  {
+    "thread_id": "19faa3b38897b608",
+    "subject": "Response Received: HHS CMS - HARBOR - MRAS",
+    "date": "2026-07-28T19:37:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "confirmation",
+    "survey_confirmation_id": "SV_6YdTJdQkxtsiYom-R_G62oCfoaL58gJKu",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "slug": "hhs-cms-harbor"
+  },
+  {
+    "thread_id": "19faa3761454b92e",
+    "subject": "Response Received: PBGC - Procurement Department Acquisition Support - MRAS",
+    "date": "2026-07-28T19:33:01Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "confirmation",
+    "survey_confirmation_id": "SV_6A9JMbVXwtPMs6O-R_GmXvE20BQRcY03n",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_61",
+      "Label_3145513740325221592",
+      "INBOX"
+    ],
+    "slug": "pbgc-procurement-department-acquisition-support"
+  },
+  {
+    "thread_id": "19fa9b0331a88d50",
+    "subject": "POC Information: HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-28T17:05:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53"
+    ],
+    "slug": "poc-information-hhs-cms-crm-enterprise-transformation-and-system-testing"
+  },
+  {
+    "thread_id": "19fa9aa019121cce",
+    "subject": "POC Information: DHS USCG - Strategic Services - MRAS",
+    "date": "2026-07-28T16:58:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "slug": "poc-information-dhs-uscg-strategic-services"
+  },
+  {
+    "thread_id": "19fa9a9380bf179d",
+    "subject": "POC Information: DOJ BOP - Training and Support Services FSA Time Credit Administration - MRAS",
+    "date": "2026-07-28T16:57:46Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56",
+      "INBOX"
+    ],
+    "slug": "poc-information-doj-bop-training-and-support-services-fsa-time-credit-administration"
+  },
+  {
+    "thread_id": "19fa9a8f4e1d8f16",
+    "subject": "POC Information: DOJ OUSA - Professional IT Support Services - MRAS",
+    "date": "2026-07-28T16:57:29Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "slug": "poc-information-doj-ousa-professional-it-support-services"
+  },
+  {
+    "thread_id": "19fa82c8ef1f92e4",
+    "subject": "Reminder: HHS CMS - CRM Enterprise Transformation and System Testing - MRAS",
+    "date": "2026-07-28T10:01:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "note": "POC Information email (19fa9b0331a88d50) exists \u2014 already submitted previously.",
+    "slug": "hhs-cms-crm-enterprise-transformation-and-system-testing"
+  }
+]
