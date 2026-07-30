@@ -1,0 +1,52 @@
+[
+  {
+    "thread_id": "19fafd9725a20c90",
+    "subject": "GSA OGP - On Phishing Resistant Authenticator Products - MRAS",
+    "date": "2026-07-29T21:48:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new",
+    "slug": "gsa-ogp-on-phishing-resistant-authenticator-products",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fafcbe8a137cb7",
+    "subject": "USAF - Chief Data and Artificial Intelligence Office Support Services - MRAS",
+    "date": "2026-07-29T21:33:21Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new",
+    "slug": "usaf-chief-data-and-artificial-intelligence-office-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19faf44af91d712e",
+    "subject": "HHS - NPDB Customer Service & Program Operations - MRAS",
+    "date": "2026-07-29T19:05:31Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new",
+    "slug": "hhs-npdb-customer-service-program-operations",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19faf426b26482cc",
+    "subject": "EPA - Partnership Acquisition of Services - MRAS",
+    "date": "2026-07-29T19:03:07Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new",
+    "slug": "epa-partnership-acquisition-of-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fad51fe1f5b70a",
+    "subject": "Reminder: OSW - DeCA IT Group Contracts Audit - MRAS",
+    "date": "2026-07-29T10:00:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "slug": "osw-deca-it-group-contracts-audit",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
