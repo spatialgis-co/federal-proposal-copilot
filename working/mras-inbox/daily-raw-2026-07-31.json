@@ -1,0 +1,170 @@
+[
+  {
+    "thread_id": "19fb5e2097fdd89a",
+    "subject": "Response Received: OSW - DeCA IT Group Contracts Audit - MRAS",
+    "date": "2026-07-31T01:55:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received"
+  },
+  {
+    "thread_id": "19fb5e11f95bbc65",
+    "subject": "Response Received: DOT - Crash Data Acquisition Network (CDAN) DME - MRAS",
+    "date": "2026-07-31T01:54:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received"
+  },
+  {
+    "thread_id": "19fb5e08eecf21f1",
+    "subject": "Response Received: GSA FAS - Evaluation and Post-Award Administration  Support - MRAS",
+    "date": "2026-07-31T01:53:40Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received"
+  },
+  {
+    "thread_id": "19fb5dfdae624277",
+    "subject": "Response Received: EPA - Partnership Acquisition of Services - MRAS",
+    "date": "2026-07-31T01:52:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received"
+  },
+  {
+    "thread_id": "19fb5ded4ad69644",
+    "subject": "Response Received: USAF - Chief Data and Artificial Intelligence Office Support Services - MRAS",
+    "date": "2026-07-31T01:51:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received"
+  },
+  {
+    "thread_id": "19fb5418108397fb",
+    "subject": "POC Information: TREAS - IRS - Enforcement Revenue Information System (ERIS) - MRAS",
+    "date": "2026-07-30T22:59:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb5406f0ee5909",
+    "subject": "POC Information: OSW - WHS - Transportation Management Support Services - MRAS",
+    "date": "2026-07-30T22:58:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb4f7d1f946e3b",
+    "subject": "Army - ADN-MCN FIBER INSTALL - MRAS",
+    "date": "2026-07-30T21:39:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new"
+  },
+  {
+    "thread_id": "19fb4e55481fb729",
+    "subject": "GSA OCAS - Oracle Primavera P6 Software Licenses - MRAS",
+    "date": "2026-07-30T21:19:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new"
+  },
+  {
+    "thread_id": "19fb4a0ae9e234ba",
+    "subject": "GSA - CALM Recompete 2 - MRAS",
+    "date": "2026-07-30T20:04:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new"
+  },
+  {
+    "thread_id": "19fb3cca869520d5",
+    "subject": "HHS IHS - IBM AIX Maintenance Service Support - MRAS",
+    "date": "2026-07-30T16:12:37Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new"
+  },
+  {
+    "thread_id": "19fb3b466b83384a",
+    "subject": "DOT - Crash Data Acquisition Network (CDAN) DME - MRAS",
+    "date": "2026-07-30T15:46:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new"
+  },
+  {
+    "thread_id": "19fb3767b293f897",
+    "subject": "POC Information: DOD - Data Science and Research Support Solution - MRAS",
+    "date": "2026-07-30T14:38:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb370f201cfcd1",
+    "subject": "POC Information: DOL - National Agricultural Workers Survey - MRAS",
+    "date": "2026-07-30T14:32:31Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb36ff49707ac6",
+    "subject": "POC Information: DOJ  ATF - Federated Search Platform - MRAS",
+    "date": "2026-07-30T14:31:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb36f1e66fe593",
+    "subject": "POC Information: DOI - NPS - Law Enforcement Readiness SaaS - MRAS",
+    "date": "2026-07-30T14:30:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb364c963da9e7",
+    "subject": "POC Information: Army - Program Management Support Services (PMSS) - MRAS",
+    "date": "2026-07-30T14:19:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information"
+  },
+  {
+    "thread_id": "19fb30592bc54c21",
+    "subject": "GSA FAS - Evaluation and Post-Award Administration  Support - MRAS",
+    "date": "2026-07-30T12:35:11Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new"
+  },
+  {
+    "thread_id": "19fb27c3bdd51468",
+    "subject": "Reminder: HHS CMS - Medicare Advantage Prescription Drug System - MRAS",
+    "date": "2026-07-30T10:04:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19fb27c0048f47d0",
+    "subject": "Reminder: HHS - Medknowledge - MRAS",
+    "date": "2026-07-30T10:04:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19fb27bc1b44f28d",
+    "subject": "Reminder: DHS - USCIS Enterprise Contact Center - MRAS",
+    "date": "2026-07-30T10:04:40Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19fb27a24d5bba54",
+    "subject": "Reminder: GSA OGP - On Phishing Resistant Authenticator Products - MRAS",
+    "date": "2026-07-30T10:02:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19fb279ecc182af4",
+    "subject": "Reminder: DHS TSA- Secure Infrastructure & Vulnerability Management - MRAS",
+    "date": "2026-07-30T10:02:27Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  },
+  {
+    "thread_id": "19fb278d51c5f143",
+    "subject": "Reminder: GSA OCAS - FedHub Managed Service Office (MSO) Operations - MRAS",
+    "date": "2026-07-30T10:00:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder"
+  }
+]
