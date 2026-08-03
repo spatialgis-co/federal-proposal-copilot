@@ -1,0 +1,23 @@
+[
+  {
+    "thread_id": "19fc4a344553f431",
+    "subject": "POC Information: TREAS - IRS - Qualified Opportunity Zones Reporting - MRAS",
+    "date": "2026-08-02T22:40:59Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "description": "Post-submission POC notification. GSA MRAS confirms SpatialGIS responded to the TREAS-IRS Qualified Opportunity Zones Reporting RFI and provides agency POC contact information: Kinyse.C.Hailey@irs.gov (Agency); mark.king@gsa.gov (GSA CSD).",
+    "due_date": null,
+    "survey_url": null,
+    "survey_id": null,
+    "agency_poc": "Kinyse.C.Hailey@irs.gov",
+    "gsa_poc": "mark.gov@gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "slug": "poc-information-treas-irs-qualified-opportunity-zones-reporting"
+  }
+]
