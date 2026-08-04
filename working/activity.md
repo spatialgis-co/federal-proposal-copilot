@@ -103,3 +103,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-08-02 00:00 — mras-daily-triage — processed 0 threads; no new MRAS emails from rfi@research.gsa.gov in last 24h; submitted 0, rejected 0, blocked 0; PASS=0 MAYBE=0 DECLINE=0 → working/mras-inbox/daily-queue-2026-08-02.md
 
 ## 2026-08-03 00:00 — mras-daily-triage — processed 1 thread (1 poc_info post-submission notification); submitted 0, rejected 0, blocked 0; PASS=0 MAYBE=0 DECLINE=0; QOZ POC email confirms Kendrick's manual submission was accepted by GSA; proxy block ongoing → working/mras-inbox/daily-queue-2026-08-03.md
+
+## 2026-08-04 00:00 — mras-daily-triage — processed 7 threads (1 new invitation + 6 reminders); submitted 0, rejected 0, blocked 0; PASS=0 MAYBE=0 new (3 carry-forward open MAYBEs) DECLINE=4 new (TREAS-IRS-QOZ-creation, ED-Presidential-Scholars, DOC-NOAA-Scholarship, GSA-CALM-Recompete-2); proxy block feedback.gsa.gov ongoing → working/mras-inbox/daily-queue-2026-08-04.md
