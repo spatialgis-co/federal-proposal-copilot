@@ -1,0 +1,319 @@
+[
+  {
+    "thread_id": "19fcf33e0883e111",
+    "subject": "GAS AAS - USAF Financial and IT Support Services Recompete - MRAS",
+    "date": "2026-08-04T23:55:02Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "email_type": "new_rfi",
+    "slug": "gas-aas-usaf-financial-and-it-support-services-recompete",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['IT support']"
+  },
+  {
+    "thread_id": "19fce7f1078e1f39",
+    "subject": "TREAS - IRS - Complex Structure Graph Analytics Platform Enhance - MRAS",
+    "date": "2026-08-04T20:37:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "email_type": "new_rfi",
+    "slug": "treas-irs-complex-structure-graph-analytics-platform-enhance",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fce48a6ccb0091",
+    "subject": "POC Information: USAF - Tactical ATC Command and Control System - MRAS",
+    "date": "2026-08-04T19:38:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "email_type": "poc_information",
+    "slug": "poc-information-usaf-tactical-atc-command-and-control-system",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fce48328764320",
+    "subject": "POC Information: HHS CMS - HARBOR - MRAS",
+    "date": "2026-08-04T19:37:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53"
+    ],
+    "email_type": "poc_information",
+    "slug": "poc-information-hhs-cms-harbor",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fce43f46dd7546",
+    "subject": "POC Information: PBGC - Procurement Department Acquisition Support - MRAS",
+    "date": "2026-08-04T19:33:07Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "email_type": "poc_information",
+    "slug": "poc-information-pbgc-procurement-department-acquisition-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fce2b7e8888b05",
+    "subject": "USDA APHIS - Program Support and Manuals Program Services - MRAS",
+    "date": "2026-08-04T19:06:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "email_type": "new_rfi",
+    "slug": "usda-aphis-program-support-and-manuals-program-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "19fce21d7aeefaea",
+    "subject": "Regarding your GSA Market Research as a Service (MRAS) Inquiry . . . Re: Sources Sought Response \u2014 RFI1827371 \u2014 SpatialGIS, L.L.C. (CAGE 7RFJ7)",
+    "date": "2026-08-04T18:55:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56",
+      "INBOX"
+    ],
+    "email_type": "inquiry_response",
+    "slug": "regarding-your-gsa-market-research-as-a-service-mras-inquiry-re-sources-sought-response-rfi1827371-spatialgis-l-l-c-cage-7rfj7",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcd190cc07791b",
+    "subject": "Response Received: DOC - NOAA Education Scholarship Support Services - MRAS",
+    "date": "2026-08-04T14:06:37Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "Label_61",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "INBOX"
+    ],
+    "email_type": "response_received",
+    "slug": "doc-noaa-education-scholarship-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcd18a1ad7c671",
+    "subject": "Response Received: ED - Presidential Scholars Program Support Services - MRAS",
+    "date": "2026-08-04T14:06:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "email_type": "response_received",
+    "slug": "ed-presidential-scholars-program-support-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "19fcd17dab341c04",
+    "subject": "Response Received: USACE - Collaborative Partnering - MRAS",
+    "date": "2026-08-04T14:05:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56",
+      "INBOX"
+    ],
+    "email_type": "response_received",
+    "slug": "usace-collaborative-partnering",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcd0c92e506f8b",
+    "subject": "Response Received: DOE - Cyber Security, Information & Support Services - MRAS",
+    "date": "2026-08-04T13:53:00Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "email_type": "response_received",
+    "slug": "doe-cyber-security-information-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcd0bdb0a1854c",
+    "subject": "Response Received: DOE - Operation Program Support Services (OPSS) - MRAS",
+    "date": "2026-08-04T13:52:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "email_type": "response_received",
+    "slug": "doe-operation-program-support-services-opss",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "19fcc3d335b494e6",
+    "subject": "Reminder: GSA OCAS - Oracle Primavera P6 Software Licenses - MRAS",
+    "date": "2026-08-04T10:05:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "gsa-ocas-oracle-primavera-p6-software-licenses",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcc3cdf4851f94",
+    "subject": "Reminder: TREAS IRS - Creation of Qualified Opportunity Zone - MRAS",
+    "date": "2026-08-04T10:05:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "treas-irs-creation-of-qualified-opportunity-zone",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcc3c76014b3ba",
+    "subject": "Reminder: HHS IHS - IBM AIX Maintenance Service Support - MRAS",
+    "date": "2026-08-04T10:05:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "hhs-ihs-ibm-aix-maintenance-service-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcc3be1817e05a",
+    "subject": "Reminder: DHS - USCIS Enterprise Contact Center - MRAS",
+    "date": "2026-08-04T10:04:35Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "dhs-uscis-enterprise-contact-center",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcc395d999d57d",
+    "subject": "Reminder: HHS - NPDB Customer Service & Program Operations - MRAS",
+    "date": "2026-08-04T10:02:17Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "hhs-npdb-customer-service-program-operations",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcc391aad8383b",
+    "subject": "Reminder: TREAS - IRS - Remote Desktop support APP Software licensing   - MRAS",
+    "date": "2026-08-04T10:01:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "treas-irs-remote-desktop-support-app-software-licensing",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fcc390aa7cfac3",
+    "subject": "Reminder: HHS - Medknowledge - MRAS",
+    "date": "2026-08-04T10:01:19Z",
+    "sender": "rfi@research.gsa.gov",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "email_type": "reminder",
+    "slug": "hhs-medknowledge",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
