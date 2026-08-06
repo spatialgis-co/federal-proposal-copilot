@@ -1,0 +1,93 @@
+{
+  "run_date": "2026-08-06",
+  "query": "from:rfi@research.gsa.gov newer_than:1d",
+  "result_count_estimate": 8,
+  "threads": [
+    {
+      "thread_id": "19fd327528044961",
+      "subject": "Response Received:",
+      "date": "2026-08-05T18:19:57Z",
+      "type": "response_confirmation",
+      "survey_id": "SV_8BUUHt3ADUYTD5c",
+      "confirmation_id": "SV_8BUUHt3ADUYTD5c-R_GJ59RIHNg5aVVth",
+      "inferred_opportunity": "USDA APHIS - Program Support and Manuals Program Services",
+      "label_ids": ["IMPORTANT", "Label_3145513740325221592", "Label_56", "INBOX"]
+    },
+    {
+      "thread_id": "19fd326611d96e36",
+      "subject": "Response Received: USAF AAS - Financial and IT Support Services Recompete - Market Research",
+      "date": "2026-08-05T18:18:53Z",
+      "type": "response_confirmation",
+      "survey_id": "SV_bpYyzvMt82YbbfM",
+      "confirmation_id": "SV_bpYyzvMt82YbbfM-R_GEWFX1oi5oprjZt",
+      "inferred_opportunity": "USAF AAS - Financial and IT Support Services Recompete",
+      "label_ids": ["IMPORTANT", "Label_3145513740325221592", "Label_56", "INBOX"]
+    },
+    {
+      "thread_id": "19fd2b2cb25c48cc",
+      "subject": "Army - MCASP Recompete - MRAS",
+      "date": "2026-08-05T16:12:33Z",
+      "type": "new_rfi",
+      "survey_id": "SV_a66t6xKqEnaEuMe",
+      "due_date": "2026-08-18",
+      "slug": "army-mcasp-recompete",
+      "description": "Acquire instructors and IT personnel to support program and instruction for operational mission commands systems for the Mission Command Arts and Sciences Program (MCASP).",
+      "label_ids": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_55", "INBOX"]
+    },
+    {
+      "thread_id": "19fd1614d6df46d5",
+      "subject": "Reminder: OMB EOP - Verification & Validation Process Improvement - MRAS",
+      "date": "2026-08-05T10:03:40Z",
+      "type": "reminder",
+      "survey_id": "SV_dnCSNNVXk3XPusu",
+      "due_date": "2026-08-19",
+      "slug": "omb-eop-verification-validation-process-improvement",
+      "prior_triage": "MAYBE",
+      "label_ids": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_59", "INBOX"]
+    },
+    {
+      "thread_id": "19fd160cc04f8f41",
+      "subject": "Reminder: HHS CMS - Medicare Advantage Prescription Drug System - MRAS",
+      "date": "2026-08-05T10:02:38Z",
+      "type": "reminder",
+      "survey_id": "SV_25caC69iw0ctqia",
+      "due_date": "2026-08-06",
+      "slug": "hhs-cms-medicare-advantage-prescription-drug-system",
+      "prior_triage": "DECLINE",
+      "label_ids": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_54", "INBOX"]
+    },
+    {
+      "thread_id": "19fd15f878711aeb",
+      "subject": "Reminder: GSA OGP - On Phishing Resistant Authenticator Products - MRAS",
+      "date": "2026-08-05T10:01:27Z",
+      "type": "reminder",
+      "survey_id": "SV_3dtEOB6JwOQnxum",
+      "due_date": "2026-08-12",
+      "slug": "gsa-ogp-on-phishing-resistant-authenticator-products",
+      "prior_triage": "DECLINE",
+      "label_ids": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_54", "INBOX"]
+    },
+    {
+      "thread_id": "19fd15f81cd4d078",
+      "subject": "Reminder: USDA APHIS - Program Support and Manuals Program Services - MRAS",
+      "date": "2026-08-05T10:01:25Z",
+      "type": "reminder",
+      "survey_id": "SV_8BUUHt3ADUYTD5c",
+      "due_date": "2026-08-10",
+      "slug": "usda-aphis-program-support-and-manuals-program-services",
+      "note": "Response confirmation received same day (thread 19fd327528044961); already submitted by Kendrick.",
+      "label_ids": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_55", "INBOX"]
+    },
+    {
+      "thread_id": "19fd15e3f2cb7932",
+      "subject": "Reminder: GAS AAS - USAF Financial and IT Support Services Recompete - MRAS",
+      "date": "2026-08-05T10:00:12Z",
+      "type": "reminder",
+      "survey_id": "SV_bpYyzvMt82YbbfM",
+      "due_date": "2026-08-11",
+      "slug": "usaf-aas-financial-it-support-services-recompete",
+      "note": "Response confirmation received same day (thread 19fd326611d96e36); already submitted by Kendrick.",
+      "label_ids": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_54", "INBOX"]
+    }
+  ]
+}
