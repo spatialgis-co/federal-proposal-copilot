@@ -1,0 +1,86 @@
+[
+  {
+    "thread_id": "19fdd9534d9d839a",
+    "subject": "USAF - Radar Warning Receiver (RWR) Engineering Services - MRAS",
+    "date": "2026-08-07T18:56:06Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "label_ids": [
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "slug": "usaf-radar-warning-receiver-rwr-engineering-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fdd384a6b62f2a",
+    "subject": "DHS - AV System Upgrade - Potomac Hall, Harpers Ferry, WV - MRAS",
+    "date": "2026-08-07T17:14:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "slug": "dhs-av-system-upgrade-potomac-hall-harpers-ferry-wv",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fdbadfa5bca982",
+    "subject": "Reminder: HHS CDC - Automated Labeler Support - MRAS",
+    "date": "2026-08-07T10:03:48Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "slug": "hhs-cdc-automated-labeler-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fdbab0b3aad1a5",
+    "subject": "Reminder: DOJ EOUSA - Victim Notification System Operations and Maintenance - MRAS",
+    "date": "2026-08-07T10:00:17Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_54",
+      "INBOX"
+    ],
+    "slug": "doj-eousa-victim-notification-system-operations-and-maintenance",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "19fdbaae66675a1b",
+    "subject": "Reminder: Army - MCASP Recompete - MRAS",
+    "date": "2026-08-07T10:00:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "label_ids": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_59",
+      "INBOX"
+    ],
+    "slug": "army-mcasp-recompete",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]

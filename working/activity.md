@@ -111,3 +111,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-08-06 00:00 — mras-daily-triage — processed 8 threads (1 new RFI, 2 response confirmations, 5 reminders); submitted 0 automated, 2 confirmed-Kendrick (USAF AAS Financial IT Support + USDA APHIS Program Support); PASS=0 MAYBE=0 new DECLINE=1 (Army MCASP Recompete — instructor/training role, no GIS fit); proxy block feedback.gsa.gov ongoing → working/mras-inbox/daily-queue-2026-08-06.md
 
 ## 2026-08-07 00:00 — mras-daily-triage — processed 16 threads (6 new RFI invitations, 5 POC confirmations, 5 reminders); submitted 0, rejected 0, blocked 0; PASS=0 MAYBE=0 DECLINE=16; DHS USCG Boating Activity Imagery Study flagged for human review (imagery keyword ambiguous); proxy block feedback.gsa.gov ongoing → working/mras-inbox/daily-queue-2026-08-07.md
+
+## 2026-08-08 00:00 — mras-daily-triage — processed 5 threads (2 new RFI invitations, 3 reminders); submitted 0, rejected 0, blocked 0; PASS=0 MAYBE=0 DECLINE=5; no GIS-fit RFIs; proxy block feedback.gsa.gov ongoing → working/mras-inbox/daily-queue-2026-08-08.md
