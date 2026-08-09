@@ -1,0 +1,20 @@
+{
+  "date": "2026-08-09",
+  "total_threads": 1,
+  "pass": [],
+  "maybe": [],
+  "decline": [
+    {
+      "thread_id": "19fe0d1416a63378",
+      "slug": "hhs-cdc-automated-labeler-support",
+      "subject": "Reminder: HHS CDC - Automated Labeler Support - MRAS",
+      "type": "reminder",
+      "agency": "HHS / CDC",
+      "due_date": "2026-08-10",
+      "triage_result": "DECLINE",
+      "rationale": "Lab tube-labeling equipment O&M. Requirement is onsite installation, preventive maintenance, and repair of a Government-owned automated laboratory tube labeling system. No GIS, geospatial, or IT component. Matches neither capability_keywords_pass nor capability_keywords_maybe. Previously DECLINE on 2026-08-07. Second reminder for a closing-tomorrow opportunity."
+    }
+  ],
+  "skip_submitted": [],
+  "skip_past_due": []
+}
