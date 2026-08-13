@@ -1,0 +1,130 @@
+[
+  {
+    "thread_id": "19ff9adafa5cae5a",
+    "subject": "Response Received: DOJ USMS - Executive, Administrative and Professional Support - MRAS",
+    "date": "2026-08-13T05:52:16Z",
+    "email_type": "response_received",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "doj-usms-executive-administrative-and-professional-support"
+  },
+  {
+    "thread_id": "19ff9a97311dc312",
+    "subject": "Response Received: HHS - OCSE Child Support Systems - MRAS",
+    "date": "2026-08-13T05:47:39Z",
+    "email_type": "response_received",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "hhs-ocse-child-support-systems"
+  },
+  {
+    "thread_id": "19ff9a8bcfbe2bb2",
+    "subject": "Response Received: DOJ EOUSA - Victim Notification System Operations and Maintenance - MRAS",
+    "date": "2026-08-13T05:46:52Z",
+    "email_type": "response_received",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "doj-eousa-victim-notification-system-operations-and-maintenance"
+  },
+  {
+    "thread_id": "19ff9a7fee4e3e7f",
+    "subject": "Response Received: HHS - OMHRC Streamlining Support - MRAS",
+    "date": "2026-08-13T05:46:03Z",
+    "email_type": "response_received",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "hhs-omhrc-streamlining-support"
+  },
+  {
+    "thread_id": "19ff9a748c54d888",
+    "subject": "Response Received: DHS USCG - Boating Activity Imagery Study - MRAS",
+    "date": "2026-08-13T05:45:16Z",
+    "email_type": "response_received",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "dhs-uscg-boating-activity-imagery-study"
+  },
+  {
+    "thread_id": "19ff9a6a02fd857f",
+    "subject": "Response Received: Army - Human Performance and Student Management System - MRAS",
+    "date": "2026-08-13T05:44:32Z",
+    "email_type": "response_received",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "army-human-performance-and-student-management-system"
+  },
+  {
+    "thread_id": "19ff773e39d00a91",
+    "subject": "Navy - NAVSUP WSS N97 Post-Award Cont - MRAS",
+    "date": "2026-08-12T19:29:53Z",
+    "email_type": "new_rfi",
+    "sender": "rfi@research.gsa.gov",
+    "survey_id": "SV_9Lk7Uvi4aNbazCC",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9Lk7Uvi4aNbazCC",
+    "due_date": "2026-08-26",
+    "description": "Naval Supply Systems Command Weapon Systems Support N7 and N97 Directorates require professional contract management and advisory services to manage, expedite, and close out a significant backlog of post-award contracts.",
+    "slug": "navy-navsup-wss-n97-post-award-cont"
+  },
+  {
+    "thread_id": "19ff7348485e0467",
+    "subject": "POC Information: USDA APHIS - Program Support and Manuals Program Services - MRAS",
+    "date": "2026-08-12T18:20:41Z",
+    "email_type": "poc_info",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "poc-information-usda-aphis-program-support-and-manuals-program-services"
+  },
+  {
+    "thread_id": "19ff56ebe3eee88f",
+    "subject": "Reminder: USAF - Radar Warning Receiver (RWR) Engineering Services - MRAS",
+    "date": "2026-08-12T10:04:55Z",
+    "email_type": "reminder",
+    "sender": "rfi@research.gsa.gov",
+    "survey_id": "SV_cU7Phj6PQaEdjJs",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cU7Phj6PQaEdjJs",
+    "due_date": "2026-08-24",
+    "description": "Provide software engineering services for PACER WARE OFP updates. Perform Engineering Services according to the PWS.",
+    "slug": "usaf-radar-warning-receiver-rwr-engineering-services"
+  },
+  {
+    "thread_id": "19ff56dde1c690bc",
+    "subject": "Reminder: GSA OGP - On Phishing Resistant Authenticator Products - MRAS",
+    "date": "2026-08-12T10:03:51Z",
+    "email_type": "reminder",
+    "sender": "rfi@research.gsa.gov",
+    "survey_id": "SV_3dtEOB6JwOQnxum",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3dtEOB6JwOQnxum",
+    "due_date": "2026-08-12",
+    "description": "GSA OGP FICS Division - phishing resistant authenticators, FIDO2, PIV cards, PQC experiments, PACS Lab.",
+    "slug": "gsa-ogp-on-phishing-resistant-authenticator-products"
+  },
+  {
+    "thread_id": "19ff56cb32f07d16",
+    "subject": "Reminder: HHS ACF - OCSE Child Support Systems - MRAS",
+    "date": "2026-08-12T10:02:42Z",
+    "email_type": "reminder",
+    "sender": "rfi@research.gsa.gov",
+    "survey_id": "SV_cuRoUDcFaMhY9X8",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cuRoUDcFaMhY9X8",
+    "due_date": "2026-08-17",
+    "description": "Office of Child Support Enforcement (OCSE) - federal child support location and collection systems.",
+    "slug": "hhs-acf-ocse-child-support-systems"
+  },
+  {
+    "thread_id": "19ff56b623610446",
+    "subject": "Reminder: TREAS - IRS - Non-IT Consulting BPA - MRAS",
+    "date": "2026-08-12T10:01:19Z",
+    "email_type": "reminder",
+    "sender": "rfi@research.gsa.gov",
+    "survey_id": "SV_ekT6kyUM9bHCArI",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_ekT6kyUM9bHCArI",
+    "due_date": "2026-08-28",
+    "description": "IRS Taxpayer Services multiple-award BPA for professional non-IT consulting services.",
+    "slug": "treas-irs-non-it-consulting-bpa"
+  },
+  {
+    "thread_id": "19ff56adddb50022",
+    "subject": "Reminder: OMB EOP - Verification & Validation Process Improvement - MRAS",
+    "date": "2026-08-12T10:00:15Z",
+    "email_type": "reminder",
+    "sender": "rfi@research.gsa.gov",
+    "survey_id": "SV_dnCSNNVXk3XPusu",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_dnCSNNVXk3XPusu",
+    "due_date": "2026-08-19",
+    "description": "OFPP seeking technical solution for Verification & Validation (V&V) for Federal Procurement Data System (SAM.gov) reporting.",
+    "slug": "omb-eop-verification-validation-process-improvement"
+  }
+]
