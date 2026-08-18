@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-18",
+  "total_unique": 4,
+  "pass": [],
+  "maybe": [],
+  "decline": [
+    {
+      "slug": "navy-tacamo-administrative-support",
+      "thread_id": "1a010b04b11ce006",
+      "agency": "Navy",
+      "subject": "Navy - TACAMO Administrative Support - MRAS",
+      "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3EGNJGzbbEiI4iW",
+      "due_date": "2026-08-31",
+      "triage_bucket": "DECLINE",
+      "decline_reason": "Military operational administrative support for Navy TACAMO (Strategic Communications Wing ONE / nuclear command relay aircraft program). Scope includes deployed support — outside SpatialGIS's NAICS portfolio (541370/541511/541512/541519) and no documented capability in military garrison/deployed operations support. Keyword match ('technical services') is superficial; actual scope is military mission support.",
+      "keyword_triggers": ["technical services", "administrative support"]
+    },
+    {
+      "slug": "dhs-cbp-itrp-information-technology-refresh-program",
+      "thread_id": "1a0103414284f7e0",
+      "agency": "DHS CBP",
+      "subject": "DHS - Information Technology Refresh Program (ITRP) - MRAS",
+      "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8kAmqUmmbBBXOGq",
+      "due_date": "2026-08-31",
+      "triage_bucket": "DECLINE",
+      "decline_reason": "Hardware device refresh procurement contract — CBP requires lifecycle management and device refreshment for ~28,000 end user devices per year plus peripherals and network hardware. This is a product-heavy logistics/supply contract, not GIS professional services. SpatialGIS holds SIN 54151S (IT professional services), not a hardware/product SIN. No GIS or data analytics component described. NAICS mismatch.",
+      "keyword_triggers": ["information technology"]
+    },
+    {
+      "slug": "ed-ies-nces-annual-report-development-production",
+      "thread_id": "1a00f2d92ce69cc4",
+      "agency": "ED IES / NCES",
+      "subject": "Reminder: ED - NCES Annual Report Development and Production - MRAS",
+      "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9Y1HVY7ejLETnDM",
+      "due_date": "2026-08-18",
+      "triage_bucket": "DECLINE",
+      "skip_closed": true,
+      "decline_reason": "Education statistics annual publication production — specialized domain (K-12/postsecondary education data, NCES Digest/Condition of Education series). Requires deep education research and publishing expertise not in SpatialGIS's portfolio. Due date is TODAY (08/18/2026) — response window effectively closed.",
+      "keyword_triggers": ["data analysis", "reporting"]
+    },
+    {
+      "slug": "dhs-atc-av-system-upgrade-potomac-hall-harpers-ferry",
+      "thread_id": "1a00f2c18c106f69",
+      "agency": "DHS ATC",
+      "subject": "Reminder: DHS - AV System Upgrade - Potomac Hall, Harpers Ferry, WV - MRAS",
+      "survey_url": "https://feedback.gsa.gov/jfe/form/SV_1FVSxCqIrBr45ka",
+      "due_date": "2026-08-18",
+      "triage_bucket": "DECLINE",
+      "skip_closed": true,
+      "decline_reason": "Audio-visual hardware installation and rack consolidation in a law enforcement training facility. AV equipment procurement and installation is completely outside SpatialGIS's NAICS and SIN portfolio — no IT services, no GIS component. Due date is TODAY (08/18/2026) — response window effectively closed.",
+      "keyword_triggers": []
+    }
+  ],
+  "filtered": [
+    {
+      "thread_id": "1a0109dffec6d004",
+      "subject": "Regarding your GSA MRAS Inquiry — Sources Sought Response — RFI1830545 — SpatialGIS",
+      "filter_reason": "auto_reply — acknowledgment of prior submission, not a new opportunity"
+    }
+  ]
+}

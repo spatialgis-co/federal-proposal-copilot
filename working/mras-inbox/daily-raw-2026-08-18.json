@@ -1,0 +1,72 @@
+[
+  {
+    "thread_id": "1a010b04b11ce006",
+    "subject": "Navy - TACAMO Administrative Support - MRAS",
+    "date": "2026-08-17T17:06:14Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3EGNJGzbbEiI4iW",
+    "survey_id": "SV_3EGNJGzbbEiI4iW",
+    "due_date": "2026-08-31",
+    "agency": "Navy",
+    "slug": "navy-tacamo-administrative-support",
+    "description": "Strategic Communications Wing ONE (SCW-1) and Task Group 114.2 contract support and technical services for assigned missions, functions and tasks. Both in-garrison and deployed support. Labor categories requested.",
+    "labels": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_55", "INBOX"]
+  },
+  {
+    "thread_id": "1a0109dffec6d004",
+    "subject": "Regarding your GSA Market Research as a Service (MRAS) Inquiry . . . Re: Sources Sought Response — RFI1830545 — SpatialGIS, L.L.C. (CAGE 7RFJ7)",
+    "date": "2026-08-17T16:46:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "auto_reply",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "GSA",
+    "slug": null,
+    "description": "Auto-reply acknowledgment for a prior MRAS submission (RFI1830545). Not a new opportunity. Filtered.",
+    "labels": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_56", "INBOX"]
+  },
+  {
+    "thread_id": "1a0103414284f7e0",
+    "subject": "DHS - Information Technology Refresh Program (ITRP)  - MRAS",
+    "date": "2026-08-17T14:50:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8kAmqUmmbBBXOGq",
+    "survey_id": "SV_8kAmqUmmbBBXOGq",
+    "due_date": "2026-08-31",
+    "agency": "DHS CBP",
+    "slug": "dhs-cbp-itrp-information-technology-refresh-program",
+    "description": "CBP enterprise technology asset lifecycle management and modernization — refreshing approximately 28,000 end user devices per year, plus peripherals, network devices, and mobile devices.",
+    "labels": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_55", "INBOX"]
+  },
+  {
+    "thread_id": "1a00f2d92ce69cc4",
+    "subject": "Reminder: ED - NCES Annual Report Development and Production - MRAS",
+    "date": "2026-08-17T10:03:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9Y1HVY7ejLETnDM",
+    "survey_id": "SV_9Y1HVY7ejLETnDM",
+    "due_date": "2026-08-18",
+    "agency": "ED IES / NCES",
+    "slug": "ed-ies-nces-annual-report-development-production",
+    "description": "Data analysis and reporting services to produce NCES Condition of Education and Digest of Education Statistics annual publications. Update NCES website before June 1 each year.",
+    "labels": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_55", "INBOX"]
+  },
+  {
+    "thread_id": "1a00f2c18c106f69",
+    "subject": "Reminder: DHS - AV System Upgrade - Potomac Hall, Harpers Ferry, WV - MRAS",
+    "date": "2026-08-17T10:02:19Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_1FVSxCqIrBr45ka",
+    "survey_id": "SV_1FVSxCqIrBr45ka",
+    "due_date": "2026-08-18",
+    "agency": "DHS ATC",
+    "slug": "dhs-atc-av-system-upgrade-potomac-hall-harpers-ferry",
+    "description": "DHS ATC law enforcement training facility (Harpers Ferry, WV): upgrade aging AV equipment in 7 classrooms in Potomac Hall; consolidate 7 AV racks into 1 central rack.",
+    "labels": ["UNREAD", "IMPORTANT", "Label_3145513740325221592", "Label_55", "INBOX"]
+  }
+]

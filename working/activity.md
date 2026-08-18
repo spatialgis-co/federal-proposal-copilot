@@ -3,6 +3,7 @@
 Chronological record of skill invocations and proposal state changes. Every content-producing skill appends one line on completion. Format:
 
 ## 2026-08-10 00:00 — mras-daily-triage — processed 1 new (1 MAYBE: hhs-cdc-automated-labeler-support, NAICS mismatch + due today), submitted 0, blocked 0 → working/mras-inbox/daily-queue-2026-08-10.md
+## 2026-08-18 00:00 — mras-daily-triage — processed 4 new (all DECLINE: Navy TACAMO admin support, DHS CBP ITRP hardware refresh, ED NCES annual reports due today, DHS ATC AV upgrade due today), submitted 0, blocked 0 → working/mras-inbox/daily-queue-2026-08-18.md
 
 ```
 ## YYYY-MM-DD HH:MM — <skill-name> [<mode>] — <one-line summary> → <output path>
