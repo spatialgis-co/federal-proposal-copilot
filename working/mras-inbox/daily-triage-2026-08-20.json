@@ -1,0 +1,241 @@
+[
+  {
+    "thread_id": "1a01dbaeb5953590",
+    "subject": "POC Information: DOJ USMS - Executive, Administrative and Professional Support - MRAS",
+    "date": "2026-08-20T05:53:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "DOJ USMS",
+    "description": "POC follow-up notification \u2014 DOJ USMS Executive, Administrative and Professional Support. Prior submission confirmed.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53"
+    ],
+    "slug": "poc-information-doj-usms-executive-administrative-and-professional-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01db61751b5a29",
+    "subject": "POC Information: HHS - OCSE Child Support Systems - MRAS",
+    "date": "2026-08-20T05:47:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "HHS OCSE",
+    "description": "POC follow-up notification \u2014 HHS OCSE Child Support Systems. Prior submission confirmed.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56",
+      "INBOX"
+    ],
+    "slug": "poc-information-hhs-ocse-child-support-systems",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01db5c175555d7",
+    "subject": "POC Information: DOJ EOUSA - Victim Notification System Operations and Maintenance - MRAS",
+    "date": "2026-08-20T05:47:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "DOJ EOUSA",
+    "description": "POC follow-up notification \u2014 DOJ EOUSA Victim Notification System O&M. Prior submission confirmed.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "slug": "poc-information-doj-eousa-victim-notification-system-operations-and-maintenance",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01db4a36bddd81",
+    "subject": "POC Information: HHS - OMHRC Streamlining Support - MRAS",
+    "date": "2026-08-20T05:46:11Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "HHS OMHRC",
+    "description": "POC follow-up notification \u2014 HHS OMHRC Streamlining Support. Prior submission confirmed.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "slug": "poc-information-hhs-omhrc-streamlining-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01db3dd5441242",
+    "subject": "POC Information: DHS USCG - Boating Activity Imagery Study - MRAS",
+    "date": "2026-08-20T05:45:21Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "DHS USCG",
+    "description": "POC follow-up notification \u2014 DHS USCG Boating Activity Imagery Study. Prior submission confirmed.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53"
+    ],
+    "slug": "poc-information-dhs-uscg-boating-activity-imagery-study",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01db336533871c",
+    "subject": "POC Information: Army - Human Performance and Student Management System - MRAS",
+    "date": "2026-08-20T05:44:36Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_info",
+    "survey_url": null,
+    "survey_id": null,
+    "due_date": null,
+    "agency": "Army",
+    "description": "POC follow-up notification \u2014 Army Human Performance and Student Management System. Prior submission confirmed.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ],
+    "slug": "poc-information-army-human-performance-and-student-management-system",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01b88f83e35a5b",
+    "subject": "Response Received: USAF - US Air Forces Europe (USAFE) GeoBase - MRAS",
+    "date": "2026-08-19T19:39:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_79vKzi370wYzn0y",
+    "survey_id": "SV_79vKzi370wYzn0y",
+    "confirmation_id": "SV_79vKzi370wYzn0y-R_Gr7ZpMsHJkWKjwH",
+    "due_date": "2026-08-27",
+    "agency": "USAF",
+    "slug": "usaf-us-air-forces-europe-usafe-geobase",
+    "description": "USAF USAFE GeoBase \u2014 geospatial data management system support for USAFE installations migrating to AF GEOMAP cloud platform. Submitted via MAS SIN 541370GIS, NAICS 541370.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56",
+      "INBOX"
+    ],
+    "triage": "PASS",
+    "triage_reason": "Core capability keyword(s): ['geospatial', 'geospatial data management']"
+  },
+  {
+    "thread_id": "1a01b8802b9bb373",
+    "subject": "Response Received: DOT - Railroad Safety Information Management Support - MRAS",
+    "date": "2026-08-19T19:38:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5zKxb74EI2X2NTM",
+    "survey_id": "SV_5zKxb74EI2X2NTM",
+    "confirmation_id": "SV_5zKxb74EI2X2NTM-R_GHIDdTjVAlgxUG5",
+    "due_date": "2026-09-08",
+    "agency": "DOT FRA",
+    "slug": "dot-railroad-safety-information-management-support",
+    "description": "DOT FRA RSIMS \u2014 data and knowledge management support for FRA Office of Railroad Safety. Submitted via MAS SIN 54151S, NAICS 541512.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_56"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01b3f00f52ae1e",
+    "subject": "HHS IHS - 30 Years of TIPCAP - MRAS",
+    "date": "2026-08-19T18:18:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "rfi_invitation",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bQjTsoMnrCVMwvk",
+    "survey_id": "SV_bQjTsoMnrCVMwvk",
+    "due_date": "2026-09-04",
+    "agency": "HHS IHS",
+    "slug": "hhs-ihs-30-years-of-tipcap",
+    "description": "Provide a comprehensive summary and evaluation of the Tribal Injury Prevention Cooperative Agreement Program (TIPCAP) covering the 30-year period from 1997-2027, documenting activities, successes, challenges/lessons, outcomes and impact in AIAN communities.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a01a6573897b09b",
+    "subject": "USAF - CNS/ATM Recompete - MRAS",
+    "date": "2026-08-19T14:20:48Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "rfi_invitation",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6PBEcBSvqFWWRFQ",
+    "survey_id": "SV_6PBEcBSvqFWWRFQ",
+    "due_date": "2026-09-11",
+    "agency": "USAF PAE C3BM",
+    "slug": "usaf-cns-atm-recompete",
+    "description": "Air Force PAE C3BM Mission Planning Division Communications, Navigation, Surveillance, and Air Traffic Management (CNS/ATM) \u2014 design, development, developmental testing and operational support of CNS/ATM tool suite for USAF and Foreign Military Sales (FMS) platforms. Includes aerial navigation database integration, certification, sustainment, and aeronautical data servicing.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['navigation']"
+  },
+  {
+    "thread_id": "1a01978a419e1ef0",
+    "subject": "Reminder: USAF - Radar Warning Receiver (RWR) Engineering Services - MRAS",
+    "date": "2026-08-19T10:01:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cU7Phj6PQaEdjJs",
+    "survey_id": "SV_cU7Phj6PQaEdjJs",
+    "due_date": "2026-08-24",
+    "agency": "USAF",
+    "slug": "usaf-radar-warning-receiver-rwr-engineering-services",
+    "description": "Provide software engineering services for PACER WARE OFP updates. PACER WARE is a Radar Warning Receiver (RWR) electronic warfare system. Scope: Operational Flight Program (OFP) software engineering per PWS, respond to engineering requests within specified timeframes.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ],
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
