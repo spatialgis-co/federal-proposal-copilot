@@ -1,0 +1,62 @@
+[
+  {
+    "thread_id": "1a0209748255dc27",
+    "subject": "DOL - Physical Access Control and Surveillance System  - MRAS",
+    "date": "2026-08-20T19:12:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "rfi_invitation",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9HPWlTDob01bm7A",
+    "survey_id": "SV_9HPWlTDob01bm7A",
+    "due_date": "2026-08-28",
+    "agency": "DOL",
+    "slug": "dol-physical-access-control-and-surveillance-system",
+    "description": "Contractor to manage the PACSS for Portals II. Core needs: C-CURE 9000 software licensing/support, quarterly preventive maintenance, 24/7 emergency response, and optional hardware lifecycle management (procurement, installation, and modernization) across shared and tenant-specific spaces.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "1a0208a34282630b",
+    "subject": "USAF - Platform One Engineering and Operations Services - MRAS",
+    "date": "2026-08-20T18:58:42Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "rfi_invitation",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2ccpXwX313YMDe6",
+    "survey_id": "SV_2ccpXwX313YMDe6",
+    "due_date": "2026-09-03",
+    "agency": "USAF",
+    "slug": "usaf-platform-one-engineering-and-operations-services",
+    "description": "The contractor shall provide all personnel, equipment, tools, materials, supervision, and other items necessary to perform infrastructure (including Government clouds, on premise, disconnected and classified environments), with the ability to deploy a DevSecOps platform (CNCF Kubernetes-compliant) with accredited and secured hardened containers built from the DoW Centralized Artifacts Repository (DCAR) referred to as Iron Bank (IB) to support the DoW's ability to field operational capabilities faster.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "1a01e9defb24e469",
+    "subject": "Reminder: DHS - Information Technology Refresh Program (ITRP)  - MRAS",
+    "date": "2026-08-20T10:00:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8kAmqUmmbBBXOGq",
+    "survey_id": "SV_8kAmqUmmbBBXOGq",
+    "due_date": "2026-08-31",
+    "agency": "DHS CBP",
+    "slug": "dhs-information-technology-refresh-program-itrp",
+    "description": "Acquire services in support of CBP's implementation of comprehensive lifecycle management and modernization of Enterprise technology assets. Refreshing approximately 28,000 end user devices per year and could also include peripherals, network devices, and mobile devices.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ]
+  }
+]
