@@ -1,0 +1,58 @@
+[
+  {
+    "thread_id": "1a036041aa3a98f6",
+    "subject": "DOC NIST - OpenAI ChatGPT Enterprise Licenses - MRAS",
+    "date": "2026-08-24T23:03:50Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "slug": "doc-nist-openai-chatgpt-enterprise-licenses"
+  },
+  {
+    "thread_id": "1a0333b041ca806e",
+    "subject": "Reminder: DOC NIST - Installation of New Zayo Dark Fiber Tail - MRAS",
+    "date": "2026-08-24T10:04:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "doc-nist-installation-of-new-zayo-dark-fiber-tail"
+  },
+  {
+    "thread_id": "1a03339f343b5d41",
+    "subject": "Reminder: USAF - Platform One Engineering and Operations Services - MRAS",
+    "date": "2026-08-24T10:03:40Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "usaf-platform-one-engineering-and-operations-services"
+  },
+  {
+    "thread_id": "1a03339538dc7694",
+    "subject": "Reminder: VA - Privacy Act Request Fulfillment Services - MRAS",
+    "date": "2026-08-24T10:02:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "va-privacy-act-request-fulfillment-services"
+  },
+  {
+    "thread_id": "1a03337f2d0ccde6",
+    "subject": "Reminder: Army -  HR Career Recruiting Portal - MRAS",
+    "date": "2026-08-24T10:01:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "army-hr-career-recruiting-portal"
+  },
+  {
+    "thread_id": "1a03337c42328b05",
+    "subject": "Reminder: DHS - Information Technology Refresh Program (ITRP)  - MRAS",
+    "date": "2026-08-24T10:01:17Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "dhs-information-technology-refresh-program-itrp"
+  },
+  {
+    "thread_id": "1a033370a59950bb",
+    "subject": "Reminder: DOI - Records Management Consultant Support Services - MRAS",
+    "date": "2026-08-24T10:00:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": true,
+    "slug": "doi-records-management-consultant-support-services"
+  }
+]
