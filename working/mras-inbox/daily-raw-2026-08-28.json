@@ -1,0 +1,263 @@
+[
+  {
+    "thread_id": "1a04585c071a019b",
+    "subject": "USAF - MEDXS Clinical IT Support Services - MRAS",
+    "date": "2026-08-27T23:19:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2tR7iU55c9MvUCG",
+    "survey_id": "SV_2tR7iU55c9MvUCG",
+    "due_date": "2026-09-02",
+    "description": "The Air Force seeks market capability for MEDXS Clinical IT Support under GSA SIN 54151HEAL (Health IT), 54151S, and 54151HACS. Key focus is clinical/medical systems integration, onboarding key personnel, and executing a seamless, low-risk transition-in within a strict 60-calendar-day timeline on an FFP basis."
+  },
+  {
+    "thread_id": "1a04540228b734a2",
+    "subject": "Army - Support Services for Government Owned Audio/Visual - MRAS",
+    "date": "2026-08-27T22:03:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5vYxXR0yC4Q6OfI",
+    "survey_id": "SV_5vYxXR0yC4Q6OfI",
+    "due_date": "2026-09-04",
+    "description": "The purpose of this requirement is to obtain contractor support services for Government-owned audio/visual (A/V), video teleconferencing (VTC), and unified communications (UC) systems located within the Operations Garrison Headquarters (HQ). The required outcome is sustained operational availability."
+  },
+  {
+    "thread_id": "1a04499deeb62685",
+    "subject": "DOI - OSMRE - Inspection and Enforcement (INE) System Modernizat - MRAS",
+    "date": "2026-08-27T19:02:07Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "note": "Response confirmation received at 2026-08-27T21:21Z — submitted via prior run"
+  },
+  {
+    "thread_id": "1a04464303f5ce53",
+    "subject": "HHS OIG - Health and Clinical Services Support - MRAS",
+    "date": "2026-08-27T18:03:27Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "note": "Response confirmation received at 2026-08-27T21:48Z — submitted via prior run"
+  },
+  {
+    "thread_id": "1a043fa2ceda88fd",
+    "subject": "DOJ - ATAK Server Support/Maintenance/Troubleshooting - MRAS",
+    "date": "2026-08-27T16:07:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "note": "Response confirmation received at 2026-08-27T21:47Z — submitted via prior run"
+  },
+  {
+    "thread_id": "1a04354f71389a5f",
+    "subject": "VA -  Laurel Bridge Compass Software License - MRAS",
+    "date": "2026-08-27T13:07:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "note": "Response confirmation received at 2026-08-27T21:47Z — submitted via prior run"
+  },
+  {
+    "thread_id": "1a04533a1c47f6b3",
+    "subject": "Response Received: HHS OIG - Health and Clinical Services Support - MRAS",
+    "date": "2026-08-27T21:49:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_3WQz7mRjKMTu7cy-R_GQME14uDX3xknQx"
+  },
+  {
+    "thread_id": "1a04532ab3bb876d",
+    "subject": "Response Received: DOJ - ATAK Server Support/Maintenance/Troubleshooting - MRAS",
+    "date": "2026-08-27T21:49:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_9nlqdtswn0xTaCO-R_GeCVvj39gLjop8y"
+  },
+  {
+    "thread_id": "1a04531cdf585511",
+    "subject": "Response Received: VA -  Laurel Bridge Compass Software License - MRAS",
+    "date": "2026-08-27T21:48:06Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_6A0ouQAKyBa9iFU-R_GBHtovABPse62K5"
+  },
+  {
+    "thread_id": "1a045311091b8701",
+    "subject": "Response Received: Navy - USFF - TACAMO Mission Support - MRAS",
+    "date": "2026-08-27T21:47:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_0BqF9YPyllGQXxs-R_GRGQF2bVZtB9B7P"
+  },
+  {
+    "thread_id": "1a045304bbd534d7",
+    "subject": "Response Received: DOC - Claude for Government Licenses - Market Research",
+    "date": "2026-08-27T21:46:27Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_78mviSWmnGUFz5I-R_GRCUpluc4F7n1ct"
+  },
+  {
+    "thread_id": "1a0452f86a03a2f7",
+    "subject": "Response Received: DOC - ServiceNow Nuvolo Developer - MRAS",
+    "date": "2026-08-27T21:45:37Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_emI5e99lK5QIkJM-R_GdZgMAxzugGPkg4"
+  },
+  {
+    "thread_id": "1a0452eba6ab0720",
+    "subject": "Response Received: DOL - Private Carrier and Self-Insurer Compliance Experts - MRAS",
+    "date": "2026-08-27T21:44:45Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_d0S8BAap1IC5hc2-R_GMSSSLUjXK1ADqd"
+  },
+  {
+    "thread_id": "1a0452dfe89024c1",
+    "subject": "Response Received: HHS NIH - Strategic Advisory and Expert Engr Support for NIH - MRAS",
+    "date": "2026-08-27T21:43:56Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_cxaVicqrILgRCBw-R_GdELKLbJAdASPQC"
+  },
+  {
+    "thread_id": "1a0452cff7ee8f18",
+    "subject": "Response Received: FCC - Microsoft ELA recompete - MRAS",
+    "date": "2026-08-27T21:42:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_b2ULPPKL6nJw4aW-R_GOi1c89rXnFoOjf"
+  },
+  {
+    "thread_id": "1a0452c434a72617",
+    "subject": "Response Received: NRC - Collaborative Learning Environment - MRAS",
+    "date": "2026-08-27T21:42:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_5mMTI6idL24aj9Y-R_GpyvSqOjAeJdXJW"
+  },
+  {
+    "thread_id": "1a0452b72c8f77ca",
+    "subject": "Response Received: DOC - OpenAI ChatGPT Enterprise Licenses - Market Research",
+    "date": "2026-08-27T21:41:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_afxGgm4DfSuUb3w-R_GwovjPzkMoNOfUG"
+  },
+  {
+    "thread_id": "1a0452aa3e0481ba",
+    "subject": "Response Received: VA - Privacy Act Request Fulfillment Services - MRAS",
+    "date": "2026-08-27T21:40:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_0VAL7ajLISXUTl4-R_GI4R2OGqtIy0IeT"
+  },
+  {
+    "thread_id": "1a045290abddb5b6",
+    "subject": "Response Received: USAF - Platform One Engineering and Operations Services - MRAS",
+    "date": "2026-08-27T21:38:32Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_2ccpXwX313YMDe6-R_G9l7Fy86MrwBUpX"
+  },
+  {
+    "thread_id": "1a045284ec8d83ec",
+    "subject": "Response Received: DOL - Physical Access Control and Surveillance System  - MRAS",
+    "date": "2026-08-27T21:37:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_9HPWlTDob01bm7A-R_G1rKU1mwikb2Zxf"
+  },
+  {
+    "thread_id": "1a0451959427bc04",
+    "subject": "Response Received: DOI - OSMRE - Inspection and Enforcement (INE) System Modernizat - MRAS",
+    "date": "2026-08-27T21:21:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_d0aFSGkXECHCrwW-R_GOGvv7XmYfOAZav"
+  },
+  {
+    "thread_id": "1a04516d9d213506",
+    "subject": "Response Received: USAF - Enterprise Cloud Operation & Modernization  - MRAS",
+    "date": "2026-08-27T21:18:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_6X05sYX2otwFyRM-R_GDqdTUX2G0RbHPW"
+  },
+  {
+    "thread_id": "1a04515e43dff489",
+    "subject": "Response Received: Army -  HR Career Recruiting Portal - MRAS",
+    "date": "2026-08-27T21:17:35Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_received",
+    "confirmation_id": "SV_86d61L8t8jgqVuK-R_GQVucqYOhzE3uTy"
+  },
+  {
+    "thread_id": "1a0450c14f44f702",
+    "subject": "Regarding your GSA Market Research as a Service (MRAS) Inquiry . . . Re: Sources Sought Response — RFI1832994 — SpatialGIS, L.L.C. (CAGE 7RFJ7)",
+    "date": "2026-08-27T21:06:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "other"
+  },
+  {
+    "thread_id": "1a042ad9892d304a",
+    "subject": "Reminder: DOL - Private Carrier and Self-Insurer Compliance Experts - MRAS",
+    "date": "2026-08-27T10:03:56Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "dol-private-carrier-and-self-insurer-compliance-experts"
+  },
+  {
+    "thread_id": "1a042ad0edcb9dfa",
+    "subject": "Reminder: DHS - Information Technology Refresh Program (ITRP)  - MRAS",
+    "date": "2026-08-27T10:03:48Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "dhs-information-technology-refresh-program-itrp"
+  },
+  {
+    "thread_id": "1a042ad021784203",
+    "subject": "Reminder: HHS NIH - Strategic Advisory and Expert Engr Support for NIH - MRAS",
+    "date": "2026-08-27T10:03:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "hhs-nih-strategic-advisory-and-expert-engr-support-for-nih"
+  },
+  {
+    "thread_id": "1a042ac9a217fff4",
+    "subject": "Reminder: HHS IHS - 30 Years of TIPCAP  - MRAS",
+    "date": "2026-08-27T10:02:49Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "hhs-ihs-30-years-of-tipcap"
+  },
+  {
+    "thread_id": "1a042ab50976309b",
+    "subject": "Reminder: Army -  HR Career Recruiting Portal - MRAS",
+    "date": "2026-08-27T10:01:40Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "army-hr-career-recruiting-portal"
+  },
+  {
+    "thread_id": "1a042ab0b1539d50",
+    "subject": "Reminder: Navy - USFF - TACAMO Mission Support - MRAS",
+    "date": "2026-08-27T10:01:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "navy-usff-tacamo-mission-support"
+  },
+  {
+    "thread_id": "1a042aa52164fb1d",
+    "subject": "Reminder: USAF - Platform One Engineering and Operations Services - MRAS",
+    "date": "2026-08-27T10:00:11Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "usaf-platform-one-engineering-and-operations-services"
+  },
+  {
+    "thread_id": "1a042a9d88a0fb17",
+    "subject": "Reminder: DOC NIST - Installation of New Zayo Dark Fiber Tail - MRAS",
+    "date": "2026-08-27T10:00:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "prior_slug": "doc-nist-installation-of-new-zayo-dark-fiber-tail"
+  }
+]

@@ -147,3 +147,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 
 ## 2026-08-26 00:00 — mras-daily-triage — processed 13 threads (6 new RFIs, 4 reminders, 3 POC confirmations): 0 PASS, 0 MAYBE, 6 DECLINE, 0 submitted, 0 blocked → working/mras-inbox/daily-queue-2026-08-26.md
 ## 2026-08-27 00:00 — mras-daily-triage — processed 1 new (1 DECLINE: navy-usff-tacamo-mission-support, no GIS/IT nexus), submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-08-27.md
+
+## 2026-08-28 00:00 — mras-daily-triage — processed 2 new RFIs (both DECLINE: usaf-medxs-clinical-it-support-services=HEAL/HACS SINs not held; army-support-services-for-government-owned-audio-visual=A/V hardware out of scope), 17 batch confirmations logged, submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-08-28.md
