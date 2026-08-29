@@ -1,0 +1,30 @@
+[
+  {
+    "thread_id": "1a04907705cbe244",
+    "subject": "HUD - Dell PowerEdge Support - MRAS",
+    "date": "2026-08-28T15:40:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "hud-dell-poweredge-support",
+    "survey_id": "SV_aiaC6HIyHeZkFQW",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_aiaC6HIyHeZkFQW",
+    "due_date": "2026-09-02",
+    "is_reminder": false,
+    "snippet": "Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI...The requirement for ongoing hardware maintenance and technical support services for the organization's Dell PowerEdge server infrastructure",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a047d0ea86ec735",
+    "subject": "Reminder: USAF - MEDXS Clinical IT Support Services - MRAS",
+    "date": "2026-08-28T10:00:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "usaf-medxs-clinical-it-support-services",
+    "survey_id": "SV_2tR7iU55c9MvUCG",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2tR7iU55c9MvUCG",
+    "due_date": "2026-09-02",
+    "is_reminder": true,
+    "snippet": "REMINDER...The Air Force seeks market capability for MEDXS Clinical IT Support under GSA SIN 54151HEAL, 54151S, and 54151HACS.",
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['clinical']"
+  }
+]
