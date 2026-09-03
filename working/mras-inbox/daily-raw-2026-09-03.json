@@ -1,0 +1,51 @@
+[
+  {
+    "thread_id": "1a0637311995b592",
+    "subject": "Response Received: HHS ACF - Head Start National Interim Management - MRAS",
+    "date": "2026-09-02T18:47:59Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Response Confirmation ID: SV_885FghJmCSJZRK6-R_GG1fQVsXICNOEXy Thank you for responding to this Request for Information.",
+    "type": "response_confirmation",
+    "survey_id": "SV_885FghJmCSJZRK6"
+  },
+  {
+    "thread_id": "1a0636de72988d25",
+    "subject": "Response Received: DOE - Admin Support with TQP Management Analysis - MRAS",
+    "date": "2026-09-02T18:42:21Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Response Confirmation ID: SV_egnTjwYEeo8XiOq-R_GCCq9OBLwNEgFeV Thank you for responding to this Request for Information.",
+    "type": "response_confirmation",
+    "survey_id": "SV_egnTjwYEeo8XiOq"
+  },
+  {
+    "thread_id": "1a0636cec3d3d508",
+    "subject": "Response Received: HHS CMS - Digital Professional Services Center (DPSC) - MRAS",
+    "date": "2026-09-02T18:41:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Response Confirmation ID: SV_0CWf6IQjbylnM5o-R_GGIjpBUDHSCuqgc Thank you for responding to this Request for Information.",
+    "type": "response_confirmation",
+    "survey_id": "SV_0CWf6IQjbylnM5o"
+  },
+  {
+    "thread_id": "1a06192af3868e11",
+    "subject": "Reminder: Army - Support Services for Government Owned Audio/Visual - MRAS",
+    "date": "2026-09-02T10:01:56Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the requirement.",
+    "type": "reminder",
+    "survey_id": "SV_5vYxXR0yC4Q6OfI",
+    "due_date": "2026-09-04",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5vYxXR0yC4Q6OfI"
+  },
+  {
+    "thread_id": "1a061922123a6a22",
+    "subject": "Reminder: USAF - CNS/ATM Recompete - MRAS",
+    "date": "2026-09-02T10:01:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of the requirement.",
+    "type": "reminder",
+    "survey_id": "SV_6PBEcBSvqFWWRFQ",
+    "due_date": "2026-09-11",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6PBEcBSvqFWWRFQ"
+  }
+]
