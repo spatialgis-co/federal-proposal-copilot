@@ -1,0 +1,56 @@
+[
+  {
+    "thread_id": "1a06ddea7eb73c62",
+    "subject": "VA - VA Enterprise Workers' Compensation IT Solution - MRAS",
+    "date": "2026-09-04T19:21:12Z",
+    "type": "new_rfi",
+    "slug": "va-va-enterprise-workers-compensation-it-solution",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a06ddc78c47d2b9",
+    "subject": "OSW - DHA - PR Contract Management Support Services - MRAS",
+    "date": "2026-09-04T19:19:11Z",
+    "type": "new_rfi",
+    "slug": "osw-dha-pr-contract-management-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a06ddb4f5da2223",
+    "subject": "OPM - Computer Aided Facility Management (CAFM) - MRAS",
+    "date": "2026-09-04T19:17:45Z",
+    "type": "new_rfi",
+    "slug": "opm-computer-aided-facility-management-cafm",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a06dd29c76a45c0",
+    "subject": "OSW - DHA - PR Ops PM Support Services - MRAS",
+    "date": "2026-09-04T19:08:28Z",
+    "type": "new_rfi",
+    "slug": "osw-dha-pr-ops-pm-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a06d24eb6ff147a",
+    "subject": "Response Received: USAF - Air Force Enterprise Rapid Operations Support - MRAS",
+    "date": "2026-09-04T15:58:50Z",
+    "type": "confirmation",
+    "slug": "usaf-air-force-enterprise-rapid-operations-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a06d24518fdad4b",
+    "subject": "Response Received: OSW - DHA - Business Process Automation & Visualization Svcs - MRAS",
+    "date": "2026-09-04T15:58:09Z",
+    "type": "confirmation",
+    "slug": "osw-dha-business-process-automation-visualization-svcs",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
