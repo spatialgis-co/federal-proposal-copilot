@@ -167,3 +167,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-09-06 00:00 — mras-daily-triage — processed 0 new, submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-09-06.md
 
 ## 2026-09-07 00:00 — mras-daily-triage — processed 0 new, submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-09-07.md
+
+## 2026-09-08 00:00 — mras-daily-triage — processed 3 new (all REMINDER), submitted 0, rejected 0, blocked 0, declined 3 → working/mras-inbox/daily-queue-2026-09-08.md

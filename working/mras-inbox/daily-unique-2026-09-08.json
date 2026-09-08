@@ -1,0 +1,41 @@
+[
+  {
+    "thread_id": "1a07b52bcbf39976",
+    "subject": "Reminder: OSW - DHA - PR Contract Management Support Services - MRAS",
+    "date": "2026-09-07T10:02:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_d1kj9omOuxDus5w",
+    "sv_code": "SV_d1kj9omOuxDus5w",
+    "due_date": "2026-09-10",
+    "description": "DHN-PR is contemplating the procurement of contract management support services. The Contractor will provide essential full lifecycle contracts management support to the DHN-PR.",
+    "slug": "osw-dha-pr-contract-management-support-services",
+    "agency": "DHA / DHN-PR",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a07b5261e3f31df",
+    "subject": "Reminder: VA - Omnicell - MRAS",
+    "date": "2026-09-07T10:01:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bJ9p448DLKeUVts",
+    "sv_code": "SV_bJ9p448DLKeUVts",
+    "due_date": "2026-09-10",
+    "description": "Contractors shall provide all management, labor, tools, materials, parts, equipment, and transportation to perform maintenance, Onsite, Telephonic, and Emergency repair on Government-owned Omni Cell automated supply dispensing equipment for the Jennifer Moreno VA Medical Center.",
+    "slug": "va-omnicell",
+    "agency": "VA / Jennifer Moreno VA Medical Center",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a07b5020558ebb8",
+    "subject": "Reminder: OSW - DHA - PR Ops PM Support Services - MRAS",
+    "date": "2026-09-07T10:00:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_elnOKbIXUpQaV5Y",
+    "sv_code": "SV_elnOKbIXUpQaV5Y",
+    "due_date": "2026-09-11",
+    "description": "DHN-PR is contemplating the procurement of 1 mid-level PM Analyst. The Contractor will provide essential full lifecycle project management support to the DHN-PR, assisting in the management of various projects within the military healthcare system, IT, healthcare administration, and clinical support.",
+    "slug": "osw-dha-pr-ops-pm-support-services",
+    "agency": "DHA / DHN-PR",
+    "type": "REMINDER"
+  }
+]
