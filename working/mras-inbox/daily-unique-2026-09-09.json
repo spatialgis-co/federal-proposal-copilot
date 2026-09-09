@@ -1,0 +1,28 @@
+[
+  {
+    "thread_id": "1a082eb4bcbe3c3e",
+    "subject": "DHS CBP - AI Governance  - MRAS",
+    "date": "2026-09-08T21:27:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cPhvLu6Dfcvfb5c",
+    "sv_code": "SV_cPhvLu6Dfcvfb5c",
+    "due_date": "2026-10-02",
+    "description": "The scope of this requirement encompasses the acquisition, implementation, and integration of an enterprise-grade AI Governance software platform. This solution will serve as the centralized oversight mechanism for all Artificial Intelligence (AI) and Machine Learning (ML) models deployed within U.S. Customs and Border Protection (CBP). The objective is to provide a comprehensive framework that ensures all AI initiatives—particularly those impacting the processing of aliens, the interdiction of illegal immigration, and trade enforcement—are developed, deployed, and monitored in accordance with federal mandates, DHS policy, and ethical standards.",
+    "slug": "dhs-cbp-ai-governance",
+    "agency": "DHS / CBP",
+    "type": "NEW"
+  },
+  {
+    "thread_id": "1a08252235834d5c",
+    "subject": "HHS NIH - Data Services Platforms - MRAS",
+    "date": "2026-09-08T18:39:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_agvMcltAMXxjMjQ",
+    "sv_code": "SV_agvMcltAMXxjMjQ",
+    "due_date": "2026-09-28",
+    "description": "The contemplated capability will initially support requested and approved extraction from Healthcare Partner EMR systems and should be modular and extensible to other authorized source systems such as laboratory information systems, pharmacy information systems, etc. The Government seeks an outcome-based solution that enables participating Healthcare Partners to identify, extract, validate, de-identify, tokenize, package, and securely transmit authorized healthcare data while maintaining data provenance, privacy, security, permissions, reproducibility, and processing integrity.",
+    "slug": "hhs-nih-data-services-platforms",
+    "agency": "HHS / NIH",
+    "type": "NEW"
+  }
+]

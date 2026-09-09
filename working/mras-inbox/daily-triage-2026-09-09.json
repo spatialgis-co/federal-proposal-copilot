@@ -1,0 +1,38 @@
+[
+  {
+    "thread_id": "1a082eb4bcbe3c3e",
+    "subject": "DHS CBP - AI Governance  - MRAS",
+    "date": "2026-09-08T21:27:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cPhvLu6Dfcvfb5c",
+    "sv_code": "SV_cPhvLu6Dfcvfb5c",
+    "due_date": "2026-10-02",
+    "description": "Acquisition, implementation, and integration of an enterprise-grade AI Governance software platform serving as centralized oversight for all AI/ML models deployed within CBP.",
+    "slug": "dhs-cbp-ai-governance",
+    "agency": "DHS / CBP",
+    "type": "NEW",
+    "triage": "MAYBE",
+    "triage_reason": "MAYBE keywords matched: IT professional services, systems integration, software development. No DECLINE keywords. No PASS (GIS/geospatial) keywords. AI Governance software platform is a specialized domain; SpatialGIS holds relevant NAICS (541511, 541512) and prior AI support submission precedent (usaf-chief-data-and-artificial-intelligence-office-support-services) but domain specificity (CBP immigration AI oversight, ethical AI governance platform) exceeds demonstrated capabilities. Flagged for human review.",
+    "matched_pass_keywords": [],
+    "matched_maybe_keywords": ["IT professional services", "systems integration", "software development"],
+    "matched_decline_keywords": []
+  },
+  {
+    "thread_id": "1a08252235834d5c",
+    "subject": "HHS NIH - Data Services Platforms - MRAS",
+    "date": "2026-09-08T18:39:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_agvMcltAMXxjMjQ",
+    "sv_code": "SV_agvMcltAMXxjMjQ",
+    "due_date": "2026-09-28",
+    "description": "Healthcare EMR data extraction, de-identification, tokenization, and secure transmission platform for NIH Healthcare Partners.",
+    "slug": "hhs-nih-data-services-platforms",
+    "agency": "HHS / NIH",
+    "type": "NEW",
+    "triage": "DECLINE",
+    "triage_reason": "Hard DECLINE: 'EMR systems' and 'Healthcare Partner EMR' directly match 'EMR' and 'EHR' decline keywords. 'pharmacy information systems', 'laboratory information systems', 'healthcare data' match 'healthcare IT' and 'clinical' decline keywords. Also: FedRAMP-authorized platform likely required for NIH healthcare data at scale; SpatialGIS is not FedRAMP-authorized. Outside SpatialGIS core capability space entirely.",
+    "matched_pass_keywords": [],
+    "matched_maybe_keywords": ["data management"],
+    "matched_decline_keywords": ["EMR", "healthcare IT", "clinical"]
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "thread_id": "1a082eb4bcbe3c3e",
+    "subject": "DHS CBP - AI Governance  - MRAS",
+    "date": "2026-09-08T21:27:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cPhvLu6Dfcvfb5c",
+    "sv_code": "SV_cPhvLu6Dfcvfb5c",
+    "due_date": "2026-10-02",
+    "description": "The scope of this requirement encompasses the acquisition, implementation, and integration of an enterprise-grade AI Governance software platform. This solution will serve as the centralized oversight mechanism for all Artificial Intelligence (AI) and Machine Learning (ML) models deployed within U.S. Customs and Border Protection (CBP). The objective is to provide a comprehensive framework that ensures all AI initiatives—particularly those impacting the processing of aliens, the interdiction of illegal immigration, and trade enforcement—are developed, deployed, and monitored in accordance with federal mandates, DHS policy, and ethical standards.",
+    "slug": "dhs-cbp-ai-governance",
+    "agency": "DHS / CBP",
+    "type": "NEW"
+  },
+  {
+    "thread_id": "1a08252235834d5c",
+    "subject": "HHS NIH - Data Services Platforms - MRAS",
+    "date": "2026-09-08T18:39:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_agvMcltAMXxjMjQ",
+    "sv_code": "SV_agvMcltAMXxjMjQ",
+    "due_date": "2026-09-28",
+    "description": "The contemplated capability will initially support requested and approved extraction from Healthcare Partner EMR systems and should be modular and extensible to other authorized source systems such as laboratory information systems, pharmacy information systems, etc. The Government seeks an outcome-based solution that enables participating Healthcare Partners to identify, extract, validate, de-identify, tokenize, package, and securely transmit authorized healthcare data while maintaining data provenance, privacy, security, permissions, reproducibility, and processing integrity.",
+    "slug": "hhs-nih-data-services-platforms",
+    "agency": "HHS / NIH",
+    "type": "NEW"
+  },
+  {
+    "thread_id": "1a08079e90f3783c",
+    "subject": "Reminder: OSW - DHA - PR Contract Management Support Services - MRAS",
+    "date": "2026-09-08T10:03:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_d1kj9omOuxDus5w",
+    "sv_code": "SV_d1kj9omOuxDus5w",
+    "due_date": "2026-09-10",
+    "description": "DHN-PR is contemplating the procurement of contract management support services. The Contractor will provide essential full lifecycle contracts management support to the DHN-PR.",
+    "slug": "osw-dha-pr-contract-management-support-services",
+    "agency": "DHA / DHN-PR",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a08079ad0a7d845",
+    "subject": "Reminder: OSW - DHA - PR Ops PM Support Services - MRAS",
+    "date": "2026-09-08T10:02:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_elnOKbIXUpQaV5Y",
+    "sv_code": "SV_elnOKbIXUpQaV5Y",
+    "due_date": "2026-09-11",
+    "description": "DHN-PR is contemplating the procurement of 1 mid-level PM Analyst. The Contractor will provide essential full lifecycle project management support to the DHN-PR, assisting in the management of various projects within the military healthcare system, IT, healthcare administration, and clinical support.",
+    "slug": "osw-dha-pr-ops-pm-support-services",
+    "agency": "DHA / DHN-PR",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a08076875dd780e",
+    "subject": "Reminder: USAF - CNS/ATM Recompete - MRAS",
+    "date": "2026-09-08T10:00:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6PBEcBSvqFWWRFQ",
+    "sv_code": "SV_6PBEcBSvqFWWRFQ",
+    "due_date": "2026-09-11",
+    "description": "Air Force PAE C3BM - Mission Planning Division's Communications, Navigation, Surveillance, and Air Traffic Management (CNS/ATM) program office is seeking information regarding the development and sustainment of a CNS/ATM suite of tools for various U.S. Air Force and Foreign Military Sales (FMS) platforms. Scope includes design, development, developmental testing and operational support of the tool suite, integration, certification and sustainment of an aerial navigation database solution, and servicing aeronautical data on a continual basis.",
+    "slug": "usaf-cns-atm-recompete",
+    "agency": "USAF / PAE C3BM Mission Planning Division",
+    "type": "REMINDER"
+  }
+]
