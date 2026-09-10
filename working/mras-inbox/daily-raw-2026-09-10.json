@@ -1,0 +1,127 @@
+[
+  {
+    "thread_id": "1a08674462ffb151",
+    "subject": "HHS ACF - Training and Technical Assistance Data Platform  - MRAS",
+    "date": "2026-09-09T13:55:23Z",
+    "message_id": "1a08674462ffb151",
+    "email_type": "new_rfi",
+    "description": "Provide agile software development, DevSecOps, UX, AI, data analytics, and system integration services to modernize and expand the Office of Head Start's TTA Hub, improving reporting, analytics, interoperability, and continuous quality improvement for Head Start Training and Technical Assistance.",
+    "due_date": "2026-09-14",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_03aOsHZWbL0gGQ6",
+    "survey_id": "SV_03aOsHZWbL0gGQ6"
+  },
+  {
+    "thread_id": "1a085a15bb5cd5fb",
+    "subject": "Reminder: GSA OCAS - Data Backup and Disaster Recovery Services - MRAS",
+    "date": "2026-09-09T10:03:51Z",
+    "message_id": "1a085a15bb5cd5fb",
+    "email_type": "reminder",
+    "description": "FMSHRC requires reliable data backup and disaster recovery capabilities to preserve the integrity, confidentiality, and availability of agency information and to minimize operational disruption following system failure, cybersecurity incidents, accidental deletion, corruption, or other disasters.",
+    "due_date": "2026-09-18",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_b0YoHfIsa6cqviu",
+    "survey_id": "SV_b0YoHfIsa6cqviu"
+  },
+  {
+    "thread_id": "1a085a03f5ed0c95",
+    "subject": "Reminder: VA - Omnicell - MRAS",
+    "date": "2026-09-09T10:02:34Z",
+    "message_id": "1a085a03f5ed0c95",
+    "email_type": "reminder",
+    "description": "Contractors shall provide all management, labor, tools, materials, parts, equipment, and transportation to perform maintenance, Onsite, Telephonic, and Emergency repair on Government-owned Omni Cell automated supply dispensing equipment for the Jennifer Moreno VA Medical Center.",
+    "due_date": "2026-09-10",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bJ9p448DLKeUVts",
+    "survey_id": "SV_bJ9p448DLKeUVts"
+  },
+  {
+    "thread_id": "1a0859e2a8f042ec",
+    "subject": "Reminder: HHS NIH - Bioinformatics and Computational Biosciences Suppo - MRAS",
+    "date": "2026-09-09T10:01:19Z",
+    "message_id": "1a0859e2a8f042ec",
+    "email_type": "reminder",
+    "description": "Advanced bioinformatics, computational biology, artificial intelligence (AI)-assisted data science, research software engineering, and immersive visualization services in direct support of NIAID's domestic and international research mission.",
+    "due_date": "2026-09-18",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_56gtc68E7QAtz26",
+    "survey_id": "SV_56gtc68E7QAtz26"
+  },
+  {
+    "thread_id": "1a0877fab9844090",
+    "subject": "POC Information: HHS ACF - Head Start National Interim Management - MRAS",
+    "date": "2026-09-09T18:48:05Z",
+    "message_id": "1a0877fab9844090",
+    "email_type": "poc_information",
+    "description": "POC information follow-up for previously submitted MRAS response.",
+    "skip_reason": "poc_information"
+  },
+  {
+    "thread_id": "1a0877b1fe05b0ea",
+    "subject": "POC Information: DOE - Admin Support with TQP Management Analysis - MRAS",
+    "date": "2026-09-09T18:43:07Z",
+    "message_id": "1a0877b1fe05b0ea",
+    "email_type": "poc_information",
+    "description": "POC information follow-up for previously submitted MRAS response.",
+    "skip_reason": "poc_information"
+  },
+  {
+    "thread_id": "1a0877977fcabc96",
+    "subject": "POC Information: HHS CMS - Digital Professional Services Center (DPSC) - MRAS",
+    "date": "2026-09-09T18:41:17Z",
+    "message_id": "1a0877977fcabc96",
+    "email_type": "poc_information",
+    "description": "POC information follow-up for previously submitted MRAS response.",
+    "skip_reason": "poc_information"
+  },
+  {
+    "thread_id": "1a0866ea576b5f45",
+    "subject": "Response Received: DHS CBP - AI Governance  - MRAS",
+    "date": "2026-09-09T13:49:52Z",
+    "message_id": "1a0866ea576b5f45",
+    "email_type": "response_confirmation",
+    "confirmation_id": "SV_cPhvLu6Dfcvfb5c-R_Gj1hwQLS04TlbYe",
+    "skip_reason": "response_confirmation"
+  },
+  {
+    "thread_id": "1a0866ddaf52d3e5",
+    "subject": "Response Received: HHS NIH - DataCOUNTS (Collect Data Once, Use Numerous Times - MRAS",
+    "date": "2026-09-09T13:49:00Z",
+    "message_id": "1a0866ddaf52d3e5",
+    "email_type": "response_confirmation",
+    "confirmation_id": "SV_agvMcltAMXxjMjQ-R_GQDaWvo4KOGle0m",
+    "skip_reason": "response_confirmation"
+  },
+  {
+    "thread_id": "1a0866c9cd7038fa",
+    "subject": "Response Received: OSW - DHA - PR Ops PM Support Services - MRAS",
+    "date": "2026-09-09T13:47:39Z",
+    "message_id": "1a0866c9cd7038fa",
+    "email_type": "response_confirmation",
+    "confirmation_id": "SV_elnOKbIXUpQaV5Y-R_GLYAcY8XgjaxVuP",
+    "skip_reason": "response_confirmation"
+  },
+  {
+    "thread_id": "1a0866bf570f28de",
+    "subject": "Response Received: OSW - DHA - PR Contract Management Support Services - MRAS",
+    "date": "2026-09-09T13:46:54Z",
+    "message_id": "1a0866bf570f28de",
+    "email_type": "response_confirmation",
+    "confirmation_id": "SV_d1kj9omOuxDus5w-R_GMYyyMcSMJuhdpg",
+    "skip_reason": "response_confirmation"
+  },
+  {
+    "thread_id": "1a085a037d73bc4c",
+    "subject": "Reminder: OSW - DHA - PR Ops PM Support Services - MRAS",
+    "date": "2026-09-09T10:02:39Z",
+    "message_id": "1a085a037d73bc4c",
+    "email_type": "reminder",
+    "description": "Operations and project management support for DHA PR.",
+    "skip_reason": "reminder_for_response_confirmed"
+  },
+  {
+    "thread_id": "1a0859db2b20e0ee",
+    "subject": "Reminder: OSW - DHA - PR Contract Management Support Services - MRAS",
+    "date": "2026-09-09T10:00:20Z",
+    "message_id": "1a0859db2b20e0ee",
+    "email_type": "reminder",
+    "description": "Contract management support for DHA PR.",
+    "skip_reason": "reminder_for_response_confirmed"
+  }
+]
