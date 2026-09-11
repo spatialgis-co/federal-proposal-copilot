@@ -1,0 +1,24 @@
+[
+  {
+    "thread_id": "1a08d0ec900837f2",
+    "subject": "USAF - AFIMSC Enterprise Workflow and Information Mgt - MRAS",
+    "date": "2026-09-10T20:42:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_abLubl907n2Ryw6",
+    "due_date": "2026-09-17",
+    "agency": "USAF",
+    "description": "FY27 AFIMSC Enterprise Workflow and Information Mgt (EWIM) shall provide/coordinate preparation of official comms between/through HAF, AFMC, AFIMSC, AFCEC, AFSFC, AFSVA, and AFICA, with a goal of providing excellent cust serv to its customers. This req supports AFIMSC protocol execution, the Joint Base program and the CAG under direction of DS.",
+    "slug": "usaf-afimsc-enterprise-workflow-and-information-mgt"
+  },
+  {
+    "thread_id": "1a08cdef8399e8da",
+    "subject": "HHS ACF - Real Property Facilities Initiative - MRAS",
+    "date": "2026-09-10T19:50:15Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5cYli5I9MUyLy3I",
+    "due_date": "2026-09-18",
+    "agency": "HHS ACF",
+    "description": "Provide professional real property and facilities support services for OHS and ACF, including facility project management, property record management, grants/facilities compliance support, technical assistance, and subject matter expertise related to federally funded facilities.",
+    "slug": "hhs-acf-real-property-facilities-initiative"
+  }
+]
