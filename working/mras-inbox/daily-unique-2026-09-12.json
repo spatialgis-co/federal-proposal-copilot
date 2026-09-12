@@ -1,0 +1,119 @@
+[
+  {
+    "thread_id": "1a0919c5c0238d3f",
+    "subject": "USSF NSIC - COSMOS AAS - MRAS",
+    "date": "2026-09-11T17:55:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9AKicH3QL1X8u8K",
+    "survey_id": "SV_9AKicH3QL1X8u8K",
+    "due_date": "2026-09-21",
+    "agency": "USSF NSIC",
+    "slug": "ussf-nsic-cosmos-aas",
+    "description": "The U.S. Space Force's National Space Intelligence Center (NSIC) has a requirement for a vendor to furnish SMEs with deep domain knowledge of space intelligence, S&TI (Scientific and Technical Intelligence), and related disciplines to augment NSIC's organic teams. Support shall focus on achieving measurable outcomes aligned with NSIC's vision of providing progressive, predictive, and pioneering intelligence to outwit adversaries.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "1a0915867c9fcd04",
+    "subject": "GSA PBS - HOTD Metering Data Collection System with Billing - MRAS",
+    "date": "2026-09-11T16:40:59Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "new_rfi",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9XM9m9LvCSZtRjg",
+    "survey_id": "SV_9XM9m9LvCSZtRjg",
+    "due_date": "2026-10-15",
+    "agency": "GSA PBS",
+    "slug": "gsa-pbs-hotd-metering-data-collection-system-with-billing",
+    "description": "The GSA Heating Operation and Transmission Division (HOTD) is a historic district energy system in Washington, D.C., that supplies steam and chilled water to dozens of federal and quasi-federal buildings. GSA PBS has a need for a contractor to provide software to generate reporting and billing functions for meter data, interface between HOTD and GSA servers, and maintain and operating billing and server networks.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "1a09131c6fa1f313",
+    "subject": "POC Information: USAF - Air Force Enterprise Rapid Operations Support - MRAS",
+    "date": "2026-09-11T15:59:13Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_confirmation",
+    "survey_url": null,
+    "due_date": null,
+    "agency": "USAF",
+    "slug": "poc-information-usaf-air-force-enterprise-rapid-operations-support",
+    "description": "Post-submission POC information email. No survey URL. Thank-you email confirming prior MRAS response.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "1a09131127e87c01",
+    "subject": "POC Information: OSW - DHA - Business Process Automation & Visualization Svcs - MRAS",
+    "date": "2026-09-11T15:58:25Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_confirmation",
+    "survey_url": null,
+    "due_date": null,
+    "agency": "OSW / DHA",
+    "slug": "poc-information-osw-dha-business-process-automation-visualization-svcs",
+    "description": "Post-submission POC information email. No survey URL. Thank-you email confirming prior MRAS response.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_53"
+    ]
+  },
+  {
+    "thread_id": "1a08fead853a5e4f",
+    "subject": "Reminder: USAF - AFIMSC Enterprise Workflow and Information Mgt - MRAS",
+    "date": "2026-09-11T10:01:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_abLubl907n2Ryw6",
+    "survey_id": "SV_abLubl907n2Ryw6",
+    "due_date": "2026-09-17",
+    "agency": "USAF / AFIMSC",
+    "slug": "usaf-afimsc-enterprise-workflow-and-information-mgt",
+    "description": "FY27 AFIMSC Enterprise Workflow and Information Mgt (EWIM) shall provide/coordinate preparation of official comms between/through HAF, AFMC, AFIMSC, AFCEC, AFSFC, AFSVA, and AFICA, with a goal of providing excellent customer service. This requirement supports AFIMSC protocol execution, the Joint Base program and the CAG under direction of DS.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_59",
+      "INBOX"
+    ]
+  },
+  {
+    "thread_id": "1a08fea0e3302dfe",
+    "subject": "Reminder: HHS ACF - Training and Technical Assistance Data Platform - MRAS",
+    "date": "2026-09-11T10:00:29Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_03aOsHZWbL0gGQ6",
+    "survey_id": "SV_03aOsHZWbL0gGQ6",
+    "due_date": "2026-09-14",
+    "agency": "HHS ACF",
+    "slug": "hhs-acf-training-and-technical-assistance-data-platform",
+    "description": "Provide agile software development, DevSecOps, UX, AI, data analytics, and system integration services to modernize and expand the Office of Head Start's TTA Hub, improving reporting, analytics, interoperability, and continuous quality improvement for Head Start Training and Technical Assistance providers.",
+    "labels": [
+      "UNREAD",
+      "IMPORTANT",
+      "Label_3145513740325221592",
+      "Label_55",
+      "INBOX"
+    ]
+  }
+]
