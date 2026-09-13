@@ -1,0 +1,8 @@
+{
+  "date": "2026-09-13",
+  "query": "from:rfi@research.gsa.gov newer_than:1d",
+  "source": "Gmail MCP",
+  "threads": [],
+  "count": 0,
+  "note": "No new MRAS RFIs received from rfi@research.gsa.gov in the last 24 hours."
+}
