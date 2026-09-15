@@ -1,0 +1,54 @@
+[
+  {
+    "thread_id": "1a09ff85dcdb11cf",
+    "subject": "HHS - Rapid Medical Examinations & Medical Qualification - MRAS",
+    "date": "2026-09-14T12:50:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0I0pdpyhvyeRZqK",
+    "sv_code": "SV_0I0pdpyhvyeRZqK",
+    "due_date": "2026-09-25",
+    "description": "The objective of this RFI is to obtain information regarding industry capabilities, experience, technologies, approaches, and recommendations for supporting a nationwide medical examination and medical qualification program for Commissioned Corps accession applicants and officers. The Government seeks information regarding commercial capabilities to provide: Nationwide medical examination services; Nationwide dental examination services; Laboratory testing services; Medical qualification review support; Deployment health assessments; Telehealth capabilities; Medical readiness support; Secure electronic records management; Real-time status reporting; Applicant and Government portals; Data analytics and performance reporting.",
+    "slug": "hhs-rapid-medical-examinations-medical-qualification",
+    "agency": "HHS / Commissioned Corps",
+    "type": "NEW"
+  },
+  {
+    "thread_id": "1a09f5eb94e932b9",
+    "subject": "Reminder: VA - VA Enterprise Workers' Compensation IT Solution - MRAS",
+    "date": "2026-09-14T10:01:56Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_ai8Chvo2MeOq2NM",
+    "sv_code": "SV_ai8Chvo2MeOq2NM",
+    "due_date": "2026-10-15",
+    "description": "The VA is seeking industry input on commercial, configurable, hybrid, and SaaS solutions for an enterprise workers' compensation case-management system, including electronic claim files, workflows, data migration, integrations, security, chargeback reporting, and analytics to support modernization.",
+    "slug": "va-va-enterprise-workers-compensation-it-solution",
+    "agency": "VA",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a09f5e155909963",
+    "subject": "Reminder: USSF NSIC - COSMOS AAS - MRAS",
+    "date": "2026-09-14T10:01:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9AKicH3QL1X8u8K",
+    "sv_code": "SV_9AKicH3QL1X8u8K",
+    "due_date": "2026-09-21",
+    "description": "The U.S. Space Force's National Space Intelligence Center (NSIC) has a requirement for a vendor to furnish SMEs with deep domain knowledge of space intelligence, S&TI (Scientific and Technical Intelligence), and related disciplines to augment NSIC's organic teams. Support shall focus on achieving measurable outcomes aligned with NSIC's vision of providing progressive, predictive, and pioneering intelligence to outwit adversaries.",
+    "slug": "ussf-nsic-cosmos-aas",
+    "agency": "U.S. Space Force / NSIC",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a09f5c9be493861",
+    "subject": "Reminder: GSA PBS - HOTD Metering Data Collection System with Billing - MRAS",
+    "date": "2026-09-14T10:00:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9XM9m9LvCSZtRjg",
+    "sv_code": "SV_9XM9m9LvCSZtRjg",
+    "due_date": "2026-10-15",
+    "description": "The GSA Heating Operation and Transmission Division (HOTD) is a historic district energy system in Washington, D.C., that supplies steam and chilled water to dozens of federal and quasi-federal buildings. GSA PBS has a need for a contractor to provide software to generate reporting and billing functions for meter data, interface between HOTD and GSA servers, and maintain and operating billing and server networks.",
+    "slug": "gsa-pbs-hotd-metering-data-collection-system-with-billing",
+    "agency": "GSA / Public Buildings Service \u2014 HOTD",
+    "type": "REMINDER"
+  }
+]
