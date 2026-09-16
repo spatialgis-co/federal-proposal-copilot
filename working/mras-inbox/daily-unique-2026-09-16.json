@@ -1,0 +1,41 @@
+[
+  {
+    "thread_id": "1a0a5680f139f866",
+    "subject": "DOI - Departmental Emergency Support Team (DEST) Program - MRAS",
+    "date": "2026-09-15T14:10:46Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bvZqXXzppb0UjEa",
+    "sv_code": "SV_bvZqXXzppb0UjEa",
+    "due_date": "2026-09-21",
+    "description": "The Contractor shall provide professional program support services to strengthen the readiness and operational effectiveness of the DEST General Staff. The Contractor shall conduct analytical, facilitation, and documentation development activities that support the DEST Working Group.",
+    "slug": "doi-departmental-emergency-support-team-dest-program",
+    "agency": "DOI",
+    "type": "NEW"
+  },
+  {
+    "thread_id": "1a0a485610cb921a",
+    "subject": "Reminder: HHS ACF - Real Property Facilities Initiative - MRAS",
+    "date": "2026-09-15T10:02:01Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5cYli5I9MUyLy3I",
+    "sv_code": "SV_5cYli5I9MUyLy3I",
+    "due_date": "2026-09-18",
+    "description": "Provide professional real property and facilities support services for OHS and ACF, including facility project management, property record management, grants/facilities compliance support, technical assistance, and subject matter expertise related to federally funded facilities.",
+    "slug": "hhs-acf-real-property-facilities-initiative",
+    "agency": "HHS / ACF",
+    "type": "REMINDER"
+  },
+  {
+    "thread_id": "1a0a4848c79d22ef",
+    "subject": "Reminder: HHS NIH - Bioinformatics and Computational Biosciences Suppo - MRAS",
+    "date": "2026-09-15T10:01:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_56gtc68E7QAtz26",
+    "sv_code": "SV_56gtc68E7QAtz26",
+    "due_date": "2026-09-18",
+    "description": "Advanced bioinformatics, computational biology, artificial intelligence (AI)-assisted data science, research software engineering, and immersive visualization services in direct support of NIAID's domestic and international research mission.",
+    "slug": "hhs-nih-bioinformatics-and-computational-biosciences-suppo",
+    "agency": "HHS / NIH / NIAID",
+    "type": "REMINDER"
+  }
+]

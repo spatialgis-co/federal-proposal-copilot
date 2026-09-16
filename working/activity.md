@@ -182,3 +182,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-09-14 00:00 — mras-daily-triage — processed 0 new, submitted 0, rejected 0, blocked 0 (no new emails; HHS ACF TTA expired today without authorization; GSA PBS HOTD MAYBE still open) → working/mras-inbox/daily-queue-2026-09-14.md
 
 ## 2026-09-15 00:00 — mras-daily-triage — processed 4 new (1 new + 3 reminders: MAYBE=3 DECLINE=1), submitted 0, rejected 0, blocked 0; all 3 MAYBE items held for human decision (HHS medical exams, VA workers' comp, GSA PBS HOTD) → working/mras-inbox/daily-queue-2026-09-15.md
+
+## 2026-09-16 00:00 — mras-daily-triage — processed 3 new (1 new + 2 reminders), submitted 0, rejected 0, blocked 0; MAYBE=1 (DOI DEST Program — no GIS angle, held for human decision, due 09/21), DECLINE=2 (HHS ACF Real Property, HHS NIH Bioinformatics) → working/mras-inbox/daily-queue-2026-09-16.md
