@@ -186,3 +186,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-09-16 00:00 — mras-daily-triage — processed 3 new (1 new + 2 reminders), submitted 0, rejected 0, blocked 0; MAYBE=1 (DOI DEST Program — no GIS angle, held for human decision, due 09/21), DECLINE=2 (HHS ACF Real Property, HHS NIH Bioinformatics) → working/mras-inbox/daily-queue-2026-09-16.md
 
 ## 2026-09-17 10:15 — mras-daily-triage — processed 2 new (0 submitted, 0 rejected, 0 blocked; 2 declined; 3 submission confirmations received) → working/mras-inbox/daily-queue-2026-09-17.md
+
+## 2026-09-18 00:15 — mras-daily-triage — processed 9 threads (2 new invitations + 1 response confirmation + 5 reminders), submitted 0, rejected 0, blocked 0; DECLINE=8 (DCMA AI SaaS, USAF Hurlburt CE, 5 reminders, DOL ILAB duplicate/already-confirmed) → working/mras-inbox/daily-queue-2026-09-18.md
