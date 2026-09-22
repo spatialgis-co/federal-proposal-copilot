@@ -1,0 +1,44 @@
+[
+  {
+    "thread_id": "1a0c61bf7c5f26cb",
+    "subject": "VA - National Office Supply Program - MRAS",
+    "date": "2026-09-21T22:34:56Z",
+    "sender": "rfi@research.gsa.gov",
+    "description": "VA seeks a National Office Supply Program (BOC 2620/2625) with a contractor-managed, VA-governed ordering portal: catalog governance, EDI transactions, approval workflows, mandatory-source compliance, supplier coordination, delivery to VA-approved points, reporting, and help desk support VA-wide.",
+    "due_date": "2026-10-02",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_24wwynWCX1CV2Tk",
+    "survey_id": "SV_24wwynWCX1CV2Tk",
+    "is_reminder": false,
+    "slug": "va-national-office-supply-program",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['reporting']"
+  },
+  {
+    "thread_id": "1a0c36afba76df1a",
+    "subject": "Reminder: USSF NSIC - COSMOS AAS - MRAS",
+    "date": "2026-09-21T10:01:54Z",
+    "sender": "rfi@research.gsa.gov",
+    "description": "The U.S. Space Force's National Space Intelligence Center (NSIC) has a requirement for a vendor to furnish SMEs with deep domain knowledge of space intelligence, S&TI (Scientific and Technical Intelligence), and related disciplines to augment NSIC's organic teams. Support shall focus on achieving measurable outcomes aligned with NSIC's vision of providing progressive, predictive, and pioneering intelligence to outwit adversaries.",
+    "due_date": "2026-09-21",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_9AKicH3QL1X8u8K",
+    "survey_id": "SV_9AKicH3QL1X8u8K",
+    "is_reminder": true,
+    "slug": "ussf-nsic-cosmos-aas",
+    "triage": "SKIP_CLOSED",
+    "triage_reason": "Due 2026-09-21 is in the past"
+  },
+  {
+    "thread_id": "1a0c3693171803e9",
+    "subject": "Reminder: OSW - DCMA - AI Supply Chain Risk Analytics SaaS - MRAS",
+    "date": "2026-09-21T10:00:24Z",
+    "sender": "rfi@research.gsa.gov",
+    "description": "Acquire annual subscription licenses to a commercial Software-as-a-Service AI/ML analytic platform meeting the minimum technical requirements at Section 6, together with data integration, user support and training, and the data portability and transition deliverables specified herein.",
+    "due_date": "2026-09-23",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cSC9hIKg9YBgdAG",
+    "survey_id": "SV_cSC9hIKg9YBgdAG",
+    "is_reminder": true,
+    "slug": "osw-dcma-ai-supply-chain-risk-analytics-saas",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
