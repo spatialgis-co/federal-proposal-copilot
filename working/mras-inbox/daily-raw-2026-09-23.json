@@ -1,0 +1,62 @@
+[
+  {
+    "thread_id": "1a0cb229f540063e",
+    "subject": "DOE - Mission Support Services - MRAS",
+    "date": "2026-09-22T22:00:03Z",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_1BUWS5MUMIbPL1k",
+    "due_date": "2026-10-02",
+    "description": "Provide integrated mission support for DOE Office of Scientific and Technical Information Mission Support Services (OSTI), including scientific information management, software development, IT infrastructure, cybersecurity, digital preservation, data quality, and administrative and communication services.",
+    "is_reminder": false,
+    "slug": "doe-osti-mission-support-services"
+  },
+  {
+    "thread_id": "1a0ca85496e64c33",
+    "subject": "HHS IHS - Unified Financial Management System O&M - MRAS",
+    "date": "2026-09-22T19:08:41Z",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_byc2BCEXM73ouSa",
+    "due_date": "2026-09-30",
+    "description": "Provide O&M support including technical, functional and business operations support requiring functional and technical expertise in Financial Management Systems, UFMS & Hyperion and associated financial systems.",
+    "is_reminder": false,
+    "slug": "hhs-ihs-unified-financial-management-system-om"
+  },
+  {
+    "thread_id": "1a0c99c99071c56e",
+    "subject": "HHS CDC - IT Products 4.0 - MRAS",
+    "date": "2026-09-22T14:54:15Z",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5ak17TROB0mtejs",
+    "due_date": "2026-09-28",
+    "description": "Provide IT product development, modernization, and enhancement (DME) and operation and maintenance (O&M) support: requirements definition, system design and architecture, agile software development, systems functional testing, security and software deployment, systems operations, information management, functional and security patching, and technical expertise.",
+    "is_reminder": false,
+    "slug": "hhs-cdc-it-products-40"
+  },
+  {
+    "thread_id": "1a0c890df80385bb",
+    "subject": "Reminder: HHS - Rapid Medical Examinations & Medical Qualification - MRAS",
+    "date": "2026-09-22T10:01:35Z",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0I0pdpyhvyeRZqK",
+    "due_date": "2026-09-25",
+    "description": "Nationwide medical examination and medical qualification program for Commissioned Corps: medical exams, dental exams, lab testing, medical qualification review, deployment health assessments, telehealth, medical readiness, secure electronic records, real-time status reporting, applicant/government portals, data analytics.",
+    "is_reminder": true,
+    "slug": "hhs-rapid-medical-examinations-medical-qualification"
+  },
+  {
+    "thread_id": "1a0c88f9a6008f47",
+    "subject": "Reminder: VA - National Office Supply Program - MRAS",
+    "date": "2026-09-22T10:00:11Z",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_24wwynWCX1CV2Tk",
+    "due_date": "2026-10-02",
+    "description": "VA National Office Supply Program (BOC 2620/2625): contractor-managed VA-governed ordering portal, catalog governance, EDI transactions, approval workflows, mandatory-source compliance, supplier coordination, delivery to VA-approved points, reporting, help desk support VA-wide.",
+    "is_reminder": true,
+    "slug": "va-national-office-supply-program"
+  },
+  {
+    "thread_id": "1a0c88f6b083420f",
+    "subject": "Reminder: OSW - DCMA - AI Supply Chain Risk Analytics SaaS - MRAS",
+    "date": "2026-09-22T10:00:08Z",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cSC9hIKg9YBgdAG",
+    "due_date": "2026-09-23",
+    "description": "Acquire annual subscription licenses to a commercial Software-as-a-Service AI/ML analytic platform meeting minimum technical requirements at Section 6, together with data integration, user support and training, and data portability and transition deliverables.",
+    "is_reminder": true,
+    "slug": "osw-dcma-ai-supply-chain-risk-analytics-saas"
+  }
+]
