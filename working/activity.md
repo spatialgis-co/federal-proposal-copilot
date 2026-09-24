@@ -194,3 +194,4 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-09-21 00:10 — mras-daily-triage — processed 0 new, submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-09-21.md
 ## 2026-09-22 00:15 — mras-daily-triage — processed 3 new, submitted 0, rejected 0, blocked 0 (1 MAYBE for human review, 1 DECLINE, 1 SKIP_CLOSED) → working/mras-inbox/daily-queue-2026-09-22.md
 ## 2026-09-23 00:05 — mras-daily-triage — processed 6 new, submitted 0, rejected 0, blocked 0 (4 MAYBE for human review, 2 DECLINE — 0 PASS auto-submitted) → working/mras-inbox/daily-queue-2026-09-23.md
+## 2026-09-24 09:04 — mras-daily-triage — processed 4 new/reminder RFIs + 3 POC confirmations; 0 submitted, 0 rejected, 1 blocked (Army G4-TS: M365 guardrail, no teaming partner) → working/mras-inbox/daily-queue-2026-09-24.md
