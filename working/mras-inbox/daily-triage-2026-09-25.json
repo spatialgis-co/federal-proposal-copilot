@@ -1,0 +1,38 @@
+[
+  {
+    "thread_id": "1a0d47e06ff5e228",
+    "subject": "POC Information: DOL ILAB - Monitoring, Evaluation, and Data Services - MRAS",
+    "date": "2026-09-24T17:37:01Z",
+    "type": "poc_confirmation",
+    "slug": "poc-information-dol-ilab-monitoring-evaluation-and-data-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a0d2dda840a833e",
+    "subject": "Reminder: HHS CDC - IT Products 4.0 - MRAS",
+    "date": "2026-09-24T10:01:42Z",
+    "type": "reminder",
+    "slug": "hhs-cdc-it-products-4-0",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a0d2dd4a9306f51",
+    "subject": "Reminder: HHS IHS - Unified Financial Management System O&M - MRAS",
+    "date": "2026-09-24T10:00:37Z",
+    "type": "reminder",
+    "slug": "hhs-ihs-unified-financial-management-system-o-m",
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['financial management']"
+  },
+  {
+    "thread_id": "1a0d2dccecb24e66",
+    "subject": "Reminder: HHS - Rapid Medical Examinations & Medical Qualification - MRAS",
+    "date": "2026-09-24T10:00:34Z",
+    "type": "reminder",
+    "slug": "hhs-rapid-medical-examinations-medical-qualification",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]

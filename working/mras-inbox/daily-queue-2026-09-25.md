@@ -1,0 +1,82 @@
+# MRAS Daily Queue — 2026-09-25
+
+**Run summary:** 4 emails received | 4 unique | 0 already-submitted duplicates | 0 PASS | 0 MAYBE | 3 DECLINE | 1 POC Confirmation | 0 SUBMITTED | 0 BLOCKED | 0 REJECTED
+
+No auto-submissions today. Triage script found 0 PASS. All three reminder RFIs declined — two on hard-decline keywords (financial management, healthcare/medical services), one (HHS CDC IT Products 4.0) lacks GIS/spatial keyword match. One POC confirmation for a prior submission.
+
+**⚠️ Note:** HHS CDC IT Products 4.0 and HHS Rapid Medical Examinations were previously triaged as MAYBE on 2026-09-23 and flagged for human review. HHS Rapid Medical closes **today (09/25)** — last chance if Kendrick wants to respond manually.
+
+---
+
+## PASS (0)
+
+*None today.*
+
+---
+
+## BLOCKED — Needs Kendrick Decision (0)
+
+*None today.*
+
+---
+
+## DECLINE (3)
+
+### 1. HHS CDC — IT Products 4.0 *(Reminder)*
+- **Slug:** hhs-cdc-it-products-4-0
+- **Agency:** HHS / Centers for Disease Control and Prevention (CDC)
+- **Survey:** SV_5ak17TROB0mtejs
+- **Due:** 2026-09-28 (3 days)
+- **Triage result:** DECLINE — no GIS/spatial/mapping keyword match
+- **Scope:** IT product DME and O&M support — requirements definition, system design and architecture, agile software development, systems functional testing, security and software deployment, systems operations, information management, functional and security patching.
+- **Decline reason:** General CDC IT platform work with no GIS or spatial component mentioned. SpatialGIS holds NAICS 541511/541512 but capability keywords (GIS, geospatial, spatial, ArcGIS, etc.) are absent. Previously flagged MAYBE on 09-23 for human review; triage is declining on conservative no-match basis.
+- **Submission status:** DECLINED — not pursued
+- **Action for Kendrick:** If CDC's "IT Products 4.0" has a geospatial or location intelligence component SpatialGIS knows about, this can be manually escalated before 09/28. Otherwise, let close.
+
+---
+
+### 2. HHS IHS — Unified Financial Management System O&M *(Reminder)*
+- **Slug:** hhs-ihs-unified-financial-management-system-o-m
+- **Agency:** HHS / Indian Health Service (IHS)
+- **Survey:** SV_byc2BCEXM73ouSa
+- **Due:** 2026-09-30 (5 days)
+- **Triage result:** DECLINE — hard-decline keyword: "financial management"
+- **Scope:** O&M support for IHS Unified Financial Management System (UFMS) and Hyperion; requires functional and technical expertise in UFMS, Hyperion, and associated financial management systems.
+- **Decline reason:** Financial management systems are explicitly in the hard-decline keyword list. SpatialGIS has no UFMS or Hyperion expertise. Attempting a response would require fabricating capabilities — prohibited by guardrails and CLAUDE.md rule.
+- **Submission status:** DECLINED — hard-decline, no response appropriate
+
+---
+
+### 3. HHS — Rapid Medical Examinations & Medical Qualification *(Reminder)*
+- **Slug:** hhs-rapid-medical-examinations-medical-qualification
+- **Agency:** HHS / Office of the Surgeon General / Commissioned Corps
+- **Survey:** SV_0I0pdpyhvyeRZqK
+- **Due:** 2026-09-25 ⚠️ **TODAY — LAST CHANCE**
+- **Triage result:** DECLINE — no capability keyword match; healthcare/clinical services scope
+- **Scope:** Nationwide medical examination services, dental examination services, laboratory testing, medical qualification review, deployment health assessments, telehealth capabilities, medical readiness support, secure electronic records management, real-time status reporting, applicant and government portals, data analytics and performance reporting.
+- **Decline reason:** Core requirement is delivery of medical and dental examination services and clinical/lab testing for Commissioned Corps applicants and officers. Healthcare clinical services ("healthcare IT", "clinical", "EMR/EHR") are in the hard-decline list. Even the IT components (portals, records management, data analytics) are subordinate to a prime healthcare services role SpatialGIS cannot honestly fill. Previously flagged MAYBE on 09-23 for Kendrick review; closing today.
+- **Submission status:** DECLINED — not pursued (also effectively closing today)
+
+---
+
+## POC Confirmations — Prior Submissions Acknowledged (1)
+
+| # | Prior RFI | Confirmed |
+|---|-----------|-----------|
+| 4 | DOL ILAB — Monitoring, Evaluation, and Data Services | 2026-09-24 |
+
+GSA confirmed SpatialGIS's prior response was received. Agency POC: banjade.shreeya.n@dol.gov. GSA CSD: warren.richey@gsa.gov. No further action required unless the agency reaches out directly.
+
+---
+
+## Action Items for Kendrick
+
+| Priority | Item | Deadline |
+|----------|------|----------|
+| ⚠️ TODAY | HHS Rapid Medical — already declining, but **closes today**. If you want to respond manually, do it now. | 09/25 EOD |
+| LOW | HHS CDC IT Products 4.0 — decline unless CDC's requirement has a GIS/spatial component you know about | 09/28 |
+| ✓ GOOD NEWS | DOL ILAB prior submission confirmed received by GSA | — |
+
+---
+
+*Generated by mras-daily-triage on 2026-09-25. 0 submissions made. 0 blocked items.*
