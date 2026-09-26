@@ -1,0 +1,38 @@
+[
+  {
+    "thread_id": "1a0da4943e01bd45",
+    "subject": "Response Received: HHS - IT Products 4.0 - MRAS",
+    "date": "2026-09-25T20:37:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_5ak17TROB0mtejs",
+    "slug": "hhs-it-products-4-0",
+    "snippet": "Response Confirmation ID: SV_5ak17TROB0mtejs-R_GOW5hje4HhnErD2 Thank you for responding to this Request for Information.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a0da48623ee1c51",
+    "subject": "Response Received: DOE - Mission Support Services - MRAS",
+    "date": "2026-09-25T20:36:11Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_1BUWS5MUMIbPL1k",
+    "slug": "doe-mission-support-services",
+    "snippet": "Response Confirmation ID: SV_1BUWS5MUMIbPL1k-R_Gc6E6waiYOXeZp8 Thank you for responding to this Request for Information.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a0da4780f3bce4e",
+    "subject": "Response Received: Army - Generation 4 Technology Services (G4-TS) - MRAS",
+    "date": "2026-09-25T20:35:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "response_confirmation",
+    "survey_id": "SV_3yebBUavhEDUJ6e",
+    "slug": "army-generation-4-technology-services-g4-ts",
+    "snippet": "Response Confirmation ID: SV_3yebBUavhEDUJ6e-R_GJPa68VsFaaLCxr Thank you for responding to this Request for Information.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
