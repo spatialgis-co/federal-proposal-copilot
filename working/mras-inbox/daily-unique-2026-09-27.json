@@ -1,0 +1,26 @@
+[
+  {
+    "thread_id": "1a0de96b360b78e2",
+    "subject": "DOT - FTA Procurement Closeout Support - MRAS",
+    "date": "2026-09-26T16:40:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0uHuKgh05O8Drkq",
+    "survey_id": "SV_0uHuKgh05O8Drkq",
+    "agency": "DOT / Federal Transit Administration (FTA)",
+    "requirement_summary": "Closeout support services for the Office of Acquisition Management; responsible for closing out various procurement actions associated with Contracts.",
+    "due_date": "2026-10-13",
+    "slug": "dot-fta-procurement-closeout-support"
+  },
+  {
+    "thread_id": "1a0dd86f75c7a04a",
+    "subject": "GSA OHRM - Mentoring Platform - MRAS",
+    "date": "2026-09-26T11:43:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5tnb0rQaQuz0ose",
+    "survey_id": "SV_5tnb0rQaQuz0ose",
+    "agency": "GSA / Office of Human Resources Management (OHRM)",
+    "requirement_summary": "Secure, accessible, configurable SaaS platform to administer, scale, and evaluate enterprise mentoring programs. Must be FedRAMP Certified at impact level approved by GSA throughout contract performance.",
+    "due_date": "2026-10-09",
+    "slug": "gsa-ohrm-mentoring-platform"
+  }
+]
