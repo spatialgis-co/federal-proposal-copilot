@@ -1,0 +1,18 @@
+[
+  {
+    "thread_id": "1a0e7769af66ab1c",
+    "subject": "Reminder: VA - VA Enterprise Workers' Compensation IT Solution - MRAS",
+    "date": "2026-09-28T10:01:34Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "va-va-enterprise-workers-compensation-it-solution",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_ai8Chvo2MeOq2NM",
+    "survey_id": "SV_ai8Chvo2MeOq2NM",
+    "responses_due": "2026-10-15",
+    "agency": "VA",
+    "title": "VA Enterprise Workers' Compensation IT Solution",
+    "description": "The VA is seeking industry input on commercial, configurable, hybrid, and SaaS solutions for an enterprise workers' compensation case-management system, including electronic claim files, workflows, data migration, integrations, security, chargeback reporting, and analytics to support modernization.",
+    "is_reminder": true,
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['reporting']"
+  }
+]
