@@ -1,0 +1,30 @@
+[
+  {
+    "thread_id": "1a0ec9dddba9a390",
+    "subject": "Reminder: USAF - Hurlburt Fld Civil Engineer Real Property and Budget Analyst Spt - MRAS",
+    "date": "2026-09-29T10:02:31Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5oPq8OuuhwcHVtk?Q_DL=lRWL708hZXcgSHU_5oPq8OuuhwcHVtk_CGC_49MSdlteoyExgcQ&Q_RD=EMD_2dq4YtLHnYHd8Sp&Q_CHL=email",
+    "survey_id": "SV_5oPq8OuuhwcHVtk",
+    "responses_due": "2026-10-01",
+    "description": "Civil Engineer Squadron Real Property Specialists & Budget Analyst Support Services Contract Hurlburt Field, Florida. Real Property Specialist Services: Accountability & Inventory, Asset Management, Documentation, Real Estate Actions, and Space Management Support Services and deliverables. Budget Analyst Specialist Services: Budget analysis and resource management support services, including budget formulation",
+    "slug": "usaf-hurlburt-fld-civil-engineer-real-property-and-budget-analyst-spt",
+    "is_reminder": true,
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a0ec9c55e8b9b4a",
+    "subject": "Reminder: HHS IHS - Unified Financial Management System O&M - MRAS",
+    "date": "2026-09-29T10:00:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_byc2BCEXM73ouSa?Q_DL=5GvAMgP1loX22gM_byc2BCEXM73ouSa_CGC_HVLE6JX0GxkV7ko&Q_RD=EMD_pkR5JQUsCxYZCmt&Q_CHL=email",
+    "survey_id": "SV_byc2BCEXM73ouSa",
+    "responses_due": "2026-09-30",
+    "description": "The purpose of this contract is to provide the operations and maintenance (O&M) support which includes technical, functional and business operations support. This requires functional and technical expertise in several Financial Management Systems, UFMS & Hyperion and associated financial systems.",
+    "slug": "hhs-ihs-unified-financial-management-system-o-m",
+    "is_reminder": true,
+    "triage": "DECLINE",
+    "triage_reason": "Hard-decline keyword(s): ['financial management']"
+  }
+]
