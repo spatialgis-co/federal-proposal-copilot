@@ -1,0 +1,15 @@
+[
+  {
+    "thread_id": "1a0f1c343547643b",
+    "subject": "Reminder: VA - National Office Supply Program - MRAS",
+    "date": "2026-09-30T10:00:50Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_24wwynWCX1CV2Tk?Q_DL=fSN9TWfOEhxbXQe_24wwynWCX1CV2Tk_CGC_smNFWPYxey0rKlN&Q_RD=EMD_kZpFybIfrBFnRuD&Q_CHL=email",
+    "survey_id": "SV_24wwynWCX1CV2Tk",
+    "due_date": "2026-10-02",
+    "agency": "VA",
+    "requirement_summary": "VA seeks a National Office Supply Program (BOC 2620/2625) with a contractor-managed, VA-governed ordering portal: catalog governance, EDI transactions, approval workflows, mandatory-source compliance, supplier coordination, delivery to VA-approved points, reporting, and help desk support VA-wide.",
+    "is_reminder": true
+  }
+]
