@@ -1,0 +1,17 @@
+[
+  {
+    "thread_id": "1a1034ce8f196964",
+    "subject": "EPA - WIFIA Mission Support Services - MRAS",
+    "date": "2026-10-03T19:45:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8f9S1RKtnhyQj30?Q_DL=QXI4BskXERR7KM2_8f9S1RKtnhyQj30_CGC_Bzpfq3B9DtdIBXD&Q_CHL=email",
+    "survey_id": "SV_8f9S1RKtnhyQj30",
+    "responses_due": "2026-10-13",
+    "snippet": "programmatic support to EPA for topics related to this BPA. This shall include support for both the WIFIA base program, the State Revolving Fund WIFIA Program, and any subsequent WIFIA subprograms that may be developed",
+    "agency": "EPA",
+    "opportunity_title": "WIFIA Mission Support Services",
+    "slug": "epa-wifia-mission-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
