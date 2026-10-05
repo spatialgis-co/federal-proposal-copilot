@@ -214,3 +214,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-10-04 00:05 — mras-daily-triage — processed 1 new, submitted 0, rejected 0, blocked 0 (1 DECLINE: epa-wifia-mission-support-services financial program mgmt, no GIS/IT match) → working/mras-inbox/daily-queue-2026-10-04.md
 
 ## 2026-10-05 00:00 — mras-daily-triage — processed 0 new, submitted 0, rejected 0, blocked 0; 2 carry-forward items need human decision (DOS Website due 10/08, GSA Hermes due 10/09) → working/mras-inbox/daily-queue-2026-10-05.md
+
+## 2026-10-05 12:15 — mras-weekly-audit — 21-day cross-check of Gmail vs. daily-triage pipeline + mras-runs fill-reports; 0 silent-fail, 0 hard-miss, 2 urgent-open (DOS Website due 10/08, GSA Hermes due 10/09 — both escalated 09-28, still undecided), 1 open (VA Workers Comp, due 10/15); confirmed a live pipeline drop (DOI DEST reminder thread silently missing from 09-17 triage, harmless this time) and that scripts/mras_verify_confirmations.py + scripts/mras_reminder_gate.py + working/mras-declined-sv-ids.txt referenced by this audit's run instructions do not exist in the repo → working/mras-inbox/audit-3week-2026-10-05.md
