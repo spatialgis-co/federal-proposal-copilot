@@ -1,0 +1,54 @@
+[
+  {
+    "thread_id": "1a10c914c73f5348",
+    "subject": "Response Received: GSA AAS - Hermes - Market Research",
+    "date": "2026-10-05T14:56:50Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "survey_id": "SV_bOxhwGzyqlglWmO",
+    "responses_due": null,
+    "snippet": "Response Confirmation ID: SV_bOxhwGzyqlglWmO-R_GH8dGCoc7sYWB7H Thank you for responding to this Request for Information.",
+    "agency": "GSA",
+    "opportunity_title": "AAS - Hermes - Market Research",
+    "email_type": "response_confirmation"
+  },
+  {
+    "thread_id": "1a10c90ab3c9b2ec",
+    "subject": "Response Received: DOT - FTA Procurement Closeout Support - MRAS",
+    "date": "2026-10-05T14:56:09Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "survey_id": "SV_0uHuKgh05O8Drkq",
+    "responses_due": null,
+    "snippet": "Response Confirmation ID: SV_0uHuKgh05O8Drkq-R_G9NeBrHTm8xdXBn Thank you for responding to this Request for Information.",
+    "agency": "DOT",
+    "opportunity_title": "FTA Procurement Closeout Support",
+    "email_type": "response_confirmation"
+  },
+  {
+    "thread_id": "1a10c8fcf8a47aec",
+    "subject": "Response Received: EPA - WIFIA Mission Support Services - MRAS",
+    "date": "2026-10-05T14:55:11Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "survey_id": "SV_8f9S1RKtnhyQj30",
+    "responses_due": null,
+    "snippet": "Response Confirmation ID: SV_8f9S1RKtnhyQj30-R_GlJNpBk1FCG1GO5 Thank you for responding to this Request for Information.",
+    "agency": "EPA",
+    "opportunity_title": "WIFIA Mission Support Services",
+    "email_type": "response_confirmation"
+  },
+  {
+    "thread_id": "1a10b82c173a2bd3",
+    "subject": "Reminder: HHS FDA - Integrated Social Media Management Services - MRAS",
+    "date": "2026-10-05T10:00:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_23ODlb8FHN0UyYS?Q_DL=BhzlfYYU7UqHIo5_23ODlb8FHN0UyYS_CGC_oP7YV1BfwZvL196&Q_RD=EMD_inaUNoSECoclN8p&Q_CHL=email",
+    "survey_id": "SV_23ODlb8FHN0UyYS",
+    "responses_due": "2026-10-07",
+    "snippet": "OEA requires a cloud-hosted integrated social media management tool which includes social media listening to monitor public mentions of FDA using Boolean search, perform basic sentiment analysis, and generate automated reports/digests. The tool must support 1-15 users and should be SOC 2 certified.",
+    "agency": "HHS FDA",
+    "opportunity_title": "Integrated Social Media Management Services",
+    "email_type": "rfi_reminder"
+  }
+]
