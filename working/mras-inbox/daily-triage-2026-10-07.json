@@ -1,0 +1,37 @@
+[
+  {
+    "thread_id": "1a11325c3c3e9b66",
+    "subject": "Regarding your GSA Market Research as a Service (MRAS) Inquiry . . . Re: RFI1838716 \u2013 FDA Integrated Social Media Management Services",
+    "date": "2026-10-06T21:36:43Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "survey_id": null,
+    "responses_due": null,
+    "snippet": "Thank you for reaching out to the GSA MRAS Team - we will respond to your email within 24-72 hours.",
+    "agency": "HHS FDA",
+    "opportunity_title": "Integrated Social Media Management Services (auto-reply to inquiry)",
+    "email_type": "auto_reply_to_inquiry",
+    "slug": "regarding-your-gsa-market-research-as-a-service-mras-inquiry-re-rfi1838716-fda-integrated-social-media-management-services",
+    "notes": "Auto-reply from MRAS team acknowledging a prior inquiry from SpatialGIS about RFI1838716. Not an RFI invitation. No survey URL or due date.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a110a8bc7e20fcb",
+    "subject": "Reminder: NCUA - Liquidating Records Management - MRAS",
+    "date": "2026-10-06T10:00:46Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3aBbvQgW3ocGZPE?Q_DL=0pPiPsk34eqBLco_3aBbvQgW3ocGZPE_CGC_Kcmi8HLdgTjb80w&Q_RD=EMD_qG1XcG8qkXt4KRk&Q_CHL=email",
+    "survey_id": "SV_3aBbvQgW3ocGZPE",
+    "responses_due": "2026-10-13",
+    "snippet": "NCUA AMAC needs an IT solution to load, maintain, track communications and manage credit union liquidation activities using near real-time data from multiple sources.",
+    "agency": "NCUA AMAC",
+    "opportunity_title": "Liquidating Records Management",
+    "email_type": "rfi_reminder",
+    "slug": "ncua-liquidating-records-management",
+    "requirement_summary": "IT solution to load, maintain, track communications and manage credit union liquidation activities using near real-time data from multiple sources.",
+    "notes": "Reminder email. First seen 2026-10-02; DECLINE classification stands.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
