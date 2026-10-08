@@ -220,3 +220,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-10-06 00:00 — mras-daily-triage — processed 4 new (3 response-confirmations for manual submissions, 1 FDA social-media tool DECLINE), submitted 0, rejected 0, blocked 0; carry-forward DOS Website due 2026-10-08 still needs Kendrick decision today → working/mras-inbox/daily-queue-2026-10-06.md
 
 ## 2026-10-07 00:00 — mras-daily-triage — processed 2 new (1 auto-reply non-RFI, 1 duplicate NCUA reminder), submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-10-07.md
+
+## 2026-10-08 00:00 — mras-daily-triage — processed 1 new, submitted 0, rejected 0, blocked 0; USDA Spruce Grouse Survey DECLINE (wildlife biology, outside capability lane) → working/mras-inbox/daily-queue-2026-10-08.md

@@ -1,0 +1,17 @@
+[
+  {
+    "thread_id": "1a116ddb447508f8",
+    "subject": "USDA - Spruce Grouse Survey - MRAS",
+    "date": "2026-10-07T14:56:26Z",
+    "sender": "rfi@research.gsa.gov",
+    "to": "kendrick@spatialgisservices.com",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5A7MyB2OHhBzK4u?Q_DL=VwMpuHTFjVwbLO1_5A7MyB2OHhBzK4u_CGC_uNiH1l545l3VQ3P&Q_CHL=email",
+    "survey_id": "SV_5A7MyB2OHhBzK4u",
+    "due_date": "2026-10-15",
+    "agency": "USDA",
+    "description": "Spruce Grouse surveys to be conducted on approximately 150 acres. Carry out surveys between April 1 and May 15. See attachments for more detailed information. Looking for a rough estimate to perform this survey. Survey locations will be within the Tucker Project Area (Price and Vilas Counties, Wisconsin).",
+    "slug": "usda-spruce-grouse-survey",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
