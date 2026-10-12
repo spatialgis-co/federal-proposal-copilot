@@ -1,0 +1,10 @@
+{
+  "opportunity_id": "usda-spruce-grouse-survey",
+  "slug": "usda-spruce-grouse-survey",
+  "submitted": true,
+  "submitted_date": "2026-10-11",
+  "submitted_by": "pipeline",
+  "notes": "Confirmed submitted via 'Response Received' email 2026-10-11T20:37:21Z. Confirmation ID: SV_5A7MyB2OHhBzK4u-R_GHo7cKJP7GS9gSm. Fill report created retroactively by 2026-10-12 daily triage run. ANOMALY: This opportunity was DECLINED in the 2026-10-08 daily queue (wildlife biology field survey, wrong NAICS, no past performance). It was subsequently submitted on 2026-10-11 by an untracked run — submission occurred without fill report being saved. Requires human review to understand how a DECLINED opportunity was submitted.",
+  "subject": "USDA - Spruce Grouse Survey - Market Research",
+  "alert": "DECLINED_BUT_SUBMITTED — flagged for human review"
+}
