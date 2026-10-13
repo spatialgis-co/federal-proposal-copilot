@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-13",
+  "query": "from:rfi@research.gsa.gov newer_than:1d",
+  "result_count_estimate": 2,
+  "threads": [
+    {
+      "thread_id": "1a1309d75a3e25af",
+      "subject": "POC Information:  DOT - FTA Procurement Closeout Support - MRAS",
+      "date": "2026-10-12T14:56:27Z",
+      "sender": "rfi@research.gsa.gov",
+      "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under",
+      "message_type": "poc-closeout",
+      "has_survey_url": false
+    },
+    {
+      "thread_id": "1a1309cc4b86f29c",
+      "subject": "POC Information: EPA - WIFIA Mission Support Services - MRAS",
+      "date": "2026-10-12T14:55:41Z",
+      "sender": "rfi@research.gsa.gov",
+      "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI. Your response helps us demonstrate the value proposition of our contracts and the industry partners we have retained under",
+      "message_type": "poc-closeout",
+      "has_survey_url": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-13",
+  "source": "daily-unique-2026-10-13.json",
+  "summary": {
+    "total": 2,
+    "pass": 0,
+    "maybe": 0,
+    "decline": 2
+  },
+  "buckets": {
+    "pass": [],
+    "maybe": [],
+    "decline": [
+      {
+        "thread_id": "1a1309d75a3e25af",
+        "slug": "dot-fta-procurement-closeout-support",
+        "subject": "POC Information:  DOT - FTA Procurement Closeout Support - MRAS",
+        "date": "2026-10-12T14:56:27Z",
+        "reason": "POC closeout notification — thank-you email providing agency POC (c.porterhickman@dot.gov) and GSA CSD (tausha.freeman@gsa.gov) after prior RFI submission. No Qualtrics survey URL. No action required.",
+        "agency_poc": "c.porterhickman@dot.gov",
+        "gsa_poc": "tausha.freeman@gsa.gov"
+      },
+      {
+        "thread_id": "1a1309cc4b86f29c",
+        "slug": "epa-wifia-mission-support-services",
+        "subject": "POC Information: EPA - WIFIA Mission Support Services - MRAS",
+        "date": "2026-10-12T14:55:41Z",
+        "reason": "POC closeout notification — thank-you email providing agency POC (heath.brad@epa.gov) and GSA CSD (mark.king@gsa.gov) after prior RFI submission. No Qualtrics survey URL. No action required.",
+        "agency_poc": "heath.brad@epa.gov",
+        "gsa_poc": "mark.king@gsa.gov"
+      }
+    ]
+  }
+}

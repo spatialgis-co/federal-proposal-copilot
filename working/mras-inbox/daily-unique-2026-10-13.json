@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-13",
+  "source": "daily-raw-2026-10-13.json",
+  "dedup_note": "Both threads are distinct thread IDs; neither slug matches any prior submission. Both are POC closeout emails (non-RFI), not new solicitations.",
+  "unique_count": 2,
+  "threads": [
+    {
+      "thread_id": "1a1309d75a3e25af",
+      "subject": "POC Information:  DOT - FTA Procurement Closeout Support - MRAS",
+      "date": "2026-10-12T14:56:27Z",
+      "message_type": "poc-closeout",
+      "has_survey_url": false,
+      "slug": "dot-fta-procurement-closeout-support"
+    },
+    {
+      "thread_id": "1a1309cc4b86f29c",
+      "subject": "POC Information: EPA - WIFIA Mission Support Services - MRAS",
+      "date": "2026-10-12T14:55:41Z",
+      "message_type": "poc-closeout",
+      "has_survey_url": false,
+      "slug": "epa-wifia-mission-support-services"
+    }
+  ]
+}
