@@ -1,0 +1,20 @@
+[
+  {
+    "thread_id": "1a134b55c4b50539",
+    "subject": "Reminder: NCUA - Liquidating Records Management - MRAS",
+    "date": "2026-10-13T10:00:22Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3aBbvQgW3ocGZPE?Q_DL=0pPiPsk34eqBLco_3aBbvQgW3ocGZPE_CGC_Kcmi8HLdgTjb80w&Q_RD=EMD_Nn0BbEiZDejdXIa&Q_CHL=email",
+    "survey_id": "SV_3aBbvQgW3ocGZPE",
+    "responses_due": "2026-10-13",
+    "snippet": "NCUA AMAC needs an IT solution to load, maintain, track communications and manage credit union liquidation activities using near real-time data from multiple sources.",
+    "agency": "NCUA AMAC",
+    "opportunity_title": "Liquidating Records Management",
+    "email_type": "rfi_reminder",
+    "slug": "ncua-liquidating-records-management",
+    "requirement_summary": "IT solution to load, maintain, track communications and manage credit union liquidation activities using near real-time data from multiple sources.",
+    "notes": "Third reminder email. First seen 2026-10-02; DECLINE classification from prior runs. Due date 2026-10-13 is now past.",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
