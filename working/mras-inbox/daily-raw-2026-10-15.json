@@ -1,0 +1,41 @@
+[
+  {
+    "thread_id": "1a13c6899f7ba026",
+    "subject": "GSA AAS - HHS National Library of Medicine IT Support - MRAS",
+    "date": "2026-10-14T21:53:36Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8G1vAmM7flILBlk",
+    "survey_id": "SV_8G1vAmM7flILBlk",
+    "due_date": "2026-10-27",
+    "agency": "GSA AAS / HHS National Library of Medicine",
+    "description": "IT support for biomedical and bioinformatics software design, engineering and scientific system administration within the National Library of Medicine. This is required for the continued growth and evolution of genomics, bioinformatics databases and information systems for NIH.",
+    "email_type": "new_invitation",
+    "slug": "hhs-nlm-it-support"
+  },
+  {
+    "thread_id": "1a13b3a080467114",
+    "subject": "DHS USCIS - Criminal Investigative Intelligence - MRAS",
+    "date": "2026-10-14T16:23:12Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_e40pISSyUMdVv0y",
+    "survey_id": "SV_e40pISSyUMdVv0y",
+    "due_date": "2026-10-22",
+    "agency": "DHS USCIS - Criminal Investigation Division (CID)",
+    "description": "The Contractor shall establish and provide services to deliver a Criminal Investigative Intelligence and Analytics Support Capability for CID. The capability shall improve CID's ability to identify, prioritize, investigate, and disrupt criminal threats affecting the integrity of the U.S. legal immigration system.",
+    "email_type": "new_invitation",
+    "slug": "dhs-uscis-criminal-investigative-intelligence"
+  },
+  {
+    "thread_id": "1a139db3a9864a9d",
+    "subject": "Reminder: VA - VA Enterprise Workers' Compensation IT Solution - MRAS",
+    "date": "2026-10-14T10:00:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_ai8Chvo2MeOq2NM",
+    "survey_id": "SV_ai8Chvo2MeOq2NM",
+    "due_date": "2026-10-15",
+    "agency": "Department of Veterans Affairs (VA)",
+    "description": "The VA is seeking industry input on commercial, configurable, hybrid, and SaaS solutions for an enterprise workers' compensation case-management system, including electronic claim files, workflows, data migration, integrations, security, chargeback reporting, and analytics to support modernization.",
+    "email_type": "reminder",
+    "slug": "va-enterprise-workers-compensation-it-solution"
+  }
+]
