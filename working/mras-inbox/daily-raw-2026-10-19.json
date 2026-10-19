@@ -1,0 +1,83 @@
+[
+  {
+    "thread_id": "1a150c007746ca0b",
+    "subject": "POC Information: OSW - DIA - Mission Services - MRAS",
+    "date": "2026-10-18T20:42:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "not_extracted",
+    "prior_submission_slug": "osw-dia-mission-services",
+    "fill_report_exists": false
+  },
+  {
+    "thread_id": "1a150bf8edd1575d",
+    "subject": "POC Information: USAF - Jira Confluence - MRAS",
+    "date": "2026-10-18T20:41:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "not_extracted",
+    "prior_submission_slug": "usaf-jira-confluence",
+    "fill_report_exists": false
+  },
+  {
+    "thread_id": "1a150bf16b1542d8",
+    "subject": "POC Information: USACE - PMO Advisory and Technical Support Services - MRAS",
+    "date": "2026-10-18T20:41:02Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "not_extracted",
+    "prior_submission_slug": "usace-pmo-advisory-and-technical-support-services",
+    "fill_report_exists": false
+  },
+  {
+    "thread_id": "1a150be29eb1e63c",
+    "subject": "POC Information: DOT - FAA Civil Rights Connect - MRAS",
+    "date": "2026-10-18T20:40:01Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "not_extracted",
+    "prior_submission_slug": "dot-faa-civil-rights-connect",
+    "fill_report_exists": true
+  },
+  {
+    "thread_id": "1a150bd4756b7951",
+    "subject": "POC Information: USAF - ScienceLogic Advanced Engineering Support - MRAS",
+    "date": "2026-10-18T20:39:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "not_extracted",
+    "prior_submission_slug": "usaf-sciencelogic-advanced-engineering-support",
+    "fill_report_exists": false
+  },
+  {
+    "thread_id": "1a150bc995429e06",
+    "subject": "POC Information: USDA - Spruce Grouse Survey - Market Research",
+    "date": "2026-10-18T20:38:18Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "jacob.hillstead@usda.gov",
+    "prior_submission_slug": "usda-spruce-grouse-survey",
+    "fill_report_exists": false
+  },
+  {
+    "thread_id": "1a150b39d6bc41f3",
+    "subject": "POC Information: DOE - Portfolio Analysis and Management System (PAMS) - MRAS",
+    "date": "2026-10-18T20:28:30Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "not_extracted",
+    "prior_submission_slug": "doe-portfolio-analysis-and-management-system-pams",
+    "fill_report_exists": true
+  },
+  {
+    "thread_id": "1a150b2c36fbc10e",
+    "subject": "POC Information: OSW - NGA - Cost assessment and program evaluation - MRAS",
+    "date": "2026-10-18T20:27:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "poc_confirmation",
+    "agency_poc": "dako.k.hunt@nga.mil",
+    "gsa_poc": "waleed.wahbe@gsa.gov",
+    "prior_submission_slug": "osw-nga-cost-assessment-and-program-evaluation",
+    "fill_report_exists": false
+  }
+]
