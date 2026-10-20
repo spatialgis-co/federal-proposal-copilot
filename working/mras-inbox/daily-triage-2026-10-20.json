@@ -1,0 +1,112 @@
+[
+  {
+    "thread_id": "1a155581332b8f14",
+    "subject": "Response Received: DOJ OJP - Workplace Management System - MRAS",
+    "date": "2026-10-19T18:06:37Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_8ueEfMFuRaHBYpw-R_GlAKCsg5PLCv7sg Thank you for responding to this Request for Information.",
+    "slug": "doj-ojp-workplace-management-system",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a155566b7d00678",
+    "subject": "Response Received: FDIC - FY 27 Enterprise Technology Support Services - MRAS",
+    "date": "2026-10-19T18:04:48Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_4NhvBld204aVRD8-R_Gs4J7L2qi1RSgaF Thank you for responding to this Request for Information.",
+    "slug": "fdic-fy-27-enterprise-technology-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15555934a0d96c",
+    "subject": "Response Received: DHS - IPSO and Financial Support - MRAS",
+    "date": "2026-10-19T18:03:53Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_cNpIHyu6BBtnzme-R_GhYZBXmiuS4JQqV Thank you for responding to this Request for Information.",
+    "slug": "dhs-ipso-and-financial-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15554c289cb247",
+    "subject": "Response Received: Army - RFID Arms Room Modernization - MRAS",
+    "date": "2026-10-19T18:02:59Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_3fydDAxFdE48xXo-R_Gva1lhaqV8rBr1L Thank you for responding to this Request for Information.",
+    "slug": "army-rfid-arms-room-modernization",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15553f95b5962e",
+    "subject": "Response Received: DOL - PBGC Zscaler 2027 Recompete - MRAS",
+    "date": "2026-10-19T18:02:08Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_5aIIbSQvzdz0Cy2-R_GjU4DCPUVeSb36M Thank you for responding to this Request for Information.",
+    "slug": "dol-pbgc-zscaler-2027-recompete",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a155532be6942b1",
+    "subject": "Response Received: DHS USCIS - Criminal Investigative Intelligence - MRAS",
+    "date": "2026-10-19T18:01:14Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_e40pISSyUMdVv0y-R_GNNlmefY68o0Iox Thank you for responding to this Request for Information.",
+    "slug": "dhs-uscis-criminal-investigative-intelligence",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15552375ff5765",
+    "subject": "Response Received: HHS NIH - Recompete IT Contract - MRAS",
+    "date": "2026-10-19T18:00:13Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_emP6SVQId8xojs2-R_GM0eRxaqNNhDSno Thank you for responding to this Request for Information.",
+    "slug": "hhs-nih-recompete-it-contract",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15551a95444360",
+    "subject": "Response Received: OSW - DHA - Emergency Mass Notification System Services - Market Research",
+    "date": "2026-10-19T17:59:37Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_eERGbLWkhZHVhMW-R_GqfBsGBIPBPbRdB Thank you for responding to this Request for Information.",
+    "slug": "osw-dha-emergency-mass-notification-system-services-market-research",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15550b387b563f",
+    "subject": "Response Received: DOJ DEA - Electronic Device Monitoring System - MRAS",
+    "date": "2026-10-19T17:58:32Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "response_received",
+    "snippet": "Response Confirmation ID: SV_9FXPeo0qGu8uzfE-R_GHSSOXyj3mO1L59 Thank you for responding to this Request for Information.",
+    "slug": "doj-dea-electronic-device-monitoring-system",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a1539c446736502",
+    "subject": "Reminder: OSW - Emergency Mass Notification System Services - MRAS",
+    "date": "2026-10-19T10:01:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "email_type": "reminder",
+    "snippet": "This a REMINDER about a recently posted MRAS RFI that your company was identified as a GSA Contractor that can potentially meet the needs of",
+    "slug": "osw-emergency-mass-notification-system-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
