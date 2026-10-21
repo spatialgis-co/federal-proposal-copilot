@@ -1,0 +1,17 @@
+[
+  {
+    "thread_id": "1a15a89d43962930",
+    "subject": "USAF - Data Science Metadata Mgmt & Enterprise Learning App Spt - MRAS",
+    "date": "2026-10-20T18:18:51Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Dear GSA Industry Partner: Link to the RFI: Take the survey Your company has been identified as a GSA Contractor that can potentially meet the needs of the below RFI and we would like to invite your",
+    "description": "Data Science, Metadata Management, and Enterprise Learning Application Support (ELAS) for Department of the Air Force (DAF), Headquarters (HQ) Air Education Training Command (AETC), Analysis and Assessments Directorate (HQ AETC/A9), HQ AETC Data Office (HQ AETC/A6), and HQ AETC Learning Services Division (HQ AETC/A3G). AETC requires non-personal professional and technical services. The contractor will operate as part of a Government-led MFT and provide qualified personnel to perform operations research, data science, AI/ML, enterprise data mgmt, software development, and application sustainment activities.",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6hSM8nYJ4KNzz5I",
+    "survey_id": "SV_6hSM8nYJ4KNzz5I",
+    "due_date": "2026-10-30",
+    "agency": "USAF / DAF AETC",
+    "slug": "usaf-data-science-metadata-mgmt-enterprise-learning-app-spt",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['software development']"
+  }
+]
