@@ -1,0 +1,47 @@
+[
+  {
+    "thread_id": "1a15ff035d6e9fc6",
+    "subject": "SEC - Professional Audit and Support Services - MRAS",
+    "date": "2026-10-21T19:28:52Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "sec-professional-audit-and-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15f5e1d1500978",
+    "subject": "DOJ - EOUSA USAidam Professional Support Services - MRAS",
+    "date": "2026-10-21T16:49:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "doj-eousa-usaidam-professional-support-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15f4fbc1f3817c",
+    "subject": "DOJ DEA - Skydio Data and Video Streaming Suite - MRAS",
+    "date": "2026-10-21T16:33:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "doj-dea-skydio-data-and-video-streaming-suite",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15f09f7b496caa",
+    "subject": "DHS - PPBE Systems Integrator Operations & Maintenance - MRAS",
+    "date": "2026-10-21T15:17:27Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "dhs-ppbe-systems-integrator-operations-maintenance",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a15f075c931fe3c",
+    "subject": "USAF - Platform One Service Desk & Automated Operations - MRAS",
+    "date": "2026-10-21T15:14:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "slug": "usaf-platform-one-service-desk-automated-operations",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
