@@ -1,0 +1,14 @@
+[
+  {
+    "thread_id": "1a163692622d3bac",
+    "subject": "DOS - Procurement E-Signature Platform - MRAS",
+    "date": "2026-10-22T11:39:55Z",
+    "sender": "rfi@research.gsa.gov",
+    "snippet": "Electronic signature capture and routing for policy-required review/approval/clearance actions; identity verification; personnel directory lookup; basic reassignment/delegation; audit trail generation; mobile/browser access. Primarily internal use.",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3a2LQI7XmPYcidU",
+    "responses_due": "2026-11-03",
+    "slug": "dos-procurement-e-signature-platform",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
