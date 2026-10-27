@@ -1,0 +1,105 @@
+[
+  {
+    "thread_id": "1a17965161e52303",
+    "subject": "POC Information: DOJ OJP - Workplace Management System - MRAS",
+    "date": "2026-10-26T18:07:10Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-doj-ojp-workplace-management-system"
+  },
+  {
+    "thread_id": "1a1796313d6196a4",
+    "subject": "POC Information: FDIC - FY27 Enterprise Technology Support Services - MRAS",
+    "date": "2026-10-26T18:04:58Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-fdic-fy27-enterprise-technology-support-services"
+  },
+  {
+    "thread_id": "1a179624541343e1",
+    "subject": "POC Information: DHS - IPSO and Financial Support - MRAS",
+    "date": "2026-10-26T18:04:05Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-dhs-ipso-and-financial-support"
+  },
+  {
+    "thread_id": "1a17961b4be52af9",
+    "subject": "POC Information: Army - RFID Arms Room Modernization - MRAS",
+    "date": "2026-10-26T18:03:28Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-army-rfid-arms-room-modernization"
+  },
+  {
+    "thread_id": "1a179609b6df956b",
+    "subject": "POC Information: DOL - PBGC Zscaler 2027 Recompete - MRAS",
+    "date": "2026-10-26T18:02:16Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-dol-pbgc-zscaler-2027-recompete"
+  },
+  {
+    "thread_id": "1a1795feb11394b3",
+    "subject": "POC Information: DHS USCIS - Criminal Investigative Intelligence - MRAS",
+    "date": "2026-10-26T18:01:31Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-dhs-uscis-criminal-investigative-intelligence"
+  },
+  {
+    "thread_id": "1a1795f2a3b2ede7",
+    "subject": "POC Information: HHS NIH - Recompete IT Contract - MRAS",
+    "date": "2026-10-26T18:00:41Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-hhs-nih-recompete-it-contract"
+  },
+  {
+    "thread_id": "1a1795e3416556eb",
+    "subject": "POC Information: OSW - DHA - Emergency Mass Notification System Services - Market Research",
+    "date": "2026-10-26T17:59:39Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-osw-dha-emergency-mass-notification-system-services-market-research"
+  },
+  {
+    "thread_id": "1a1795e0fd074712",
+    "subject": "POC Information: DOJ DEA - Electronic Device Monitoring System - MRAS",
+    "date": "2026-10-26T17:59:27Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "poc_information",
+    "snippet": "The GSA MRAS Team would like to thank you again for responding to this RFI.",
+    "slug": "poc-information-doj-dea-electronic-device-monitoring-system"
+  },
+  {
+    "thread_id": "1a177a895e3b62c9",
+    "subject": "Reminder: SEC - Professional Audit and Support Services - MRAS",
+    "date": "2026-10-26T10:01:38Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3OEGYhYVgceOel8",
+    "responses_due": "2026-10-29",
+    "description": "Securities and Exchange Commission's Office of Inspector General is seeking qualified, independent certified public accounting firm, technology firm(s), or consulting firm(s) to conduct and coordinate, on behalf of the OIG, an independent evaluation to determine the effectiveness of SEC's SharePoint.",
+    "slug": "sec-professional-audit-and-support-services"
+  },
+  {
+    "thread_id": "1a177a73868ff1a9",
+    "subject": "Reminder: DHS - PPBE Systems Integrator Operations & Maintenance - MRAS",
+    "date": "2026-10-26T10:00:05Z",
+    "sender": "rfi@research.gsa.gov",
+    "type": "reminder",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8kW7kzkzMRKLJUq",
+    "responses_due": "2026-10-26",
+    "description": "Vehicle for DHS HQ OneStream Support to Enhance and Expand Planning, Programming, Budgeting, and Execution System Integration",
+    "slug": "dhs-ppbe-systems-integrator-operations-maintenance"
+  }
+]
