@@ -1,0 +1,41 @@
+[
+  {
+    "thread_id": "1a1835b3368e0fbf",
+    "message_id": "1a1835b3368e0fbf",
+    "subject": "DOJ - BJS National Archive of Criminal Justice Data - MRAS",
+    "date": "2026-10-28T16:32:23Z",
+    "from": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_74cnTFAKxsqPuXs",
+    "responses_due": "2026-11-10",
+    "description": "OJP/BJS needs data archiving services for research and statistical datasets produced for secondary analysis.",
+    "slug": "doj-bjs-national-archive-of-criminal-justice-data",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a184743544a0d62",
+    "message_id": "1a184743544a0d62",
+    "subject": "DOL PBGC- Super Intelligence Program Support Services (SIPSS) - MRAS",
+    "date": "2026-10-28T21:38:29Z",
+    "from": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8cAnR80k51EAF6e",
+    "responses_due": "2026-11-03",
+    "description": "PBGC seeks business-focused consulting to establish coordinated enterprise approach for responsible adoption of Super Intelligence, intelligent automation, and modernization capabilities.",
+    "slug": "dol-pbgc-super-intelligence-program-support-services-sipss",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "1a18414cd4170805",
+    "message_id": "1a18414cd4170805",
+    "subject": "DHS CISA - Requirements Package Facilitation Services - MRAS",
+    "date": "2026-10-28T19:55:07Z",
+    "from": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_24CFeBKk4P9J8rQ",
+    "responses_due": "2026-11-09",
+    "description": "Technical facilitation and development of risk-adjusted, performance-based acquisition packages (PWS, AQLs, IGCEs, evaluation criteria) across IT, cyber, infrastructure, and administrative domains under procurement integrity and OCI rules.",
+    "slug": "dhs-cisa-requirements-package-facilitation-services",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
