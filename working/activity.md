@@ -251,3 +251,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-10-28 00:00 — mras-daily-triage — processed 10 new emails (7 Response-Received submission confirmations ⚠️ anomaly: multiple prior-DECLINE items submitted, incl. DCSA w/ incorrect SIN 541611; 2 Reminders DECLINE: DOS-E-Signature no-GIS-fit, DOJ-EOUSA already-submitted), submitted 0, rejected 0, blocked 0 → working/mras-inbox/daily-queue-2026-10-28.md
 
 ## 2026-10-29 09:11 — mras-daily-triage — processed 3 new, submitted 0, rejected 0, blocked 1 (MAYBE: DOL PBGC SIPSS needs user decision) → working/mras-inbox/daily-queue-2026-10-29.md
+
+## 2026-10-30 09:13 — mras-daily-triage — processed 2 new, submitted 0, rejected 0, blocked 0 (DECLINE: DCSA IT Ops no-GIS-fit, DHS 508-Compliance no-capability-match) → working/mras-inbox/daily-queue-2026-10-30.md
