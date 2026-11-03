@@ -1,0 +1,26 @@
+[
+  {
+    "thread_id": "1a19bebb5968e70e",
+    "message_id": "1a19bebb5968e70e",
+    "subject": "Reminder: DOL PBGC- Super Intelligence Program Support Services (SIPSS) - MRAS",
+    "date": "2026-11-02T11:00:33Z",
+    "description": "PBGC seeks independent, business-focused consulting support to establish and sustain a coordinated enterprise approach to the responsible adoption of SI, intelligent automation, and related modernization capabilities.",
+    "due_date": "11/03/2026",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_8cAnR80k51EAF6e",
+    "slug": "dol-pbgc-super-intelligence-program-support-services-sipss",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['program support']"
+  },
+  {
+    "thread_id": "1a19beaaf8b45ecd",
+    "message_id": "1a19beaaf8b45ecd",
+    "subject": "Reminder: DOJ - BJS National Archive of Criminal Justice Data - MRAS",
+    "date": "2026-11-02T11:00:06Z",
+    "description": "identify vendors with the capability to support Office of Justice Program's (OJP's) ongoing responsibility to archive the research and statistical datasets it produces for secondary analysis. OJP needs to innovate to keep up with the growing demand for its data. This RFI to identify qualified and responsible vendors having an interest in and possessing the resources and expertise to provide support to the Bureau of Justice Statistics (BJS) in providing data archiving services.",
+    "due_date": "11/10/2026",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_74cnTFAKxsqPuXs",
+    "slug": "doj-bjs-national-archive-of-criminal-justice-data",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
