@@ -1,0 +1,57 @@
+[
+  {
+    "thread_id": "1a1a2ff9560c0a87",
+    "message_id": "1a1a2ff9560c0a87",
+    "subject": "HUD - HUD - HSTART IT Enterprise BPA  - MRAS",
+    "date": "2026-11-03T20:00:07Z",
+    "description": "HUD's IT Enterprise BPA seeks continuous, modern, secure IT infrastructure and app delivery services emphasizing Agile, DevSecOps, cloud-native platforms, and zero trust architecture to power HUD OCIO mission capabilities. Max Ordering Est of $2.5B over a proposed 10 years PoP.",
+    "due_date": "11/13/2026",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2mYxnZOU7OsEg9U",
+    "survey_id": "SV_2mYxnZOU7OsEg9U",
+    "note": "ALREADY SUBMITTED \u2014 Response Confirmation ID SV_2mYxnZOU7OsEg9U-R_G3OIuL18J9VKZih received 2026-11-03T20:26:57Z",
+    "slug": "hud-hud-hstart-it-enterprise-bpa",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a1a1bba33178c0c",
+    "message_id": "1a1a1bba33178c0c",
+    "subject": "USAF AFRL - Digital Capabilities Directorate Support Services - MRAS",
+    "date": "2026-11-03T14:06:24Z",
+    "description": "The USAF, Air Force Research Laboratory (AFRL), Digital Capabilities Directorate contractor will provide acquisition and management services that enable the critical AFRL scientific and engineering missions. Such support includes but is not limited to: Technical and analytical project support; Contract execution; Digital communications and marketing; Data Management/Records Management; Security; Facility Support.",
+    "due_date": "11/16/2026",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6nUXYNbsBfrtvkG",
+    "survey_id": "SV_6nUXYNbsBfrtvkG",
+    "note": "ALREADY SUBMITTED \u2014 Response Confirmation ID SV_6nUXYNbsBfrtvkG-R_GE6wIBAkrjtX7lW received 2026-11-03T20:45:03Z",
+    "slug": "usaf-afrl-digital-capabilities-directorate-support-services",
+    "triage": "MAYBE",
+    "triage_reason": "Broad IT keyword(s): ['data management']"
+  },
+  {
+    "thread_id": "1a1a3452c5a7574d",
+    "message_id": "1a1a3452c5a7574d",
+    "subject": "DHS CBP - Wi-Fi Service, Maintenance, and Installation - MRAS",
+    "date": "2026-11-03T21:16:20Z",
+    "description": "The contractor will provide all service, labor, equipment, and expertise to operate, maintain, and support the public Wi-Fi network and infrastructure at the ATC campus, including expansion and lifecycle support for any new or future buildings added during the contract.",
+    "due_date": "11/20/2026",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_7VEVuTGlfPGF2CO",
+    "survey_id": "SV_7VEVuTGlfPGF2CO",
+    "slug": "dhs-cbp-wi-fi-service-maintenance-and-installation",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a1a1120970d94e4",
+    "message_id": "1a1a1120970d94e4",
+    "subject": "Reminder: DHS - 508 Compliance  - MRAS",
+    "date": "2026-11-03T11:00:52Z",
+    "description": "To ensure all publicly shared documents are made available in a manner compliant with Section 508 of the Rehabilitation Act (Section 508) and are also consistent with the DHS Style Guidelines.",
+    "due_date": "11/05/2026",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_03tPAiFin1svK2a",
+    "survey_id": "SV_03tPAiFin1svK2a",
+    "note": "Previously processed and DECLINED 2026-10-30. Reminder email only.",
+    "slug": "dhs-508-compliance",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
