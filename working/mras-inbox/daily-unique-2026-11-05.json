@@ -1,0 +1,62 @@
+[
+  {
+    "thread_id": "1a1a8733005aa4f6",
+    "subject": "DOT - Design Integration Risk Assessment Framework - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-05T00:00:00Z",
+    "slug": "dot-design-integration-risk-assessment-framework",
+    "description": "Professional consulting services to develop a Design Integration Management (DIM) Framework and associated capabilities that support the successful execution of the United States Merchant Marine Academy (USMMA) Campus Modernization Plan.",
+    "due_date": "2026-11-17",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_4YGKWgwOMMHmwSi"
+  },
+  {
+    "thread_id": "1a1a8d88d7ee3d25",
+    "subject": "DOI - USGS - AI Assisted Comprehensive Condition Assessments - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-05T00:00:00Z",
+    "slug": "doi-usgs-ai-assisted-comprehensive-condition-assessments",
+    "description": "Conduct condition assessments on USGS real property assets. In lieu of traditional labor-intensive methods, this requirement encourages the use of advanced inspection technologies such as drones, LiDAR, thermal imaging, and cameras with the data analyzed and reported by AI.",
+    "due_date": "2026-11-13",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_0cRPQFdEtsEOTJQ"
+  },
+  {
+    "thread_id": "1a1a88cb1923b545",
+    "subject": "OSW - MDA - ORBIT Sustainment RFI Follow On - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-05T00:00:00Z",
+    "slug": "osw-mda-orbit-sustainment-rfi-follow-on",
+    "description": "Follow on RFI for eBuy listings 1838803, 1838804, 1838805, 1838806. Obtain industry insight for optimal staffing methodologies, labor categories, Full-Time Equivalent estimates, and organizational structures required to successfully execute the scope of work.",
+    "due_date": "2026-11-10",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5j18iBcJd6xldkO"
+  },
+  {
+    "thread_id": "1a1a7cbf6957a2d6",
+    "subject": "TREAS - IRS - Entps. Performance Testing Tool Software Support - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-05T00:00:00Z",
+    "slug": "treas-irs-entps-performance-testing-tool-software-support",
+    "description": "Acquisition of software licenses and support services for an enterprise performance testing tool, a performance testing solution utilized by Internal Revenue Service (IRS) to ensure the reliability, scalability, and overall performance of mission-critical applications.",
+    "due_date": "2026-11-12",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6nhPO6uNOjGnDTM"
+  },
+  {
+    "thread_id": "1a1a7a031213a790",
+    "subject": "USAF - Agile Platform for Expeditionary C2 (APEX) - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-05T00:00:00Z",
+    "slug": "usaf-agile-platform-for-expeditionary-c2-apex",
+    "description": "Air Force PAE C3BM Mission Planning seeking rapid, secure, and continuous software development for the Command's portfolio of command and control (C2) applications. Full software lifecycle support, specifically focusing on custom software engineering, design, and continuous code development.",
+    "due_date": "2026-11-30",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_bDGTQqDbZOeR9bw"
+  },
+  {
+    "thread_id": "1a1a7ea46359e79c",
+    "subject": "GSA - Online University Functional Support - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-05T00:00:00Z",
+    "slug": "gsa-online-university-functional-support",
+    "description": "Comprehensive enterprise workforce learning and development support services. Integrated support services that are platform-agnostic and capable of supporting current and future enterprise learning management systems.",
+    "due_date": "2026-11-13",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_5cqQmEwYHZPprb8"
+  }
+]
