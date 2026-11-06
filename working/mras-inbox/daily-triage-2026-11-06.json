@@ -1,0 +1,33 @@
+[
+  {
+    "thread_id": "1a1ac9c828892c60",
+    "subject": "HHS NIH - Scientific Program Management Support - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-06T00:00:00Z",
+    "date": "2026-11-05T16:48:03Z",
+    "snippet": "NIH is pursuing high-level, experienced, and specialized scientific project management support. The Contractor must provide expert-level research program management, project planning, and coordination services at the request of the Contracting Officer's Representative (COR).",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_cA6asewhN7BqynI?Q_DL=4bqaUinECUsMaCy_cA6asewhN7BqynI_CGC_SN2EYH7I9qEXdbv&Q_CHL=email",
+    "survey_id": "SV_cA6asewhN7BqynI",
+    "due_date": "2026-11-12",
+    "agency": "HHS / NIH",
+    "slug": "hhs-nih-scientific-program-management-support",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a1ab5f836f0ce40",
+    "subject": "Reminder: FEC - Retirement and Benefits Software - MRAS",
+    "sender": "rfi@research.gsa.gov",
+    "date_retrieved": "2026-11-06T00:00:00Z",
+    "date": "2026-11-05T11:01:46Z",
+    "snippet": "Commercial software solution that enables HR specialists to efficiently produce accurate retirement estimates, SCD calculations, retirement eligibility determinations, death-in-service benefits, leave balances, FEHB and FEGLI coverage, disability retirement, SS earnings estimates, annuity estimates.",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3xFYzp0sHhDjw6W?Q_DL=gso7HSX5pwVhmxz_3xFYzp0sHhDjw6W_CGC_QcNpFWi0W6MyBJW&Q_RD=EMD_gULPDNi20VT2sit&Q_CHL=email",
+    "survey_id": "SV_3xFYzp0sHhDjw6W",
+    "due_date": "2026-11-13",
+    "agency": "FEC",
+    "is_reminder": true,
+    "slug": "fec-retirement-and-benefits-software",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
