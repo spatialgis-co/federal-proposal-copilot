@@ -1,0 +1,27 @@
+[
+  {
+    "thread_id": "1a1b214362b22b1f",
+    "message_id": "1a1b214362b22b1f",
+    "subject": "DHS - Support Services - MRAS",
+    "date": "2026-11-06T18:17:05Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_3mUDWWUVmnL7kPA",
+    "survey_id": "SV_3mUDWWUVmnL7kPA",
+    "due_date": "2026-11-13",
+    "description": "FPS AD has identified a need for acquisition support services, data analytic support services and administrative professional support services to assist in the execution of contracting actions, management and administrative tasks and evaluating the effectiveness of programs.",
+    "agency": "DHS / Federal Protective Service (FPS)"
+  },
+  {
+    "thread_id": "1a1b084d40b9bf89",
+    "message_id": "1a1b084d40b9bf89",
+    "subject": "Reminder: TREAS - IRS - Entps. Performance Testing Tool Software Support - MRAS",
+    "date": "2026-11-06T11:00:33Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_6nhPO6uNOjGnDTM",
+    "survey_id": "SV_6nhPO6uNOjGnDTM",
+    "due_date": "2026-11-12",
+    "description": "Acquisition of software licenses and support services for an enterprise performance testing tool, a performance testing solution utilized by Internal Revenue Service (IRS) to ensure the reliability, scalability, and overall performance of mission-critical applications.",
+    "agency": "TREAS / Internal Revenue Service (IRS)",
+    "is_reminder": true
+  }
+]
