@@ -1,0 +1,15 @@
+[
+  {
+    "thread_id": "1a1b77e6a447a173",
+    "subject": "DOT - VISTA/SPIN (Vehicle Importation Safety Tracking) - MRAS",
+    "date": "2026-11-07T19:31:03Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_81yzAJzmofIBtem?Q_DL=2jMyojEn3HDH4RW_81yzAJzmofIBtem_CGC_Yw5RoceSJwhzLFg&Q_CHL=email",
+    "qualtrics_id": "SV_81yzAJzmofIBtem",
+    "due_date": "2026-11-20",
+    "agency": "DOT",
+    "program": "VISTA/SPIN (Vehicle Importation Safety Tracking)",
+    "description": "VISTA and SPIN are hybrid digital products built on Salesforce SaaS platform and AWS for the NHTSA Office of Vehicle Safety Compliance (OVSC), enabling oversight of vehicle importations and Odometer Fraud.",
+    "slug": "dot-vista-spin-vehicle-importation-safety-tracking"
+  }
+]

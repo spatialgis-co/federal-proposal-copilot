@@ -265,3 +265,5 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 ## 2026-11-06 00:00 — mras-daily-triage — processed 2 new, submitted 0, rejected 0, blocked 0 (DECLINE: HHS NIH Scientific Program Mgmt no-GIS-component, FEC Retirement Benefits Software HR-software-decline; both outside SpatialGIS portfolio) → working/mras-inbox/daily-queue-2026-11-06.md
 
 ## 2026-11-07 00:00 — mras-daily-triage — processed 2 new, submitted 0, rejected 0, blocked 0 (DECLINE: DHS FPS Support Services no-GIS-component; TREAS IRS Performance Testing Tool Software product-license-no-fit) → working/mras-inbox/daily-queue-2026-11-07.md
+
+## 2026-11-08 00:00 — mras-daily-triage — processed 1 new, submitted 0, rejected 0, blocked 0 (MAYBE: DOT NHTSA VISTA/SPIN Salesforce+AWS no-clear-GIS-angle needs-human-review) → working/mras-inbox/daily-queue-2026-11-08.md
