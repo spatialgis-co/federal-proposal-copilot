@@ -1,0 +1,83 @@
+[
+  {
+    "thread_id": "1a1c1fedc9b38916",
+    "subject": "Response Received: HHS CDC - DNPAO Technical Assistance  - MRAS",
+    "date": "2026-11-09T20:27:47Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "qualtrics_id": "SV_efUsePnDoPlRAGy",
+    "due_date": "2026-11-10",
+    "agency": "HHS/CDC",
+    "program": "DNPAO Technical Assistance",
+    "description": "Division of Nutrition, Physical Activity, and Obesity (DNPAO). CDC seeks sources to provide scientific and technical assistance, subject-matter expertise, capacity building, training, communications, and program support for nutrition, physical activity, obesity prevention, breastfeeding, healthy weight, and Tribal health initiatives.",
+    "email_type": "response_confirmation",
+    "response_id": "R_G3NvgnvvSPsSxe9"
+  },
+  {
+    "thread_id": "1a1c1fde4226245a",
+    "subject": "Response Received: HHS CDC - DNAPO Epidemiology and Surveillance Support Services - MRAS",
+    "date": "2026-11-09T20:26:44Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "qualtrics_id": "SV_esXRmrCNCmXd3Bs",
+    "due_date": "2026-11-10",
+    "agency": "HHS/CDC",
+    "program": "DNAPO Epidemiology and Surveillance Support Services",
+    "description": "Division of Nutrition, Physical Activity, and Obesity (DNPAO). CDC seeks sources to provide scientific and technical consulting support for epidemiology, surveillance, data analysis and modernization, statistical modeling, evidence reviews, program evaluation, and reporting related to nutrition, physical activity, obesity, and chronic disease prevention.",
+    "email_type": "response_confirmation",
+    "response_id": "R_GhDO0iHbN9qfqKS"
+  },
+  {
+    "thread_id": "1a1c1fd1250f3f33",
+    "subject": "Response Received: HHS CDC - Technical Assistance for Program Implementation - MRAS",
+    "date": "2026-11-09T20:25:49Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": null,
+    "qualtrics_id": "SV_2o6pwPXXOkXRrrE",
+    "due_date": "2026-11-10",
+    "agency": "HHS/CDC",
+    "program": "Technical Assistance for Program Implementation",
+    "description": "CDC seeks sources to provide public-health technical assistance supporting implementation science, program evaluation, Tribal engagement, capacity building, health education, scientific messaging, and translation of evidence-based nutrition, physical activity, and obesity-prevention strategies to support program planning, execution, and evaluation.",
+    "email_type": "response_confirmation",
+    "response_id": "R_GqKgX5YeJRcps8m"
+  },
+  {
+    "thread_id": "1a1bff8c042a78db",
+    "subject": "Reminder: HHS CDC - Technical Assistance for Program Implementation - MRAS",
+    "date": "2026-11-09T11:01:35Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_2o6pwPXXOkXRrrE?Q_DL=baoUEZT7kioYlXR_2o6pwPXXOkXRrrE_CGC_Im51Z2bqexs4TGn&Q_RD=EMD_3KuYiXH21JM7Dhh&Q_CHL=email",
+    "qualtrics_id": "SV_2o6pwPXXOkXRrrE",
+    "due_date": "2026-11-10",
+    "agency": "HHS/CDC",
+    "program": "Technical Assistance for Program Implementation",
+    "description": "CDC seeks sources to provide public-health technical assistance supporting implementation science, program evaluation, Tribal engagement, capacity building, health education, scientific messaging, and translation of evidence-based nutrition, physical activity, and obesity-prevention strategies to support program planning, execution, and evaluation.",
+    "email_type": "reminder"
+  },
+  {
+    "thread_id": "1a1bff7bf07f4df9",
+    "subject": "Reminder: HHS CDC - DNAPO Epidemiology and Surveillance Support Services - MRAS",
+    "date": "2026-11-09T11:00:21Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_esXRmrCNCmXd3Bs?Q_DL=lu9irqbc5GCVB6t_esXRmrCNCmXd3Bs_CGC_xrlnzrVCibLdtLL&Q_RD=EMD_X04XIrYJwb4Mked&Q_CHL=email",
+    "qualtrics_id": "SV_esXRmrCNCmXd3Bs",
+    "due_date": "2026-11-10",
+    "agency": "HHS/CDC",
+    "program": "DNAPO Epidemiology and Surveillance Support Services",
+    "description": "Division of Nutrition, Physical Activity, and Obesity (DNPAO). CDC seeks sources to provide scientific and technical consulting support for epidemiology, surveillance, data analysis and modernization, statistical modeling, evidence reviews, program evaluation, and reporting related to nutrition, physical activity, obesity, and chronic disease prevention.",
+    "email_type": "reminder"
+  },
+  {
+    "thread_id": "1a1bff7a63d75e92",
+    "subject": "Reminder: HHS CDC - DNPAO Technical Assistance  - MRAS",
+    "date": "2026-11-09T11:00:19Z",
+    "sender": "rfi@research.gsa.gov",
+    "survey_url": "https://feedback.gsa.gov/jfe/form/SV_efUsePnDoPlRAGy?Q_DL=v2sCHaxpqzwux4S_efUsePnDoPlRAGy_CGC_45PsRfrsfTQXeet&Q_RD=EMD_NygQg0F7AF1PouJ&Q_CHL=email",
+    "qualtrics_id": "SV_efUsePnDoPlRAGy",
+    "due_date": "2026-11-10",
+    "agency": "HHS/CDC",
+    "program": "DNPAO Technical Assistance",
+    "description": "Division of Nutrition, Physical Activity, and Obesity (DNPAO). CDC seeks sources to provide scientific and technical assistance, subject-matter expertise, capacity building, training, communications, and program support for nutrition, physical activity, obesity prevention, breastfeeding, healthy weight, and Tribal health initiatives.",
+    "email_type": "reminder"
+  }
+]
