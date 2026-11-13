@@ -1,0 +1,16 @@
+{
+  "opportunity_id": "hhs-acf-school-readiness-grant-support-srgs-project",
+  "slug": "hhs-acf-school-readiness-grant-support-srgs-project",
+  "submitted": true,
+  "submitted_date": "2026-11-12",
+  "submitted_by": "kendrick-manual",
+  "agency": "HHS / Administration for Children and Families (ACF)",
+  "subject": "Response Received: HHS ACF - School Readiness Grant Support (SRGS) Project - MRAS",
+  "survey_id": "SV_2agYzGZcnLtqeHA",
+  "response_id": "R_G0Ietq8INVjRYzK",
+  "due_date": "2026-11-23",
+  "sin_submitted": "541611",
+  "naics_submitted": ["541611"],
+  "sin_compliance": "WARNING — SIN 541611 NOT HELD",
+  "notes": "Manually submitted by Kendrick on 2026-11-12. Confirmation received 2026-11-12T22:25:20Z. COMPLIANCE FLAG: SIN 541611 was submitted but SpatialGIS's MAS contract 47QTCA24D00DS only carries SIN 54151S. NAICS 541611 is not in SpatialGIS's SAM portfolio. Requirement: HHS ACF SRGS — national grants management and audit support for OGM and Office of Head Start. 8 short-answer technical questions answered. Q14 response explicitly references SIN 541611 ceiling rates. Q2 (similar/previous experience): No. Proposal intent: Yes. Teaming partner for GMS specialist seats referenced. Response includes detailed pricing and QA approach. Needs Kendrick review for SIN compliance."
+}

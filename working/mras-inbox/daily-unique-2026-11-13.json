@@ -1,0 +1,54 @@
+[
+  {
+    "thread_id": "1a1d1dff7de0e4c8",
+    "subject": "Response Received: VA - Equipment Tracking - MRAS",
+    "date": "2026-11-12T22:27:57Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "is_confirmation": true,
+    "description": "VHA James H. Quillen VA Medical Center needs to accurately and efficiently track equipment/property throughout main campus and CBOCs in AOR.",
+    "due_date": "2026-11-30",
+    "survey_id": "SV_8uYiYbaKomKYih0",
+    "response_id": "R_Ga6LUlhagN0v86B",
+    "slug": "va-equipment-tracking"
+  },
+  {
+    "thread_id": "1a1d1df2f506617f",
+    "subject": "Response Received: DHS CBP - Energy & Envi Support Services - MRAS",
+    "date": "2026-11-12T22:27:07Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "is_confirmation": true,
+    "description": "Technical, analytical, program management, and administrative support to the Energy and Environmental PMO, including planning, reviews, data collection, reporting, quality control, and stakeholder engagement.",
+    "due_date": "2026-11-23",
+    "survey_id": "SV_bE2WFK0Yygt1TmK",
+    "response_id": "R_GKZ15eH9Sszjdss",
+    "slug": "dhs-cbp-energy-envi-support-services"
+  },
+  {
+    "thread_id": "1a1d1de5e736997f",
+    "subject": "Response Received: DHS CBP - Prof Tech & Oper Supp Service  - MRAS",
+    "date": "2026-11-12T22:26:13Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "is_confirmation": true,
+    "description": "Support for project/construction management, facility operations and repairs, acquisitions, program controls, finance, communications, planning, administration, and cost analysis throughout the facility lifecycle.",
+    "due_date": "2026-11-23",
+    "survey_id": "SV_79Y5a0N9lxKEjgW",
+    "response_id": "R_GuzMUZb2NVus2mB",
+    "slug": "dhs-cbp-prof-tech-oper-supp-service"
+  },
+  {
+    "thread_id": "1a1d1dd986cc3310",
+    "subject": "Response Received: HHS ACF - School Readiness Grant Support (SRGS) Project - MRAS",
+    "date": "2026-11-12T22:25:20Z",
+    "sender": "rfi@research.gsa.gov",
+    "is_reminder": false,
+    "is_confirmation": true,
+    "description": "SRGS Project provides national grants management and audit support services on behalf of the Office of Grants Management and the Office of Head Start.",
+    "due_date": "2026-11-23",
+    "survey_id": "SV_2agYzGZcnLtqeHA",
+    "response_id": "R_G0Ietq8INVjRYzK",
+    "slug": "hhs-acf-school-readiness-grant-support-srgs-project"
+  }
+]

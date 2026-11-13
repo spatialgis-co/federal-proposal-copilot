@@ -1,0 +1,16 @@
+{
+  "opportunity_id": "va-equipment-tracking",
+  "slug": "va-equipment-tracking",
+  "submitted": true,
+  "submitted_date": "2026-11-12",
+  "submitted_by": "kendrick-manual",
+  "agency": "Department of Veterans Affairs",
+  "subject": "Response Received: VA - Equipment Tracking - MRAS",
+  "survey_id": "SV_8uYiYbaKomKYih0",
+  "response_id": "R_Ga6LUlhagN0v86B",
+  "due_date": "2026-11-30",
+  "sin_submitted": "54151S",
+  "naics_submitted": ["541519"],
+  "sin_compliance": "OK",
+  "notes": "Manually submitted by Kendrick on 2026-11-12. Confirmation received 2026-11-12T22:27:57Z. SIN 54151S is correct — SpatialGIS holds this SIN on MAS 47QTCA24D00DS. NAICS 541519 is in SpatialGIS's SAM portfolio. Q10: Does company have capability to perform all required services? Yes. Similar/previous experience? No. Sufficient info to respond to RFP? No. Would submit proposal if issued as RFQ? Yes. 30-50% subcontracting expected. No pipeline capability statement on file."
+}

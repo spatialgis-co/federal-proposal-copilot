@@ -272,3 +272,4 @@ Newest entries at the bottom. Read this file (or run `/status`) when returning t
 
 ## 2026-11-10 00:00 — mras-daily-triage — processed 6 emails (3 Reminders + 3 Response Received for HHS CDC trio), 0 new unique (all 3 previously submitted manually per 2026-11-09 audit escalation), retrospectively created 3 fill reports, 0 submitted today, 0 blocked → working/mras-inbox/daily-queue-2026-11-10.md
 ## 2026-11-11 00:00 — mras-daily-triage — processed 7 new (all POC confirmation emails, 0 new surveys), submitted 0, blocked 0 → working/mras-inbox/daily-queue-2026-11-11.md
+## 2026-11-13 00:00 — mras-daily-triage — processed 4 new (all Response Received confirmations for manual submissions, 0 new surveys), submitted 0, blocked 0, ⚠️ SIN 541611 compliance flag on 3 of 4 items → working/mras-inbox/daily-queue-2026-11-13.md

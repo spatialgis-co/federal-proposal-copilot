@@ -1,0 +1,16 @@
+{
+  "opportunity_id": "dhs-cbp-energy-envi-support-services",
+  "slug": "dhs-cbp-energy-envi-support-services",
+  "submitted": true,
+  "submitted_date": "2026-11-12",
+  "submitted_by": "kendrick-manual",
+  "agency": "DHS / United States Customs and Border Protection (CBP)",
+  "subject": "Response Received: DHS CBP - Energy & Envi Support Services - MRAS",
+  "survey_id": "SV_bE2WFK0Yygt1TmK",
+  "response_id": "R_GKZ15eH9Sszjdss",
+  "due_date": "2026-11-23",
+  "sin_submitted": "541611",
+  "naics_submitted": ["541690", "541611"],
+  "sin_compliance": "WARNING — SIN 541611 NOT HELD",
+  "notes": "Manually submitted by Kendrick on 2026-11-12. Confirmation received 2026-11-12T22:27:07Z. COMPLIANCE FLAG: SIN 541611 (Management and Financial Advisory) was submitted but SpatialGIS's MAS contract 47QTCA24D00DS only carries SIN 54151S. NAICS 541690 and 541611 are not in SpatialGIS's SAM-registered NAICS portfolio (holds: 541370, 541511, 541512, 541519). The pipeline would have BLOCKED this for SIN not held. Requirement: energy/environmental PMO support — program management, planning, data collection, reporting, stakeholder engagement. Q10 technical questions: several No answers (energy data, energy management, environmental planning). Needs Kendrick review."
+}

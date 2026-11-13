@@ -1,0 +1,16 @@
+{
+  "opportunity_id": "dhs-cbp-prof-tech-oper-supp-service",
+  "slug": "dhs-cbp-prof-tech-oper-supp-service",
+  "submitted": true,
+  "submitted_date": "2026-11-12",
+  "submitted_by": "kendrick-manual",
+  "agency": "DHS / United States Customs and Border Protection (CBP)",
+  "subject": "Response Received: DHS CBP - Prof Tech & Oper Supp Service  - MRAS",
+  "survey_id": "SV_79Y5a0N9lxKEjgW",
+  "response_id": "R_GuzMUZb2NVus2mB",
+  "due_date": "2026-11-23",
+  "sin_submitted": "541611",
+  "naics_submitted": ["541611"],
+  "sin_compliance": "WARNING — SIN 541611 NOT HELD",
+  "notes": "Manually submitted by Kendrick on 2026-11-12. Confirmation received 2026-11-12T22:26:13Z. COMPLIANCE FLAG: SIN 541611 was submitted but SpatialGIS's MAS contract 47QTCA24D00DS only carries SIN 54151S. NAICS 541611 is not in SpatialGIS's SAM portfolio. Requirement: CBP PTOSS — facility project/construction management, operations/maintenance, acquisitions support, program controls, finance, communications, planning, administration, cost analysis. Q10: several No answers (construction mgmt, facility ops, acquisitions support, budget formulation, capital planning). Needs Kendrick review."
+}
