@@ -1,0 +1,29 @@
+[
+  {
+    "thread_id": "1a1ff92029c3c08f",
+    "subject": "HHS CMS - Rapid Cycle Innovation Program 2.0 - MRAS",
+    "date": "2026-11-22",
+    "message_id": "1a1ff92029c3c08f",
+    "slug": "hhs-cms-rapid-cycle-innovation-program-2-0",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a1ff8fb0a058da9",
+    "subject": "HHS CMS - ICAM Products, Tools & Services (IPTS) - MRAS",
+    "date": "2026-11-22",
+    "message_id": "1a1ff8fb0a058da9",
+    "slug": "hhs-cms-icam-products-tools-services-ipts",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  },
+  {
+    "thread_id": "1a1feca22036ac0f",
+    "subject": "GSA OCAS - IBM FileNet - MRAS",
+    "date": "2026-11-22",
+    "message_id": "1a1feca22036ac0f",
+    "slug": "gsa-ocas-ibm-filenet",
+    "triage": "DECLINE",
+    "triage_reason": "No capability keyword match \u2014 conservative decline"
+  }
+]
